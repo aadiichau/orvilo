@@ -1,0 +1,15 @@
+{
+  "name": "packaging",
+  "version": "26.3",
+  "license": "Apache-2.0 OR BSD-2-Clause",
+  "home": "",
+  "project_urls": [
+    "Documentation, https://packaging.pypa.io/",
+    "Source, https://github.com/pypa/packaging"
+  ],
+  "files": [
+    "packaging-26.3.dist-info_licenses_LICENSE",
+    "packaging-26.3.dist-info_licenses_LICENSE.APACHE",
+    "packaging-26.3.dist-info_licenses_LICENSE.BSD"
+  ]
+}

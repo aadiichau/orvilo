@@ -1,0 +1,12 @@
+{
+  "name": "certifi",
+  "version": "2026.7.22",
+  "license": "MPL-2.0",
+  "home": "https://github.com/certifi/python-certifi",
+  "project_urls": [
+    "Source, https://github.com/certifi/python-certifi"
+  ],
+  "files": [
+    "certifi-2026.7.22.dist-info_licenses_LICENSE"
+  ]
+}

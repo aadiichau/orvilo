@@ -1,0 +1,17 @@
+{
+  "name": "pytest",
+  "version": "9.1.1",
+  "license": "MIT",
+  "home": "",
+  "project_urls": [
+    "Changelog, https://docs.pytest.org/en/stable/changelog.html",
+    "Contact, https://docs.pytest.org/en/stable/contact.html",
+    "Funding, https://docs.pytest.org/en/stable/sponsor.html",
+    "Homepage, https://docs.pytest.org/en/latest/",
+    "Source, https://github.com/pytest-dev/pytest",
+    "Tracker, https://github.com/pytest-dev/pytest/issues"
+  ],
+  "files": [
+    "pytest-9.1.1.dist-info_licenses_LICENSE"
+  ]
+}

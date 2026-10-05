@@ -1,0 +1,64 @@
+name: Report a problem
+description: Help us reproduce a download or app problem.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Orvilo. Share a public example if possible.
+        Never include cookies, passwords, authorization headers, or private video links.
+  - type: input
+    id: version
+    attributes:
+      label: Orvilo version
+      description: The release version and whether you use the portable app, installer, or source.
+    validations:
+      required: true
+  - type: dropdown
+    id: windows
+    attributes:
+      label: Windows version
+      options:
+        - Windows 11
+        - Windows 10
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: site
+    attributes:
+      label: Website and public example link
+      description: If the problem is unrelated to a website, leave this empty.
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Include selected quality, audio format, clip range, and relevant options.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened?
+      description: Copy the error message shown in Orvilo. A screenshot is helpful for interface problems.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log excerpt
+      description: Optional. Logs are in %LOCALAPPDATA%\Orvilo\logs. Review your excerpt and remove personal information before posting.
+      render: text
+  - type: checkboxes
+    id: checked
+    attributes:
+      label: Before submitting
+      options:
+        - label: I checked existing issues for this problem.
+        - label: I tried updating yt-dlp in Settings and restarting Orvilo.

@@ -1,0 +1,78 @@
+name: Windows checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: windows-checks-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  tests:
+    name: Python 3.12 / Windows
+    runs-on: windows-latest
+    timeout-minutes: 30
+    defaults:
+      run:
+        shell: pwsh
+    env:
+      QT_QPA_PLATFORM: offscreen
+      DENO_NO_UPDATE_CHECK: "1"
+      PYTHONUTF8: "1"
+      PIP_DISABLE_PIP_VERSION_CHECK: "1"
+    steps:
+      - name: Check out source
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.12"
+          architecture: x64
+          cache: pip
+          cache-dependency-path: |
+            requirements.txt
+            requirements-dev.txt
+      - name: Install app, test dependencies, and verified runtimes
+        run: |
+          python -m venv .venv
+          if ($LASTEXITCODE -ne 0) { throw 'Could not create the Python environment.' }
+          ./setup.ps1
+          & ./.venv/Scripts/python.exe -m pip install -r requirements-dev.txt
+          if ($LASTEXITCODE -ne 0) { throw 'Test dependency installation failed.' }
+          foreach ($name in @('ffmpeg.exe', 'ffprobe.exe', 'deno.exe')) {
+            if (-not (Test-Path -LiteralPath (Join-Path 'assets/runtime' $name))) {
+              throw "Required runtime is missing: $name"
+            }
+          }
+      - name: Run unit, queue, UI, and local media integration tests
+        run: |
+          & ./.venv/Scripts/python.exe -m pytest --junitxml=reports/tests.xml
+          if ($LASTEXITCODE -ne 0) { throw 'Tests failed.' }
+          [xml]$report = Get-Content -LiteralPath reports/tests.xml -Raw
+          $skipped = $report.SelectNodes('//testcase/skipped').Count
+          if ($skipped -ne 0) { throw "$skipped tests were skipped; all Windows media checks must run." }
+      - name: Render both themes
+        run: |
+          & ./.venv/Scripts/python.exe main.py --smoke-test reports/interface
+          if ($LASTEXITCODE -ne 0) { throw 'Interface rendering failed.' }
+          $screenshots = @(Get-ChildItem -LiteralPath reports/interface -Filter '*.png')
+          if ($screenshots.Count -ne 8) { throw 'Expected eight interface screenshots.' }
+      - name: Upload test report and interface previews
+        if: always()
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: windows-checks-${{ github.run_number }}
+          path: |
+            reports/tests.xml
+            reports/interface/*.png
+            reports/interface/verification-error.txt
+          if-no-files-found: warn
+          retention-days: 14

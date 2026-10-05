@@ -1,0 +1,14 @@
+{
+  "name": "yt-dlp-ejs",
+  "version": "0.8.0",
+  "license": "Unlicense AND MIT AND ISC",
+  "home": "",
+  "project_urls": [
+    "Documentation, https://github.com/yt-dlp/ejs#readme",
+    "Issues, https://github.com/yt-dlp/ejs/issues",
+    "Source, https://github.com/yt-dlp/ejs"
+  ],
+  "files": [
+    "yt_dlp_ejs-0.8.0.dist-info_licenses_LICENSE"
+  ]
+}

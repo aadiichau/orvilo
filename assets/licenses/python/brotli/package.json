@@ -1,0 +1,10 @@
+{
+  "name": "brotli",
+  "version": "1.2.0",
+  "license": "MIT",
+  "home": "https://github.com/google/brotli",
+  "project_urls": [],
+  "files": [
+    "brotli-1.2.0.dist-info_licenses_LICENSE"
+  ]
+}

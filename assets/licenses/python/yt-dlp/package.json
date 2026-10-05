@@ -1,0 +1,15 @@
+{
+  "name": "yt-dlp",
+  "version": "2026.8.19",
+  "license": "Unlicense",
+  "home": "",
+  "project_urls": [
+    "Documentation, https://github.com/yt-dlp/yt-dlp#readme",
+    "Repository, https://github.com/yt-dlp/yt-dlp",
+    "Tracker, https://github.com/yt-dlp/yt-dlp/issues",
+    "Funding, https://github.com/yt-dlp/yt-dlp/blob/master/Maintainers.md#maintainers"
+  ],
+  "files": [
+    "yt_dlp-2026.8.19.dist-info_licenses_LICENSE"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "idna",
+  "version": "3.20",
+  "license": "BSD-3-Clause",
+  "home": "",
+  "project_urls": [
+    "Changelog, https://github.com/kjd/idna/blob/master/HISTORY.md",
+    "Issue tracker, https://github.com/kjd/idna/issues",
+    "Source, https://github.com/kjd/idna"
+  ],
+  "files": [
+    "idna-3.20.dist-info_licenses_LICENSE.md"
+  ]
+}

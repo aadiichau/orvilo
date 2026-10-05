@@ -1,0 +1,130 @@
+name: Build Windows packages
+
+on:
+  workflow_dispatch:
+    inputs:
+      installer:
+        description: Also build the installer when Inno Setup is available
+        required: true
+        default: true
+        type: boolean
+
+# This workflow produces reviewable artifacts. It does not publish a release.
+permissions:
+  contents: read
+
+concurrency:
+  group: windows-build-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  package:
+    runs-on: windows-latest
+    timeout-minutes: 45
+    defaults:
+      run:
+        shell: pwsh
+    env:
+      QT_QPA_PLATFORM: offscreen
+      DENO_NO_UPDATE_CHECK: "1"
+      PYTHONUTF8: "1"
+      PIP_DISABLE_PIP_VERSION_CHECK: "1"
+      BUILD_INSTALLER: ${{ inputs.installer }}
+    steps:
+      - name: Check out source
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.12"
+          architecture: x64
+          cache: pip
+          cache-dependency-path: |
+            requirements.txt
+            requirements-dev.txt
+      - name: Install app and verified runtimes
+        run: |
+          python -m venv .venv
+          if ($LASTEXITCODE -ne 0) { throw 'Could not create the Python environment.' }
+          ./setup.ps1
+          & ./.venv/Scripts/python.exe -m pip install -r requirements-dev.txt
+          if ($LASTEXITCODE -ne 0) { throw 'Test dependency installation failed.' }
+      - name: Test before packaging
+        run: |
+          & ./.venv/Scripts/python.exe -m pytest --junitxml=reports/tests.xml
+          if ($LASTEXITCODE -ne 0) { throw 'Tests failed.' }
+          [xml]$report = Get-Content -LiteralPath reports/tests.xml -Raw
+          if ($report.SelectNodes('//testcase/skipped').Count -ne 0) {
+            throw 'Tests were skipped; runtime installation must complete before packaging.'
+          }
+      - name: Build portable executable and optional installer
+        run: |
+          $compiler = Get-Command ISCC.exe -ErrorAction SilentlyContinue
+          $innoPath = Join-Path ${env:ProgramFiles(x86)} 'Inno Setup 6/ISCC.exe'
+          $hasInstallerCompiler = [bool]$compiler -or (Test-Path -LiteralPath $innoPath)
+          if ($env:BUILD_INSTALLER -eq 'true' -and $hasInstallerCompiler) {
+            ./build.ps1 -Installer
+          } else {
+            ./build.ps1
+            if ($env:BUILD_INSTALLER -eq 'true') {
+              Write-Warning 'Inno Setup is not installed on this runner. The portable executable was built successfully.'
+            }
+          }
+      - name: Verify the actual packaged executable
+        run: |
+          $exe = (Resolve-Path -LiteralPath dist/Orvilo.exe).Path
+          foreach ($mode in @('smoke-test', 'verify-runtime')) {
+            $destination = Join-Path $env:RUNNER_TEMP "orvilo-$mode"
+            $arguments = "--$mode `"$destination`""
+            if ($mode -eq 'verify-runtime') {
+              $ffmpegDirectory = (Resolve-Path -LiteralPath assets/runtime).Path
+              $arguments += " --ffmpeg-path `"$ffmpegDirectory`""
+            }
+            $process = Start-Process -FilePath $exe -ArgumentList $arguments -WindowStyle Hidden -Wait -PassThru
+            if ($process.ExitCode -ne 0) {
+              $errorFile = Join-Path $destination 'verification-error.txt'
+              if (Test-Path -LiteralPath $errorFile) { Get-Content -LiteralPath $errorFile }
+              throw "Packaged $mode failed with exit code $($process.ExitCode)."
+            }
+          }
+          $runtime = Get-Content -LiteralPath (Join-Path $env:RUNNER_TEMP 'orvilo-verify-runtime/runtime-report.json') -Raw | ConvertFrom-Json
+          if (-not $runtime.passed -or $runtime.checks.Count -ne 7) {
+            throw 'The seven packaged media checks did not pass.'
+          }
+          $images = @(Get-ChildItem -LiteralPath (Join-Path $env:RUNNER_TEMP 'orvilo-smoke-test') -Filter '*.png')
+          if ($images.Count -ne 8) { throw 'The packaged interface did not render all eight pages.' }
+      - name: Record checksums and exact build dependencies
+        run: |
+          $lines = Get-ChildItem -LiteralPath dist -Filter '*.exe' | Sort-Object Name | ForEach-Object {
+            $hash = (Get-FileHash -LiteralPath $_.FullName -Algorithm SHA256).Hash.ToLowerInvariant()
+            "$hash  $($_.Name)"
+          }
+          $lines | Set-Content -LiteralPath dist/SHA256SUMS.txt -Encoding utf8
+          & ./.venv/Scripts/python.exe -m pip freeze | Set-Content -LiteralPath dist/build-dependencies.txt -Encoding utf8
+          if ($LASTEXITCODE -ne 0) { throw 'Could not record build dependencies.' }
+          Copy-Item -LiteralPath assets/runtime/versions.json -Destination dist/runtime-versions.json
+          Copy-Item -LiteralPath assets/THIRD_PARTY_NOTICES.md -Destination dist/THIRD_PARTY_NOTICES.md
+          Copy-Item -LiteralPath assets/licenses -Destination dist/licenses -Recurse
+      - name: Upload Windows packages for review
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: Orvilo-windows-x64-${{ github.run_number }}
+          path: dist/
+          if-no-files-found: error
+          compression-level: 0
+          retention-days: 30
+      - name: Upload verification evidence
+        if: always()
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: Orvilo-verification-${{ github.run_number }}
+          path: |
+            reports/tests.xml
+            ${{ runner.temp }}/orvilo-smoke-test/*.png
+            ${{ runner.temp }}/orvilo-smoke-test/verification-error.txt
+            ${{ runner.temp }}/orvilo-verify-runtime/runtime-report.json
+            ${{ runner.temp }}/orvilo-verify-runtime/verification-error.txt
+          if-no-files-found: warn
+          retention-days: 14

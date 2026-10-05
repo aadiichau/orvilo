@@ -1,0 +1,10 @@
+{
+  "name": "pefile",
+  "version": "2024.8.26",
+  "license": "MIT",
+  "home": "https://github.com/erocarrera/pefile",
+  "project_urls": [],
+  "files": [
+    "pefile-2024.8.26.dist-info_LICENSE"
+  ]
+}

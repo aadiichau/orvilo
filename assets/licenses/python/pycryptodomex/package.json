@@ -1,0 +1,13 @@
+{
+  "name": "pycryptodomex",
+  "version": "3.23.0",
+  "license": "BSD, Public Domain",
+  "home": "https://www.pycryptodome.org",
+  "project_urls": [
+    "Source, https://github.com/Legrandin/pycryptodome/",
+    "Changelog, https://www.pycryptodome.org/src/changelog"
+  ],
+  "files": [
+    "pycryptodomex-3.23.0.dist-info_LICENSE.rst"
+  ]
+}

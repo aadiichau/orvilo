@@ -1,0 +1,12 @@
+{
+  "name": "iniconfig",
+  "version": "2.3.0",
+  "license": "MIT",
+  "home": "",
+  "project_urls": [
+    "Homepage, https://github.com/pytest-dev/iniconfig"
+  ],
+  "files": [
+    "iniconfig-2.3.0.dist-info_licenses_LICENSE"
+  ]
+}

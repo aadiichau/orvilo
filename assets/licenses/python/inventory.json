@@ -1,0 +1,428 @@
+[
+  {
+    "name": "altgraph",
+    "version": "0.17.5",
+    "license": "MIT",
+    "home": "https://altgraph.readthedocs.io",
+    "project_urls": [
+      "Documentation, https://altgraph.readthedocs.io/en/latest/",
+      "Issue tracker, https://github.com/ronaldoussoren/altgraph/issues",
+      "Repository, https://github.com/ronaldoussoren/altgraph"
+    ],
+    "files": [
+      "altgraph-0.17.5.dist-info_LICENSE"
+    ]
+  },
+  {
+    "name": "brotli",
+    "version": "1.2.0",
+    "license": "MIT",
+    "home": "https://github.com/google/brotli",
+    "project_urls": [],
+    "files": [
+      "brotli-1.2.0.dist-info_licenses_LICENSE"
+    ]
+  },
+  {
+    "name": "certifi",
+    "version": "2026.7.22",
+    "license": "MPL-2.0",
+    "home": "https://github.com/certifi/python-certifi",
+    "project_urls": [
+      "Source, https://github.com/certifi/python-certifi"
+    ],
+    "files": [
+      "certifi-2026.7.22.dist-info_licenses_LICENSE"
+    ]
+  },
+  {
+    "name": "cffi",
+    "version": "2.1.1",
+    "license": "MIT-0",
+    "home": "",
+    "project_urls": [
+      "Documentation, https://cffi.readthedocs.io/",
+      "Changelog, https://cffi.readthedocs.io/en/latest/whatsnew.html",
+      "Download, https://github.com/python-cffi/cffi/releases",
+      "Contact, https://groups.google.com/forum/#!forum/python-cffi",
+      "Source Code, https://github.com/python-cffi/cffi",
+      "Issue Tracker, https://github.com/python-cffi/cffi/issues"
+    ],
+    "files": [
+      "cffi-2.1.1.dist-info_licenses_LICENSE"
+    ]
+  },
+  {
+    "name": "charset-normalizer",
+    "version": "3.5.2",
+    "license": "MIT",
+    "home": "",
+    "project_urls": [
+      "Changelog, https://github.com/jawah/charset_normalizer/blob/master/CHANGELOG.md",
+      "Documentation, https://charset-normalizer.readthedocs.io/",
+      "Code, https://github.com/jawah/charset_normalizer",
+      "Issue tracker, https://github.com/jawah/charset_normalizer/issues"
+    ],
+    "files": [
+      "charset_normalizer-3.5.2.dist-info_licenses_LICENSE"
+    ]
+  },
+  {
+    "name": "colorama",
+    "version": "0.4.6",
+    "license": "See license documents",
+    "home": "",
+    "project_urls": [
+      "Homepage, https://github.com/tartley/colorama"
+    ],
+    "files": [
+      "colorama-0.4.6.dist-info_licenses_LICENSE.txt"
+    ]
+  },
+  {
+    "name": "curl_cffi",
+    "version": "0.16.3",
+    "license": "MIT",
+    "home": "",
+    "project_urls": [
+      "repository, https://github.com/lexiforest/curl_cffi"
+    ],
+    "files": [
+      "curl_cffi-0.16.3.dist-info_licenses_LICENSE"
+    ]
+  },
+  {
+    "name": "idna",
+    "version": "3.20",
+    "license": "BSD-3-Clause",
+    "home": "",
+    "project_urls": [
+      "Changelog, https://github.com/kjd/idna/blob/master/HISTORY.md",
+      "Issue tracker, https://github.com/kjd/idna/issues",
+      "Source, https://github.com/kjd/idna"
+    ],
+    "files": [
+      "idna-3.20.dist-info_licenses_LICENSE.md"
+    ]
+  },
+  {
+    "name": "iniconfig",
+    "version": "2.3.0",
+    "license": "MIT",
+    "home": "",
+    "project_urls": [
+      "Homepage, https://github.com/pytest-dev/iniconfig"
+    ],
+    "files": [
+      "iniconfig-2.3.0.dist-info_licenses_LICENSE"
+    ]
+  },
+  {
+    "name": "mutagen",
+    "version": "1.48.1",
+    "license": "GPL-2.0-or-later",
+    "home": "",
+    "project_urls": [
+      "Homepage, https://mutagen.readthedocs.io",
+      "Repository, https://github.com/quodlibet/mutagen"
+    ],
+    "files": [
+      "mutagen-1.48.1.dist-info_licenses_COPYING"
+    ]
+  },
+  {
+    "name": "packaging",
+    "version": "26.3",
+    "license": "Apache-2.0 OR BSD-2-Clause",
+    "home": "",
+    "project_urls": [
+      "Documentation, https://packaging.pypa.io/",
+      "Source, https://github.com/pypa/packaging"
+    ],
+    "files": [
+      "packaging-26.3.dist-info_licenses_LICENSE",
+      "packaging-26.3.dist-info_licenses_LICENSE.APACHE",
+      "packaging-26.3.dist-info_licenses_LICENSE.BSD"
+    ]
+  },
+  {
+    "name": "pefile",
+    "version": "2024.8.26",
+    "license": "MIT",
+    "home": "https://github.com/erocarrera/pefile",
+    "project_urls": [],
+    "files": [
+      "pefile-2024.8.26.dist-info_LICENSE"
+    ]
+  },
+  {
+    "name": "pillow",
+    "version": "12.3.0",
+    "license": "MIT-CMU",
+    "home": "",
+    "project_urls": [
+      "Release notes, https://pillow.readthedocs.io/en/stable/releasenotes/index.html",
+      "Changelog, https://github.com/python-pillow/Pillow/releases",
+      "Documentation, https://pillow.readthedocs.io",
+      "Funding, https://tidelift.com/subscription/pkg/pypi-pillow?utm_source=pypi-pillow&utm_medium=pypi",
+      "Homepage, https://python-pillow.github.io",
+      "Mastodon, https://fosstodon.org/@pillow",
+      "Source, https://github.com/python-pillow/Pillow"
+    ],
+    "files": [
+      "pillow-12.3.0.dist-info_licenses_LICENSE"
+    ]
+  },
+  {
+    "name": "pluggy",
+    "version": "1.6.0",
+    "license": "MIT",
+    "home": "",
+    "project_urls": [],
+    "files": [
+      "pluggy-1.6.0.dist-info_licenses_LICENSE"
+    ]
+  },
+  {
+    "name": "psutil",
+    "version": "7.2.2",
+    "license": "BSD-3-Clause",
+    "home": "https://github.com/giampaolo/psutil",
+    "project_urls": [],
+    "files": [
+      "psutil-7.2.2.dist-info_LICENSE"
+    ]
+  },
+  {
+    "name": "pycparser",
+    "version": "3.0",
+    "license": "BSD-3-Clause",
+    "home": "",
+    "project_urls": [
+      "Homepage, https://github.com/eliben/pycparser"
+    ],
+    "files": [
+      "pycparser-3.0.dist-info_licenses_LICENSE"
+    ]
+  },
+  {
+    "name": "pycryptodomex",
+    "version": "3.23.0",
+    "license": "BSD, Public Domain",
+    "home": "https://www.pycryptodome.org",
+    "project_urls": [
+      "Source, https://github.com/Legrandin/pycryptodome/",
+      "Changelog, https://www.pycryptodome.org/src/changelog"
+    ],
+    "files": [
+      "pycryptodomex-3.23.0.dist-info_LICENSE.rst"
+    ]
+  },
+  {
+    "name": "Pygments",
+    "version": "2.21.0",
+    "license": "BSD-2-Clause",
+    "home": "",
+    "project_urls": [
+      "Homepage, https://pygments.org",
+      "Documentation, https://pygments.org/docs",
+      "Source, https://github.com/pygments/pygments",
+      "Bug Tracker, https://github.com/pygments/pygments/issues",
+      "Changelog, https://github.com/pygments/pygments/blob/master/CHANGES"
+    ],
+    "files": [
+      "pygments-2.21.0.dist-info_licenses_LICENSE"
+    ]
+  },
+  {
+    "name": "pyinstaller",
+    "version": "6.22.3",
+    "license": "GPLv2-or-later with a special exception which allows to use PyInstaller to build and distribute non-free programs (including commercial ones)",
+    "home": "",
+    "project_urls": [
+      "Homepage, https://pyinstaller.org",
+      "Documentation, https://pyinstaller.org",
+      "Source Code, https://github.com/pyinstaller/pyinstaller",
+      "Release Notes, https://pyinstaller.org/en/stable/CHANGES.html"
+    ],
+    "files": [
+      "pyinstaller-6.22.3.dist-info_licenses_COPYING.txt"
+    ]
+  },
+  {
+    "name": "pyinstaller-hooks-contrib",
+    "version": "2026.8",
+    "license": "See license documents",
+    "home": "https://github.com/pyinstaller/pyinstaller-hooks-contrib",
+    "project_urls": [],
+    "files": [
+      "pyinstaller_hooks_contrib-2026.8.dist-info_licenses_LICENSE"
+    ]
+  },
+  {
+    "name": "PySide6",
+    "version": "6.11.2",
+    "license": "LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only",
+    "home": "",
+    "project_urls": [
+      "Homepage, https://pyside.org",
+      "Documentation, https://doc.qt.io/qtforpython",
+      "Repository, https://code.qt.io/cgit/pyside/pyside-setup.git/",
+      "Changelog, https://code.qt.io/cgit/pyside/pyside-setup.git/tree/doc/changelogs",
+      "Tracker, https://qt-project.atlassian.net/browse/PYSIDE"
+    ],
+    "files": [
+      "pyside6-6.11.2.dist-info_licenses_LicenseRef-Qt-Commercial.txt"
+    ]
+  },
+  {
+    "name": "PySide6_Addons",
+    "version": "6.11.2",
+    "license": "LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only",
+    "home": "",
+    "project_urls": [
+      "Homepage, https://pyside.org",
+      "Documentation, https://doc.qt.io/qtforpython",
+      "Repository, https://code.qt.io/cgit/pyside/pyside-setup.git/",
+      "Changelog, https://code.qt.io/cgit/pyside/pyside-setup.git/tree/doc/changelogs",
+      "Tracker, https://qt-project.atlassian.net/browse/PYSIDE"
+    ],
+    "files": [
+      "pyside6_addons-6.11.2.dist-info_licenses_LicenseRef-Qt-Commercial.txt"
+    ]
+  },
+  {
+    "name": "PySide6_Essentials",
+    "version": "6.11.2",
+    "license": "LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only",
+    "home": "",
+    "project_urls": [
+      "Homepage, https://pyside.org",
+      "Documentation, https://doc.qt.io/qtforpython",
+      "Repository, https://code.qt.io/cgit/pyside/pyside-setup.git/",
+      "Changelog, https://code.qt.io/cgit/pyside/pyside-setup.git/tree/doc/changelogs",
+      "Tracker, https://qt-project.atlassian.net/browse/PYSIDE"
+    ],
+    "files": [
+      "pyside6_essentials-6.11.2.dist-info_licenses_LicenseRef-Qt-Commercial.txt"
+    ]
+  },
+  {
+    "name": "pytest",
+    "version": "9.1.1",
+    "license": "MIT",
+    "home": "",
+    "project_urls": [
+      "Changelog, https://docs.pytest.org/en/stable/changelog.html",
+      "Contact, https://docs.pytest.org/en/stable/contact.html",
+      "Funding, https://docs.pytest.org/en/stable/sponsor.html",
+      "Homepage, https://docs.pytest.org/en/latest/",
+      "Source, https://github.com/pytest-dev/pytest",
+      "Tracker, https://github.com/pytest-dev/pytest/issues"
+    ],
+    "files": [
+      "pytest-9.1.1.dist-info_licenses_LICENSE"
+    ]
+  },
+  {
+    "name": "pywin32-ctypes",
+    "version": "0.2.3",
+    "license": "BSD-3-Clause",
+    "home": "https://github.com/enthought/pywin32-ctypes",
+    "project_urls": [],
+    "files": [
+      "pywin32_ctypes-0.2.3.dist-info_LICENSE.txt"
+    ]
+  },
+  {
+    "name": "requests",
+    "version": "2.34.2",
+    "license": "Apache-2.0",
+    "home": "",
+    "project_urls": [
+      "Documentation, https://requests.readthedocs.io",
+      "Source, https://github.com/psf/requests"
+    ],
+    "files": [
+      "requests-2.34.2.dist-info_licenses_LICENSE",
+      "requests-2.34.2.dist-info_licenses_NOTICE"
+    ]
+  },
+  {
+    "name": "shiboken6",
+    "version": "6.11.2",
+    "license": "LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only",
+    "home": "",
+    "project_urls": [
+      "Homepage, https://pyside.org",
+      "Documentation, https://doc.qt.io/qtforpython",
+      "Repository, https://code.qt.io/cgit/pyside/pyside-setup.git/",
+      "Changelog, https://code.qt.io/cgit/pyside/pyside-setup.git/tree/doc/changelogs",
+      "Tracker, https://qt-project.atlassian.net/browse/PYSIDE"
+    ],
+    "files": [
+      "shiboken6-6.11.2.dist-info_licenses_LicenseRef-Qt-Commercial.txt"
+    ]
+  },
+  {
+    "name": "urllib3",
+    "version": "2.8.0",
+    "license": "MIT",
+    "home": "",
+    "project_urls": [
+      "Changelog, https://github.com/urllib3/urllib3/blob/main/CHANGES.rst",
+      "Documentation, https://urllib3.readthedocs.io",
+      "Code, https://github.com/urllib3/urllib3",
+      "Issue tracker, https://github.com/urllib3/urllib3/issues",
+      "Security policy, https://urllib3.readthedocs.io/en/latest/security.html"
+    ],
+    "files": [
+      "urllib3-2.8.0.dist-info_licenses_LICENSE.txt"
+    ]
+  },
+  {
+    "name": "websockets",
+    "version": "17.2",
+    "license": "BSD-3-Clause",
+    "home": "",
+    "project_urls": [
+      "Homepage, https://github.com/python-websockets/websockets",
+      "Changelog, https://websockets.readthedocs.io/en/stable/project/changelog.html",
+      "Documentation, https://websockets.readthedocs.io/",
+      "Funding, https://tidelift.com/subscription/pkg/pypi-websockets?utm_source=pypi-websockets&utm_medium=referral&utm_campaign=readme",
+      "Tracker, https://github.com/python-websockets/websockets/issues"
+    ],
+    "files": [
+      "websockets-17.2.dist-info_licenses_LICENSE"
+    ]
+  },
+  {
+    "name": "yt-dlp",
+    "version": "2026.8.19",
+    "license": "Unlicense",
+    "home": "",
+    "project_urls": [
+      "Documentation, https://github.com/yt-dlp/yt-dlp#readme",
+      "Repository, https://github.com/yt-dlp/yt-dlp",
+      "Tracker, https://github.com/yt-dlp/yt-dlp/issues",
+      "Funding, https://github.com/yt-dlp/yt-dlp/blob/master/Maintainers.md#maintainers"
+    ],
+    "files": [
+      "yt_dlp-2026.8.19.dist-info_licenses_LICENSE"
+    ]
+  },
+  {
+    "name": "yt-dlp-ejs",
+    "version": "0.8.0",
+    "license": "Unlicense AND MIT AND ISC",
+    "home": "",
+    "project_urls": [
+      "Documentation, https://github.com/yt-dlp/ejs#readme",
+      "Issues, https://github.com/yt-dlp/ejs/issues",
+      "Source, https://github.com/yt-dlp/ejs"
+    ],
+    "files": [
+      "yt_dlp_ejs-0.8.0.dist-info_licenses_LICENSE"
+    ]
+  }
+]

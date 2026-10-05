@@ -1,0 +1,15 @@
+{
+  "name": "charset-normalizer",
+  "version": "3.5.2",
+  "license": "MIT",
+  "home": "",
+  "project_urls": [
+    "Changelog, https://github.com/jawah/charset_normalizer/blob/master/CHANGELOG.md",
+    "Documentation, https://charset-normalizer.readthedocs.io/",
+    "Code, https://github.com/jawah/charset_normalizer",
+    "Issue tracker, https://github.com/jawah/charset_normalizer/issues"
+  ],
+  "files": [
+    "charset_normalizer-3.5.2.dist-info_licenses_LICENSE"
+  ]
+}

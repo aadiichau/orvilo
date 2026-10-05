@@ -1,0 +1,12 @@
+{
+  "name": "pycparser",
+  "version": "3.0",
+  "license": "BSD-3-Clause",
+  "home": "",
+  "project_urls": [
+    "Homepage, https://github.com/eliben/pycparser"
+  ],
+  "files": [
+    "pycparser-3.0.dist-info_licenses_LICENSE"
+  ]
+}

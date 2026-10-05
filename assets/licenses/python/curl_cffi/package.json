@@ -1,0 +1,12 @@
+{
+  "name": "curl_cffi",
+  "version": "0.16.3",
+  "license": "MIT",
+  "home": "",
+  "project_urls": [
+    "repository, https://github.com/lexiforest/curl_cffi"
+  ],
+  "files": [
+    "curl_cffi-0.16.3.dist-info_licenses_LICENSE"
+  ]
+}

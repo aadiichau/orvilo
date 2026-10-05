@@ -1,0 +1,16 @@
+{
+  "name": "Pygments",
+  "version": "2.21.0",
+  "license": "BSD-2-Clause",
+  "home": "",
+  "project_urls": [
+    "Homepage, https://pygments.org",
+    "Documentation, https://pygments.org/docs",
+    "Source, https://github.com/pygments/pygments",
+    "Bug Tracker, https://github.com/pygments/pygments/issues",
+    "Changelog, https://github.com/pygments/pygments/blob/master/CHANGES"
+  ],
+  "files": [
+    "pygments-2.21.0.dist-info_licenses_LICENSE"
+  ]
+}

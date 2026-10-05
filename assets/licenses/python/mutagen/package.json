@@ -1,0 +1,13 @@
+{
+  "name": "mutagen",
+  "version": "1.48.1",
+  "license": "GPL-2.0-or-later",
+  "home": "",
+  "project_urls": [
+    "Homepage, https://mutagen.readthedocs.io",
+    "Repository, https://github.com/quodlibet/mutagen"
+  ],
+  "files": [
+    "mutagen-1.48.1.dist-info_licenses_COPYING"
+  ]
+}
