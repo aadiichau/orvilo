@@ -1,0 +1,14 @@
+{
+  "name": "tower-service",
+  "version": "0.3.3",
+  "license": "MIT",
+  "authors": [
+    "Tower Maintainers <team@tower-rs.com>"
+  ],
+  "repository": "https://github.com/tower-rs/tower",
+  "source": "https://static.crates.io/crates/tower-service/tower-service-0.3.3.crate",
+  "sha256": "8df9b6e13f2d32c91b9bd719c00d1958837bc7dec474d94952798cc8e69eeec3",
+  "files": [
+    "LICENSE"
+  ]
+}

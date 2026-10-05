@@ -16,7 +16,7 @@ def friendly_error(error: BaseException | str) -> str:
         (("404", "has been removed", "video unavailable", "not found"), "This video is unavailable or has been removed."),
         (("429", "too many requests"), "The site is limiting requests. Wait a little, then retry with fewer parallel downloads."),
         (("403", "forbidden"), "The site refused access. Refresh the link, enable cookies, or update yt-dlp in Settings."),
-        (("ffmpeg", "ffprobe"), "FFmpeg is needed for this format. Run setup or choose its folder in Settings."),
+        (("ffmpeg", "ffprobe"), "FFmpeg is needed for this format. Open Settings and choose Set up FFmpeg, or select its existing folder."),
         (("javascript runtime", "js runtime", "challenge", "ejs"), "The site's JavaScript check could not finish. Update yt-dlp and check the Deno path in Settings."),
         (("requested format", "format is not available"), "That quality is unavailable. Choose Best or a lower quality."),
         (("no space", "disk full", "errno 28"), "There is not enough free space in the download folder."),

@@ -1,0 +1,15 @@
+{
+  "name": "rstest_macros",
+  "version": "0.22.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Michele d'Amico <michele.damico@gmail.com>"
+  ],
+  "repository": "https://github.com/la10736/rstest",
+  "source": "https://static.crates.io/crates/rstest_macros/rstest_macros-0.22.0.crate",
+  "sha256": "c5e1711e7d14f74b12a58411c542185ef7fb7f2e7f8ee6e2940a883628522b42",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

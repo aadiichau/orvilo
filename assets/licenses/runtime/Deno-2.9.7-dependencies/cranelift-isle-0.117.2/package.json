@@ -1,0 +1,19 @@
+{
+  "name": "cranelift-isle",
+  "version": "0.117.2",
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "authors": [
+    "The Cranelift Project Developers"
+  ],
+  "repository": "https://github.com/bytecodealliance/wasmtime/tree/main/cranelift/isle",
+  "source": "https://static.crates.io/crates/cranelift-isle/cranelift-isle-0.117.2.crate",
+  "sha256": "f900e0a3847d51eed0321f0777947fb852ccfce0da7fb070100357f69a2f37fc",
+  "files": [],
+  "upstream_commit": "398694a59e24d37acde915086a9be308ec51f626",
+  "supplemental_notices": [
+    {
+      "file": "upstream-cranelift_isle_LICENSE",
+      "source": "https://raw.githubusercontent.com/bytecodealliance/wasmtime/398694a59e24d37acde915086a9be308ec51f626/cranelift/isle/LICENSE"
+    }
+  ]
+}

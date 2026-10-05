@@ -1,0 +1,15 @@
+{
+  "name": "resolv-conf",
+  "version": "0.7.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "paul@colomiets.name"
+  ],
+  "repository": "http://github.com/tailhook/resolv-conf",
+  "source": "https://static.crates.io/crates/resolv-conf/resolv-conf-0.7.0.crate",
+  "sha256": "52e44394d2086d010551b14b53b1f24e31647570cd1deb0379e2c21b329aba00",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

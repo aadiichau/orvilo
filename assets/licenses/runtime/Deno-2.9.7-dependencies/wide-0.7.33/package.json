@@ -1,0 +1,14 @@
+{
+  "name": "wide",
+  "version": "0.7.33",
+  "license": "Zlib OR Apache-2.0 OR MIT",
+  "authors": [
+    "Lokathor <zefria@gmail.com>"
+  ],
+  "repository": "https://github.com/Lokathor/wide",
+  "source": "https://static.crates.io/crates/wide/wide-0.7.33.crate",
+  "sha256": "0ce5da8ecb62bcd8ec8b7ea19f69a51275e91299be594ea5cc6ef7819e16cd03",
+  "files": [
+    "LICENSE-ZLIB.md"
+  ]
+}

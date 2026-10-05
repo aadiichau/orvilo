@@ -1,0 +1,18 @@
+{
+  "name": "rand_chacha",
+  "version": "0.9.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The Rand Project Developers",
+    "The Rust Project Developers",
+    "The CryptoCorrosion Contributors"
+  ],
+  "repository": "https://github.com/rust-random/rand",
+  "source": "https://static.crates.io/crates/rand_chacha/rand_chacha-0.9.0.crate",
+  "sha256": "d3022b5f1df60f26e1ffddd6c66e8aa15de382ae63b3a0c1bfc0e4d3e3f325cb",
+  "files": [
+    "COPYRIGHT",
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

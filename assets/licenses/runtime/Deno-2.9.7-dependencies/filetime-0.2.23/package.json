@@ -1,0 +1,15 @@
+{
+  "name": "filetime",
+  "version": "0.2.23",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Alex Crichton <alex@alexcrichton.com>"
+  ],
+  "repository": "https://github.com/alexcrichton/filetime",
+  "source": "https://static.crates.io/crates/filetime/filetime-0.2.23.crate",
+  "sha256": "1ee447700ac8aa0b2f2bd7bc4462ad686ba06baa6727ac149a2d6277f0d240fd",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

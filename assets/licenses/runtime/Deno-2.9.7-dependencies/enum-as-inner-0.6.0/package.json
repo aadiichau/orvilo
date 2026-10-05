@@ -1,0 +1,16 @@
+{
+  "name": "enum-as-inner",
+  "version": "0.6.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Benjamin Fry <benjaminfry@me.com>"
+  ],
+  "repository": "https://github.com/bluejekyll/enum-as-inner",
+  "source": "https://static.crates.io/crates/enum-as-inner/enum-as-inner-0.6.0.crate",
+  "sha256": "5ffccbb6966c05b32ef8fbac435df276c4ae4d3dc55a8cd0eb9745e6c12f546a",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT",
+    "copyright.txt"
+  ]
+}

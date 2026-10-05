@@ -1,0 +1,14 @@
+{
+  "name": "swc_ecma_codegen",
+  "version": "20.0.2",
+  "license": "Apache-2.0",
+  "authors": [
+    "\uac15\ub3d9\uc724 <kdy1997.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/swc-project/swc.git",
+  "source": "https://static.crates.io/crates/swc_ecma_codegen/swc_ecma_codegen-20.0.2.crate",
+  "sha256": "ff2a6ee1ec49dda8dedeac54e4147b4e8b3f278d9bb34ab28983257a393d34ed",
+  "files": [],
+  "upstream_commit": "dc794548c75c63410b9f8f7ff32bb9b372f0668c",
+  "supplemental_notices": []
+}

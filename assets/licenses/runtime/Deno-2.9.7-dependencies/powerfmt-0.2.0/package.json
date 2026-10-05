@@ -1,0 +1,15 @@
+{
+  "name": "powerfmt",
+  "version": "0.2.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Jacob Pratt <jacob@jhpratt.dev>"
+  ],
+  "repository": "https://github.com/jhpratt/powerfmt",
+  "source": "https://static.crates.io/crates/powerfmt/powerfmt-0.2.0.crate",
+  "sha256": "439ee305def115ba05938db6eb1644ff94165c5ab5e9420d1c1bcedbba909391",
+  "files": [
+    "LICENSE-Apache",
+    "LICENSE-MIT"
+  ]
+}

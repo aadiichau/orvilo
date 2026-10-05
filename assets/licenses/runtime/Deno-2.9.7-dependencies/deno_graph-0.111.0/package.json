@@ -1,0 +1,14 @@
+{
+  "name": "deno_graph",
+  "version": "0.111.0",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/deno_graph",
+  "source": "https://static.crates.io/crates/deno_graph/deno_graph-0.111.0.crate",
+  "sha256": "74d39f55639b6bffe4e886d2ea33724606729d3ec9c8e05a48952a56c1cef961",
+  "files": [
+    "LICENSE"
+  ]
+}

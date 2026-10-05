@@ -1,0 +1,15 @@
+{
+  "name": "num",
+  "version": "0.4.2",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The Rust Project Developers"
+  ],
+  "repository": "https://github.com/rust-num/num",
+  "source": "https://static.crates.io/crates/num/num-0.4.2.crate",
+  "sha256": "3135b08af27d103b0a51f2ae0f8632117b7b185ccf931445affa8df530576a41",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

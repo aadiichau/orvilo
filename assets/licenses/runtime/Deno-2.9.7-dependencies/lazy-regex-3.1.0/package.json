@@ -1,0 +1,14 @@
+{
+  "name": "lazy-regex",
+  "version": "3.1.0",
+  "license": "MIT",
+  "authors": [
+    "Canop <cano.petrole@gmail.com>"
+  ],
+  "repository": "https://github.com/Canop/lazy-regex",
+  "source": "https://static.crates.io/crates/lazy-regex/lazy-regex-3.1.0.crate",
+  "sha256": "5d12be4595afdf58bd19e4a9f4e24187da2a66700786ff660a418e9059937a4c",
+  "files": [
+    "LICENSE"
+  ]
+}

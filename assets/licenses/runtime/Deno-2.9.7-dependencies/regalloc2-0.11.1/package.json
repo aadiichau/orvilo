@@ -1,0 +1,15 @@
+{
+  "name": "regalloc2",
+  "version": "0.11.1",
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "authors": [
+    "Chris Fallin <chris@cfallin.org>",
+    "Mozilla SpiderMonkey Developers"
+  ],
+  "repository": "https://github.com/bytecodealliance/regalloc2",
+  "source": "https://static.crates.io/crates/regalloc2/regalloc2-0.11.1.crate",
+  "sha256": "145c1c267e14f20fb0f88aa76a1c5ffec42d592c1d28b3cd9148ae35916158d3",
+  "files": [
+    "LICENSE"
+  ]
+}

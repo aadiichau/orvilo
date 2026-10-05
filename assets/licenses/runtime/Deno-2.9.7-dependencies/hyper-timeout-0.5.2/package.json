@@ -1,0 +1,15 @@
+{
+  "name": "hyper-timeout",
+  "version": "0.5.2",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Herman J. Radtke III <herman@hermanradtke.com>"
+  ],
+  "repository": "https://github.com/hjr3/hyper-timeout",
+  "source": "https://static.crates.io/crates/hyper-timeout/hyper-timeout-0.5.2.crate",
+  "sha256": "2b90d566bffbce6a75bd8b09a05aa8c2cb1fabb6cb348f8840c9e4c90a0d83b0",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

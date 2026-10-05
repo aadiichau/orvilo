@@ -1,0 +1,15 @@
+{
+  "name": "libsui",
+  "version": "0.16.4",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/sui",
+  "source": "https://static.crates.io/crates/libsui/libsui-0.16.4.crate",
+  "sha256": "3cd44dd0a322ec9fb05619e59067d1c767718238677369d9c5f004ea26a1184b",
+  "files": [
+    "LICENSE",
+    "LICENSE-editpe"
+  ]
+}

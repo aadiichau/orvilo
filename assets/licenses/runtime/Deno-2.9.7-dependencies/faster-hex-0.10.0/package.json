@@ -1,0 +1,14 @@
+{
+  "name": "faster-hex",
+  "version": "0.10.0",
+  "license": "MIT",
+  "authors": [
+    "zhangsoledad <787953403@qq.com>"
+  ],
+  "repository": "https://github.com/NervosFoundation/faster-hex",
+  "source": "https://static.crates.io/crates/faster-hex/faster-hex-0.10.0.crate",
+  "sha256": "7223ae2d2f179b803433d9c830478527e92b8117eab39460edae7f1614d9fb73",
+  "files": [
+    "LICENSE"
+  ]
+}

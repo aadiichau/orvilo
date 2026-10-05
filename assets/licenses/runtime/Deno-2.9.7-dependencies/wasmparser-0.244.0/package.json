@@ -1,0 +1,23 @@
+{
+  "name": "wasmparser",
+  "version": "0.244.0",
+  "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+  "authors": [
+    "Yury Delendik <ydelendik@mozilla.com>"
+  ],
+  "repository": "https://github.com/bytecodealliance/wasm-tools/tree/main/crates/wasmparser",
+  "source": "https://static.crates.io/crates/wasmparser/wasmparser-0.244.0.crate",
+  "sha256": "47b807c72e1bac69382b3a6fb3dbe8ea4c0ed87ff5629b8685ae6b9a611028fe",
+  "files": [],
+  "upstream_commit": "d4e317f22c3bace76cb3205003bcc34b4929037d",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE-MIT",
+      "source": "https://raw.githubusercontent.com/bytecodealliance/wasm-tools/d4e317f22c3bace76cb3205003bcc34b4929037d/LICENSE-MIT"
+    },
+    {
+      "file": "upstream-LICENSE-APACHE",
+      "source": "https://raw.githubusercontent.com/bytecodealliance/wasm-tools/d4e317f22c3bace76cb3205003bcc34b4929037d/LICENSE-APACHE"
+    }
+  ]
+}

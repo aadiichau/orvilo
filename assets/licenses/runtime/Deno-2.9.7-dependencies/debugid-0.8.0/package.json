@@ -1,0 +1,14 @@
+{
+  "name": "debugid",
+  "version": "0.8.0",
+  "license": "Apache-2.0",
+  "authors": [
+    "Sentry <hello@sentry.io>"
+  ],
+  "repository": "https://github.com/getsentry/rust-debugid",
+  "source": "https://static.crates.io/crates/debugid/debugid-0.8.0.crate",
+  "sha256": "bef552e6f588e446098f6ba40d89ac146c8c7b64aade83c051ee00bb5d2bc18d",
+  "files": [
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "webpki-root-certs",
+  "version": "0.26.6",
+  "license": "MPL-2.0",
+  "authors": [],
+  "repository": "https://github.com/rustls/webpki-roots",
+  "source": "https://static.crates.io/crates/webpki-root-certs/webpki-root-certs-0.26.6.crate",
+  "sha256": "e8c6dfa3ac045bc517de14c7b1384298de1dbd229d38e08e169d9ae8c170937c",
+  "files": [
+    "LICENSE"
+  ]
+}

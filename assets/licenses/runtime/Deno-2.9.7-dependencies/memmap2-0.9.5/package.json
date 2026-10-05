@@ -1,0 +1,16 @@
+{
+  "name": "memmap2",
+  "version": "0.9.5",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Dan Burkert <dan@danburkert.com>",
+    "Yevhenii Reizner <razrfalcon@gmail.com>"
+  ],
+  "repository": "https://github.com/RazrFalcon/memmap2-rs",
+  "source": "https://static.crates.io/crates/memmap2/memmap2-0.9.5.crate",
+  "sha256": "fd3f7eed9d3848f8b98834af67102b720745c4ec028fcd0aa0239277e7de374f",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

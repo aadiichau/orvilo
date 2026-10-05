@@ -1,0 +1,19 @@
+{
+  "name": "gpu-descriptor",
+  "version": "0.3.2",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Zakarum <zakarumych@ya.ru>"
+  ],
+  "repository": "https://github.com/zakarumych/gpu-descriptor",
+  "source": "https://static.crates.io/crates/gpu-descriptor/gpu-descriptor-0.3.2.crate",
+  "sha256": "b89c83349105e3732062a895becfc71a8f921bb71ecbbdd8ff99263e3b53a0ca",
+  "files": [],
+  "upstream_commit": "bb28b4e55b742e0ea3e7a0968e7ee6287ba0e06a",
+  "supplemental_notices": [
+    {
+      "file": "upstream-COPYING",
+      "source": "https://raw.githubusercontent.com/zakarumych/gpu-descriptor/bb28b4e55b742e0ea3e7a0968e7ee6287ba0e06a/COPYING"
+    }
+  ]
+}

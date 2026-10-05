@@ -1,0 +1,15 @@
+{
+  "name": "ecdsa",
+  "version": "0.16.9",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/signatures/tree/master/ecdsa",
+  "source": "https://static.crates.io/crates/ecdsa/ecdsa-0.16.9.crate",
+  "sha256": "ee27f32b5c5292967d2d4a9d7f1e0b0aed2c15daded5a60300e4abb9d8020bca",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

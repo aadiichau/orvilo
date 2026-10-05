@@ -1,0 +1,14 @@
+{
+  "name": "open",
+  "version": "5.1.2",
+  "license": "MIT",
+  "authors": [
+    "Sebastian Thiel <byronimo@gmail.com>"
+  ],
+  "repository": "https://github.com/Byron/open-rs",
+  "source": "https://static.crates.io/crates/open/open-5.1.2.crate",
+  "sha256": "449f0ff855d85ddbf1edd5b646d65249ead3f5e422aaa86b7d2d0b049b103e32",
+  "files": [
+    "LICENSE.md"
+  ]
+}

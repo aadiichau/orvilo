@@ -1,0 +1,14 @@
+{
+  "name": "smartstring",
+  "version": "1.0.1",
+  "license": "MPL-2.0+",
+  "authors": [
+    "Bodil Stokke <bodil@bodil.org>"
+  ],
+  "repository": "https://github.com/bodil/smartstring",
+  "source": "https://static.crates.io/crates/smartstring/smartstring-1.0.1.crate",
+  "sha256": "3fb72c633efbaa2dd666986505016c32c3044395ceaf881518399d2f4127ee29",
+  "files": [
+    "LICENCE.md"
+  ]
+}

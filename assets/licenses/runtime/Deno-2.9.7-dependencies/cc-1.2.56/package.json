@@ -1,0 +1,15 @@
+{
+  "name": "cc",
+  "version": "1.2.56",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Alex Crichton <alex@alexcrichton.com>"
+  ],
+  "repository": "https://github.com/rust-lang/cc-rs",
+  "source": "https://static.crates.io/crates/cc/cc-1.2.56.crate",
+  "sha256": "aebf35691d1bfb0ac386a69bac2fde4dd276fb618cf8bf4f5318fe285e821bb2",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

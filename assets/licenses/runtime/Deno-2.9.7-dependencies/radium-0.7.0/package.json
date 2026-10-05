@@ -1,0 +1,15 @@
+{
+  "name": "radium",
+  "version": "0.7.0",
+  "license": "MIT",
+  "authors": [
+    "Nika Layzell <nika@thelayzells.com>",
+    "myrrlyn <self@myrrlyn.dev>"
+  ],
+  "repository": "https://github.com/bitvecto-rs/radium",
+  "source": "https://static.crates.io/crates/radium/radium-0.7.0.crate",
+  "sha256": "dc33ff2d4973d518d823d61aa239014831e521c75da58e3df4840d3f47749d09",
+  "files": [
+    "LICENSE.txt"
+  ]
+}

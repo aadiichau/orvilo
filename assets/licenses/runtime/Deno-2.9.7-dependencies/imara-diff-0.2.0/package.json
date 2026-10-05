@@ -1,0 +1,14 @@
+{
+  "name": "imara-diff",
+  "version": "0.2.0",
+  "license": "Apache-2.0",
+  "authors": [
+    "pascalkuthe <pascalkuthe@pm.me>"
+  ],
+  "repository": "https://github.com/pascalkuthe/imara-diff",
+  "source": "https://static.crates.io/crates/imara-diff/imara-diff-0.2.0.crate",
+  "sha256": "2f01d462f766df78ab820dd06f5eb700233c51f0f4c2e846520eaf4ba6aa5c5c",
+  "files": [
+    "LICENSE"
+  ]
+}

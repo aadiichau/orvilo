@@ -1,0 +1,15 @@
+{
+  "name": "bit-set",
+  "version": "0.9.1",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "Alexis Beingessner <a.beingessner@gmail.com>"
+  ],
+  "repository": "https://github.com/contain-rs/bit-set",
+  "source": "https://static.crates.io/crates/bit-set/bit-set-0.9.1.crate",
+  "sha256": "34ddef2995421ab6a5c779542c81ee77c115206f4ad9d5a8e05f4ff49716a3dd",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

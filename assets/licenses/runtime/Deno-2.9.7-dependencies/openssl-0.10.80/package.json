@@ -1,0 +1,15 @@
+{
+  "name": "openssl",
+  "version": "0.10.80",
+  "license": "Apache-2.0",
+  "authors": [
+    "Steven Fackler <sfackler@gmail.com>"
+  ],
+  "repository": "https://github.com/rust-openssl/rust-openssl",
+  "source": "https://static.crates.io/crates/openssl/openssl-0.10.80.crate",
+  "sha256": "a45fa2aa886c42762255da344f0a0d313e254066c46aad76f300c3d3da62d967",
+  "files": [
+    "LICENSE",
+    "LICENSE-APACHE"
+  ]
+}

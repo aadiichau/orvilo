@@ -1,0 +1,13 @@
+{
+  "name": "locked-tripwire",
+  "version": "0.1.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/nextest-rs/locked-tripwire",
+  "source": "https://static.crates.io/crates/locked-tripwire/locked-tripwire-0.1.1.crate",
+  "sha256": "d18841f136ee0993c6637a1387eb3758acc9fa24d558f540d329b2d8bb901c67",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

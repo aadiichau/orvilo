@@ -1,0 +1,14 @@
+{
+  "name": "crunchy",
+  "version": "0.2.4",
+  "license": "MIT",
+  "authors": [
+    "Eira Fransham <jackefransham@gmail.com>"
+  ],
+  "repository": "https://github.com/eira-fransham/crunchy",
+  "source": "https://static.crates.io/crates/crunchy/crunchy-0.2.4.crate",
+  "sha256": "460fbee9c2c2f33933d720630a6a0bac33ba7053db5344fac858d4b8952d77d5",
+  "files": [
+    "LICENSE"
+  ]
+}

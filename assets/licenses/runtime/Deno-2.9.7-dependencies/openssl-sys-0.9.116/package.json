@@ -1,0 +1,15 @@
+{
+  "name": "openssl-sys",
+  "version": "0.9.116",
+  "license": "MIT",
+  "authors": [
+    "Alex Crichton <alex@alexcrichton.com>",
+    "Steven Fackler <sfackler@gmail.com>"
+  ],
+  "repository": "https://github.com/rust-openssl/rust-openssl",
+  "source": "https://static.crates.io/crates/openssl-sys/openssl-sys-0.9.116.crate",
+  "sha256": "f28a22dc7140cda5f096e5e7724a6962ca81a7f8bfd2979f9b18c11af56318c4",
+  "files": [
+    "LICENSE-MIT"
+  ]
+}

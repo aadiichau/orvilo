@@ -1,0 +1,12 @@
+{
+  "name": "sptr",
+  "version": "0.3.2",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/Gankra/sptr",
+  "source": "https://static.crates.io/crates/sptr/sptr-0.3.2.crate",
+  "sha256": "3b9b39299b249ad65f3b7e96443bad61c02ca5cd3589f46cb6d610a0fd6c0d6a",
+  "files": [],
+  "upstream_commit": "e59792814876b4948279ec3121921fbe827b1077",
+  "supplemental_notices": []
+}

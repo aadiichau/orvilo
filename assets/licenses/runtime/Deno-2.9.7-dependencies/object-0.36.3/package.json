@@ -1,0 +1,13 @@
+{
+  "name": "object",
+  "version": "0.36.3",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [],
+  "repository": "https://github.com/gimli-rs/object",
+  "source": "https://static.crates.io/crates/object/object-0.36.3.crate",
+  "sha256": "27b64972346851a39438c60b341ebc01bba47464ae329e55cf343eb93964efd9",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

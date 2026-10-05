@@ -1,0 +1,14 @@
+{
+  "name": "hyper-util",
+  "version": "0.1.17",
+  "license": "MIT",
+  "authors": [
+    "Sean McArthur <sean@seanmonstar.com>"
+  ],
+  "repository": "https://github.com/hyperium/hyper-util",
+  "source": "https://static.crates.io/crates/hyper-util/hyper-util-0.1.17.crate",
+  "sha256": "3c6995591a8f1380fcb4ba966a252a4b29188d51d2b89e3a252f5305be65aea8",
+  "files": [
+    "LICENSE"
+  ]
+}

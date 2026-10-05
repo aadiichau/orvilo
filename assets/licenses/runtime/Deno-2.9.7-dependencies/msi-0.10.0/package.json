@@ -1,0 +1,14 @@
+{
+  "name": "msi",
+  "version": "0.10.0",
+  "license": "MIT",
+  "authors": [
+    "Matthew D. Steele <mdsteele@alum.mit.edu>"
+  ],
+  "repository": "https://github.com/mdsteele/rust-msi",
+  "source": "https://static.crates.io/crates/msi/msi-0.10.0.crate",
+  "sha256": "b0325f8473ef1f5c38ee42345e2cd1678299cbbfa169d1776654a2a682867420",
+  "files": [
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "toml",
+  "version": "0.9.6",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/toml-rs/toml",
+  "source": "https://static.crates.io/crates/toml/toml-0.9.6.crate",
+  "sha256": "ae2a4cf385da23d1d53bc15cdfa5c2109e93d8d362393c801e87da2f72f0e201",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

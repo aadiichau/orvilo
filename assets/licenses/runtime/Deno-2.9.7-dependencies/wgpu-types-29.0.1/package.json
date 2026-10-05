@@ -1,0 +1,15 @@
+{
+  "name": "wgpu-types",
+  "version": "29.0.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "gfx-rs developers"
+  ],
+  "repository": "https://github.com/gfx-rs/wgpu",
+  "source": "https://static.crates.io/crates/wgpu-types/wgpu-types-29.0.1.crate",
+  "sha256": "ec2675540fb1a5cfa5ef122d3d5f390e2c75711a0b946410f2d6ac3a0f77d1f6",
+  "files": [
+    "LICENSE.APACHE",
+    "LICENSE.MIT"
+  ]
+}

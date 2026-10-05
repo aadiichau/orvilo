@@ -1,0 +1,14 @@
+{
+  "name": "dprint-plugin-jupyter",
+  "version": "0.2.2",
+  "license": "MIT",
+  "authors": [
+    "David Sherret <dsherret@gmail.com>"
+  ],
+  "repository": "https://github.com/dprint/dprint-plugin-jupyter",
+  "source": "https://static.crates.io/crates/dprint-plugin-jupyter/dprint-plugin-jupyter-0.2.2.crate",
+  "sha256": "f703cac0273eb41521f4bd89cc4848007655cd88ee2d1dc24e08aff6fa074b00",
+  "files": [
+    "LICENSE"
+  ]
+}

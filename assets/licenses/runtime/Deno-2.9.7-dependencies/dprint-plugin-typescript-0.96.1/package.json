@@ -1,0 +1,14 @@
+{
+  "name": "dprint-plugin-typescript",
+  "version": "0.96.1",
+  "license": "MIT",
+  "authors": [
+    "David Sherret <dsherret@gmail.com>"
+  ],
+  "repository": "https://github.com/dprint/dprint-plugin-typescript",
+  "source": "https://static.crates.io/crates/dprint-plugin-typescript/dprint-plugin-typescript-0.96.1.crate",
+  "sha256": "90733c56ab425fc299c25ad81a5924bfc3c0050f25d865da742a6987b1255927",
+  "files": [
+    "LICENSE"
+  ]
+}

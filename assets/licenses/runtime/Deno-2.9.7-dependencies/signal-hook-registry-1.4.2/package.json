@@ -1,0 +1,16 @@
+{
+  "name": "signal-hook-registry",
+  "version": "1.4.2",
+  "license": "Apache-2.0/MIT",
+  "authors": [
+    "Michal 'vorner' Vaner <vorner@vorner.cz>",
+    "Masaki Hara <ackie.h.gmai@gmail.com>"
+  ],
+  "repository": "https://github.com/vorner/signal-hook",
+  "source": "https://static.crates.io/crates/signal-hook-registry/signal-hook-registry-1.4.2.crate",
+  "sha256": "a9e9e0b4211b72e7b8b6e85c807d36c212bdb33ea8587f7569562a84df5465b1",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

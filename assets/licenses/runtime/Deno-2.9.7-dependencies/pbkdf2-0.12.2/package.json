@@ -1,0 +1,15 @@
+{
+  "name": "pbkdf2",
+  "version": "0.12.2",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/password-hashes/tree/master/pbkdf2",
+  "source": "https://static.crates.io/crates/pbkdf2/pbkdf2-0.12.2.crate",
+  "sha256": "f8ed6a7761f76e3b9f92dfb0a60a6a6477c61024b775147ff0973a02653abaf2",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

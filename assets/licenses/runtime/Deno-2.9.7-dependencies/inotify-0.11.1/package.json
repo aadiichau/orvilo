@@ -1,0 +1,17 @@
+{
+  "name": "inotify",
+  "version": "0.11.1",
+  "license": "ISC",
+  "authors": [
+    "Hanno Braun <mail@hannobraun.de>",
+    "Fe\u0301lix Saparelli <me@passcod.name>",
+    "Cristian Kubis <cristian.kubis@tsunix.de>",
+    "Frank Denis <github@pureftpd.org>"
+  ],
+  "repository": "https://github.com/hannobraun/inotify",
+  "source": "https://static.crates.io/crates/inotify/inotify-0.11.1.crate",
+  "sha256": "bd5b3eaf1a28b758ac0faa5a4254e8ab2705605496f1b1f3fbbc3988ad73d199",
+  "files": [
+    "LICENSE"
+  ]
+}

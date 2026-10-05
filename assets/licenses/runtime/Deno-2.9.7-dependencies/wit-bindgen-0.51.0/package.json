@@ -1,0 +1,16 @@
+{
+  "name": "wit-bindgen",
+  "version": "0.51.0",
+  "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+  "authors": [
+    "Alex Crichton <alex@alexcrichton.com>"
+  ],
+  "repository": "https://github.com/bytecodealliance/wit-bindgen",
+  "source": "https://static.crates.io/crates/wit-bindgen/wit-bindgen-0.51.0.crate",
+  "sha256": "d7249219f66ced02969388cf2bb044a09756a083d0fab1e566056b04d9fbcaa5",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-Apache-2.0_WITH_LLVM-exception",
+    "LICENSE-MIT"
+  ]
+}

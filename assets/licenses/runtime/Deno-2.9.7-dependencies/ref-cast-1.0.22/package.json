@@ -1,0 +1,15 @@
+{
+  "name": "ref-cast",
+  "version": "1.0.22",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>"
+  ],
+  "repository": "https://github.com/dtolnay/ref-cast",
+  "source": "https://static.crates.io/crates/ref-cast/ref-cast-1.0.22.crate",
+  "sha256": "c4846d4c50d1721b1a3bef8af76924eef20d5e723647333798c1b519b3a9473f",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Inflector",
+  "version": "0.11.4",
+  "license": "BSD-2-Clause",
+  "authors": [
+    "Josh Teeter<joshteeter@gmail.com>"
+  ],
+  "repository": "https://github.com/whatisinternet/inflector",
+  "source": "https://static.crates.io/crates/Inflector/Inflector-0.11.4.crate",
+  "sha256": "fe438c63458706e03479442743baae6c88256498e6431708f6dfc520a26515d3",
+  "files": [],
+  "upstream_commit": "a4a95eac75043f4bffb127c7c8ec886b5b106053",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE.md",
+      "source": "https://raw.githubusercontent.com/whatisinternet/inflector/a4a95eac75043f4bffb127c7c8ec886b5b106053/LICENSE.md"
+    }
+  ]
+}

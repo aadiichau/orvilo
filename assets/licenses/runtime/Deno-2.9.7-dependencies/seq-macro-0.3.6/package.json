@@ -1,0 +1,15 @@
+{
+  "name": "seq-macro",
+  "version": "0.3.6",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>"
+  ],
+  "repository": "https://github.com/dtolnay/seq-macro",
+  "source": "https://static.crates.io/crates/seq-macro/seq-macro-0.3.6.crate",
+  "sha256": "1bc711410fbe7399f390ca1c3b60ad0f53f80e95c5eb935e52268a0e2cd49acc",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

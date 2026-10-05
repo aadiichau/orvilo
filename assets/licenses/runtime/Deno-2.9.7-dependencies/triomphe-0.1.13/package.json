@@ -1,0 +1,16 @@
+{
+  "name": "triomphe",
+  "version": "0.1.13",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Manish Goregaokar <manishsmail@gmail.com>",
+    "The Servo Project Developers"
+  ],
+  "repository": "https://github.com/Manishearth/triomphe",
+  "source": "https://static.crates.io/crates/triomphe/triomphe-0.1.13.crate",
+  "sha256": "e6631e42e10b40c0690bf92f404ebcfe6e1fdb480391d15f17cc8e96eeed5369",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

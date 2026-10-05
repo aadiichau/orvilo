@@ -1,0 +1,16 @@
+{
+  "name": "byteorder",
+  "version": "1.5.0",
+  "license": "Unlicense OR MIT",
+  "authors": [
+    "Andrew Gallant <jamslam@gmail.com>"
+  ],
+  "repository": "https://github.com/BurntSushi/byteorder",
+  "source": "https://static.crates.io/crates/byteorder/byteorder-1.5.0.crate",
+  "sha256": "1fd0f2584146f6f2ef48085050886acf353beff7305ebd1ae69500e27c67f64b",
+  "files": [
+    "COPYING",
+    "LICENSE-MIT",
+    "UNLICENSE"
+  ]
+}

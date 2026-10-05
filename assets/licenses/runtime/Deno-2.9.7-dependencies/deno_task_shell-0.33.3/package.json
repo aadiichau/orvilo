@@ -1,0 +1,14 @@
+{
+  "name": "deno_task_shell",
+  "version": "0.33.3",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/deno_task_shell",
+  "source": "https://static.crates.io/crates/deno_task_shell/deno_task_shell-0.33.3.crate",
+  "sha256": "8ac466d733d16a8ab5268b7e83a407289b25060a8f96dadc5cb96232a67c5282",
+  "files": [
+    "LICENSE.md"
+  ]
+}

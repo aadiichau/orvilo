@@ -1,0 +1,14 @@
+{
+  "name": "is-macro",
+  "version": "0.3.5",
+  "license": "Apache-2.0",
+  "authors": [
+    "\uac15\ub3d9\uc724 <kdy1997.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/dudykr/ddbase",
+  "source": "https://static.crates.io/crates/is-macro/is-macro-0.3.5.crate",
+  "sha256": "59a85abdc13717906baccb5a1e435556ce0df215f242892f721dff62bf25288f",
+  "files": [
+    "LICENSE"
+  ]
+}

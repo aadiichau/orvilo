@@ -1,0 +1,17 @@
+{
+  "name": "nu-ansi-term",
+  "version": "0.50.1",
+  "license": "MIT",
+  "authors": [
+    "ogham@bsago.me",
+    "Ryan Scheel (Havvy) <ryan.havvy@gmail.com>",
+    "Josh Triplett <josh@joshtriplett.org>",
+    "The Nushell Project Developers"
+  ],
+  "repository": "https://github.com/nushell/nu-ansi-term",
+  "source": "https://static.crates.io/crates/nu-ansi-term/nu-ansi-term-0.50.1.crate",
+  "sha256": "d4a28e057d01f97e61255210fcff094d74ed0466038633e95017f5beb68e4399",
+  "files": [
+    "LICENSE"
+  ]
+}

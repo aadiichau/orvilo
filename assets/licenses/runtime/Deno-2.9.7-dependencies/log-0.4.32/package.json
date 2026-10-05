@@ -1,0 +1,15 @@
+{
+  "name": "log",
+  "version": "0.4.32",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The Rust Project Developers"
+  ],
+  "repository": "https://github.com/rust-lang/log",
+  "source": "https://static.crates.io/crates/log/log-0.4.32.crate",
+  "sha256": "953f07c43838f8e6f9758cab68bf5bed85465e7587ebe0b823f1bcd81978ad3a",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "der",
+  "version": "0.7.9",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/formats/tree/master/der",
+  "source": "https://static.crates.io/crates/der/der-0.7.9.crate",
+  "sha256": "f55bf8e7b65898637379c1b74eb1551107c8294ed26d855ceb9fd1a09cfc9bc0",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

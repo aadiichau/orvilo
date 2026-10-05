@@ -1,0 +1,12 @@
+{
+  "name": "fslock",
+  "version": "0.2.1",
+  "license": "MIT",
+  "authors": [],
+  "repository": "https://github.com/brunoczim/fslock",
+  "source": "https://static.crates.io/crates/fslock/fslock-0.2.1.crate",
+  "sha256": "04412b8935272e3a9bae6f48c7bfff74c2911f60525404edfdd28e49884c3bfb",
+  "files": [
+    "LICENSE"
+  ]
+}

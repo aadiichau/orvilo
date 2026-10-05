@@ -1,0 +1,15 @@
+{
+  "name": "io-uring",
+  "version": "0.7.8",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "quininer <quininer@live.com>"
+  ],
+  "repository": "https://github.com/tokio-rs/io-uring",
+  "source": "https://static.crates.io/crates/io-uring/io-uring-0.7.8.crate",
+  "sha256": "b86e202f00093dcba4275d4636b93ef9dd75d025ae560d2521b45ea28ab49013",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

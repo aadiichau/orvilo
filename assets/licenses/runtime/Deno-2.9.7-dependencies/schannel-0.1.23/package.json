@@ -1,0 +1,15 @@
+{
+  "name": "schannel",
+  "version": "0.1.23",
+  "license": "MIT",
+  "authors": [
+    "Steven Fackler <sfackler@gmail.com>",
+    "Steffen Butzer <steffen.butzer@outlook.com>"
+  ],
+  "repository": "https://github.com/steffengy/schannel-rs",
+  "source": "https://static.crates.io/crates/schannel/schannel-0.1.23.crate",
+  "sha256": "fbc91545643bcf3a0bbb6569265615222618bdf33ce4ffbbd13c4bbd4c093534",
+  "files": [
+    "LICENSE.md"
+  ]
+}

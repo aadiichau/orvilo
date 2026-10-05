@@ -1,0 +1,15 @@
+{
+  "name": "x509-parser",
+  "version": "0.15.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Pierre Chifflier <chifflier@wzdftpd.net>"
+  ],
+  "repository": "https://github.com/rusticata/x509-parser.git",
+  "source": "https://static.crates.io/crates/x509-parser/x509-parser-0.15.1.crate",
+  "sha256": "7069fba5b66b9193bd2c5d3d4ff12b839118f6bcbef5328efafafb5395cf63da",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

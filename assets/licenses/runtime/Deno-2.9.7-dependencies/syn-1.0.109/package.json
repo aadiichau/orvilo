@@ -1,0 +1,15 @@
+{
+  "name": "syn",
+  "version": "1.0.109",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>"
+  ],
+  "repository": "https://github.com/dtolnay/syn",
+  "source": "https://static.crates.io/crates/syn/syn-1.0.109.crate",
+  "sha256": "72b64191b275b66ffe2469e8af2c1cfe3bafa67b529ead792a6d0160888b4237",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

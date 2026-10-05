@@ -1,0 +1,14 @@
+{
+  "name": "icu_properties_data",
+  "version": "1.5.0",
+  "license": "Unicode-3.0",
+  "authors": [
+    "The ICU4X Project Developers"
+  ],
+  "repository": "https://github.com/unicode-org/icu4x",
+  "source": "https://static.crates.io/crates/icu_properties_data/icu_properties_data-1.5.0.crate",
+  "sha256": "67a8effbc3dd3e4ba1afa8ad918d5684b8868b3b26500753effea8d2eed19569",
+  "files": [
+    "LICENSE"
+  ]
+}

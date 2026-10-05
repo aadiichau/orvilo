@@ -1,0 +1,15 @@
+{
+  "name": "windows-strings",
+  "version": "0.1.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Microsoft"
+  ],
+  "repository": "https://github.com/microsoft/windows-rs",
+  "source": "https://static.crates.io/crates/windows-strings/windows-strings-0.1.0.crate",
+  "sha256": "4cd9b125c486025df0eabcb585e62173c6c9eddcec5d117d3b6e8c30e2ee4d10",
+  "files": [
+    "license-apache-2.0",
+    "license-mit"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "cranelift-codegen-shared",
+  "version": "0.117.2",
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "authors": [
+    "The Cranelift Project Developers"
+  ],
+  "repository": "https://github.com/bytecodealliance/wasmtime",
+  "source": "https://static.crates.io/crates/cranelift-codegen-shared/cranelift-codegen-shared-0.117.2.crate",
+  "sha256": "0f4ff8d2e1235f2d6e7fc3c6738be6954ba972cd295f09079ebffeca2f864e22",
+  "files": [
+    "LICENSE"
+  ]
+}

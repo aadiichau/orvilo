@@ -1,0 +1,15 @@
+{
+  "name": "solana-nohash-hasher",
+  "version": "0.2.1",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "Solana Labs Maintainers <maintainers@solanalabs.com>"
+  ],
+  "repository": "https://github.com/solana-labs/nohash-hasher",
+  "source": "https://static.crates.io/crates/solana-nohash-hasher/solana-nohash-hasher-0.2.1.crate",
+  "sha256": "8b8a731ed60e89177c8a7ab05fe0f1511cedd3e70e773f288f9de33a9cfdc21e",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

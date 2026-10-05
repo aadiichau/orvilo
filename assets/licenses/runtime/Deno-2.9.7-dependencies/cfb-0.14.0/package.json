@@ -1,0 +1,14 @@
+{
+  "name": "cfb",
+  "version": "0.14.0",
+  "license": "MIT",
+  "authors": [
+    "Matthew D. Steele <mdsteele@alum.mit.edu>"
+  ],
+  "repository": "https://github.com/mdsteele/rust-cfb",
+  "source": "https://static.crates.io/crates/cfb/cfb-0.14.0.crate",
+  "sha256": "a347dcabdae9c31b0825fd6a8bed285ec9c2acb89c47827126d52fa4f59cece3",
+  "files": [
+    "LICENSE"
+  ]
+}

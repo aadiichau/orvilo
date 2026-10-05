@@ -1,0 +1,15 @@
+{
+  "name": "swc_sourcemap",
+  "version": "9.3.4",
+  "license": "BSD-3-Clause",
+  "authors": [
+    "Sentry <hello@sentry.io>",
+    "swc-project <https://swc.rs>"
+  ],
+  "repository": "https://github.com/swc-project/swc-sourcemap",
+  "source": "https://static.crates.io/crates/swc_sourcemap/swc_sourcemap-9.3.4.crate",
+  "sha256": "de08ef00f816acdd1a58ee8a81c0e1a59eefef2093aefe5611f256fa6b64c4d7",
+  "files": [
+    "LICENSE"
+  ]
+}

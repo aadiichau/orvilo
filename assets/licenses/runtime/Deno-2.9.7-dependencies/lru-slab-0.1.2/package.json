@@ -1,0 +1,16 @@
+{
+  "name": "lru-slab",
+  "version": "0.1.2",
+  "license": "MIT OR Apache-2.0 OR Zlib",
+  "authors": [
+    "Benjamin Saunders <ben.e.saunders@gmail.com>"
+  ],
+  "repository": "https://github.com/Ralith/lru-slab",
+  "source": "https://static.crates.io/crates/lru-slab/lru-slab-0.1.2.crate",
+  "sha256": "112b39cec0b298b6c1999fee3e31427f74f676e4cb9879ed1a121b43661a4154",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT",
+    "LICENSE-ZLIB"
+  ]
+}

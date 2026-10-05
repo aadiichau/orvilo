@@ -1,0 +1,15 @@
+{
+  "name": "ahash",
+  "version": "0.8.11",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Tom Kaitchuck <Tom.Kaitchuck@gmail.com>"
+  ],
+  "repository": "https://github.com/tkaitchuck/ahash",
+  "source": "https://static.crates.io/crates/ahash/ahash-0.8.11.crate",
+  "sha256": "e89da841a80418a9b391ebaea17f5c112ffaaa96f621d2c285b5174da76b9011",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "alloc-stdlib",
+  "version": "0.2.2",
+  "license": "BSD-3-Clause",
+  "authors": [
+    "Daniel Reiter Horn <danielrh@dropbox.com>"
+  ],
+  "repository": "https://github.com/dropbox/rust-alloc-no-stdlib",
+  "source": "https://static.crates.io/crates/alloc-stdlib/alloc-stdlib-0.2.2.crate",
+  "sha256": "94fb8275041c72129eb51b7d0322c29b8387a0386127718b096429201a5d6ece",
+  "files": [],
+  "upstream_commit": "6032b6a9b20e03737135c55a0270ccffcc1438ef",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/dropbox/rust-alloc-no-stdlib/6032b6a9b20e03737135c55a0270ccffcc1438ef/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ipconfig",
+  "version": "0.3.2",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Liran Ringel <liranringel@gmail.com>"
+  ],
+  "repository": "https://github.com/liranringel/ipconfig",
+  "source": "https://static.crates.io/crates/ipconfig/ipconfig-0.3.2.crate",
+  "sha256": "b58db92f96b720de98181bbbe63c831e87005ab460c1bf306eb2622b4707997f",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

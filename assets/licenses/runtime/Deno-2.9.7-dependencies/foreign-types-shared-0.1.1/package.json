@@ -1,0 +1,15 @@
+{
+  "name": "foreign-types-shared",
+  "version": "0.1.1",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Steven Fackler <sfackler@gmail.com>"
+  ],
+  "repository": "https://github.com/sfackler/foreign-types",
+  "source": "https://static.crates.io/crates/foreign-types-shared/foreign-types-shared-0.1.1.crate",
+  "sha256": "00b0228411908ca8685dba7fc2cdd70ec9990a6e753e89b6ac91a84c40fbaf4b",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

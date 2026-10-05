@@ -1,0 +1,16 @@
+{
+  "name": "walkdir",
+  "version": "2.5.0",
+  "license": "Unlicense/MIT",
+  "authors": [
+    "Andrew Gallant <jamslam@gmail.com>"
+  ],
+  "repository": "https://github.com/BurntSushi/walkdir",
+  "source": "https://static.crates.io/crates/walkdir/walkdir-2.5.0.crate",
+  "sha256": "29790946404f91d9c5d06f9874efddea1dc06c5efe94541a7d6863108e3a5e4b",
+  "files": [
+    "COPYING",
+    "LICENSE-MIT",
+    "UNLICENSE"
+  ]
+}

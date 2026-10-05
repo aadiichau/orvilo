@@ -1,0 +1,17 @@
+{
+  "name": "laufey",
+  "version": "0.7.0",
+  "license": "MIT",
+  "authors": [],
+  "repository": "https://github.com/littledivy/laufey",
+  "source": "https://static.crates.io/crates/laufey/laufey-0.7.0.crate",
+  "sha256": "8a2a04490eb866f17dcbbb44c8277b45964eeb0f68bb17c444e69c2feff0db94",
+  "files": [],
+  "upstream_commit": "1fe87874288e8359fa3de04d18cc14f56957b000",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/littledivy/laufey/1fe87874288e8359fa3de04d18cc14f56957b000/LICENSE"
+    }
+  ]
+}

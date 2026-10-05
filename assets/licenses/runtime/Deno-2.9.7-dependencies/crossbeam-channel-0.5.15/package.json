@@ -1,0 +1,14 @@
+{
+  "name": "crossbeam-channel",
+  "version": "0.5.15",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/crossbeam-rs/crossbeam",
+  "source": "https://static.crates.io/crates/crossbeam-channel/crossbeam-channel-0.5.15.crate",
+  "sha256": "82b8f8f868b36967f9606790d1903570de9ceaf870a7bf9fbbd3016d636a2cb2",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT",
+    "LICENSE-THIRD-PARTY"
+  ]
+}

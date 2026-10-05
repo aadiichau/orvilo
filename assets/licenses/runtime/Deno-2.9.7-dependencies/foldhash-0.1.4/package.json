@@ -1,0 +1,14 @@
+{
+  "name": "foldhash",
+  "version": "0.1.4",
+  "license": "Zlib",
+  "authors": [
+    "Orson Peters <orsonpeters@gmail.com>"
+  ],
+  "repository": "https://github.com/orlp/foldhash",
+  "source": "https://static.crates.io/crates/foldhash/foldhash-0.1.4.crate",
+  "sha256": "a0d2fde1f7b3d48b8395d5f2de76c18a528bd6a9cdde438df747bfcba3e05d6f",
+  "files": [
+    "LICENSE"
+  ]
+}

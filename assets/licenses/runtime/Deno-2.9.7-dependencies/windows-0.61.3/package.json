@@ -1,0 +1,15 @@
+{
+  "name": "windows",
+  "version": "0.61.3",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Microsoft"
+  ],
+  "repository": "https://github.com/microsoft/windows-rs",
+  "source": "https://static.crates.io/crates/windows/windows-0.61.3.crate",
+  "sha256": "9babd3a767a4c1aef6900409f85f5d53ce2544ccdfaa86dad48c91782c6d6893",
+  "files": [
+    "license-apache-2.0",
+    "license-mit"
+  ]
+}

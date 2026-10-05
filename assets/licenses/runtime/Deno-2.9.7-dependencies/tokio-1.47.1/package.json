@@ -1,0 +1,14 @@
+{
+  "name": "tokio",
+  "version": "1.47.1",
+  "license": "MIT",
+  "authors": [
+    "Tokio Contributors <team@tokio.rs>"
+  ],
+  "repository": "https://github.com/tokio-rs/tokio",
+  "source": "https://static.crates.io/crates/tokio/tokio-1.47.1.crate",
+  "sha256": "89e49afdadebb872d3145a5638b59eb0691ea23e46ca484037cfab3b76b95038",
+  "files": [
+    "LICENSE"
+  ]
+}

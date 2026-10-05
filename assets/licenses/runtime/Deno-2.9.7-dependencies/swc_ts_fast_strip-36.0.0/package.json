@@ -1,0 +1,14 @@
+{
+  "name": "swc_ts_fast_strip",
+  "version": "36.0.0",
+  "license": "Apache-2.0",
+  "authors": [
+    "\uac15\ub3d9\uc724 <kdy1997.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/swc-project/swc.git",
+  "source": "https://static.crates.io/crates/swc_ts_fast_strip/swc_ts_fast_strip-36.0.0.crate",
+  "sha256": "af7939f2933c4e0fbfedc30fcedd8530c557dee7ea7c73bc4bed854c751c476e",
+  "files": [],
+  "upstream_commit": "6f71ba0ceb4fc3de8b782a3b0afa4d5719024647",
+  "supplemental_notices": []
+}

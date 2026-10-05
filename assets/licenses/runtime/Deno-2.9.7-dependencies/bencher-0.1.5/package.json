@@ -1,0 +1,16 @@
+{
+  "name": "bencher",
+  "version": "0.1.5",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "bluss",
+    "The Rust Project Developers"
+  ],
+  "repository": "https://github.com/bluss/bencher/",
+  "source": "https://static.crates.io/crates/bencher/bencher-0.1.5.crate",
+  "sha256": "7dfdb4953a096c551ce9ace855a604d702e6e62d77fac690575ae347571717f5",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

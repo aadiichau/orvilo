@@ -1,0 +1,19 @@
+{
+  "name": "yaml_parser",
+  "version": "0.2.1",
+  "license": "MIT",
+  "authors": [
+    "Pig Fang <g-plane@hotmail.com>"
+  ],
+  "repository": "https://github.com/g-plane/pretty_yaml",
+  "source": "https://static.crates.io/crates/yaml_parser/yaml_parser-0.2.1.crate",
+  "sha256": "2a6a39b6b5ba0d02c910d05d7fbc366a4befb8901ea107dcde9c1c97acb8a366",
+  "files": [],
+  "upstream_commit": "3decc5c7ab2632c36f58c359fd9c4174140a6fec",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/g-plane/pretty_yaml/3decc5c7ab2632c36f58c359fd9c4174140a6fec/LICENSE"
+    }
+  ]
+}

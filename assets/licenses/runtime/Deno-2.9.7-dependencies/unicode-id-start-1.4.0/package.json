@@ -1,0 +1,17 @@
+{
+  "name": "unicode-id-start",
+  "version": "1.4.0",
+  "license": "(MIT OR Apache-2.0) AND Unicode-3.0",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>",
+    "Boshen <boshenc@gmail.com>"
+  ],
+  "repository": "https://github.com/Boshen/unicode-id-start",
+  "source": "https://static.crates.io/crates/unicode-id-start/unicode-id-start-1.4.0.crate",
+  "sha256": "81b79ad29b5e19de4260020f8919b443b2ef0277d242ce532ec7b7a2cc8b6007",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT",
+    "LICENSE-UNICODE"
+  ]
+}

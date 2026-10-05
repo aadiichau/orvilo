@@ -1,0 +1,15 @@
+{
+  "name": "rustls-native-certs",
+  "version": "0.7.0",
+  "license": "Apache-2.0 OR ISC OR MIT",
+  "authors": [],
+  "repository": "https://github.com/rustls/rustls-native-certs",
+  "source": "https://static.crates.io/crates/rustls-native-certs/rustls-native-certs-0.7.0.crate",
+  "sha256": "8f1fb85efa936c42c6d5fc28d2629bb51e4b2f4b8a5211e297d599cc5a093792",
+  "files": [
+    "LICENSE",
+    "LICENSE-APACHE",
+    "LICENSE-ISC",
+    "LICENSE-MIT"
+  ]
+}

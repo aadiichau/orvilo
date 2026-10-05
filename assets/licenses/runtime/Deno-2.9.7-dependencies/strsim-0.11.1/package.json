@@ -1,0 +1,15 @@
+{
+  "name": "strsim",
+  "version": "0.11.1",
+  "license": "MIT",
+  "authors": [
+    "Danny Guo <danny@dannyguo.com>",
+    "maxbachmann <oss@maxbachmann.de>"
+  ],
+  "repository": "https://github.com/rapidfuzz/strsim-rs",
+  "source": "https://static.crates.io/crates/strsim/strsim-0.11.1.crate",
+  "sha256": "7da8b5736845d9f2fcb837ea5d9e2628564b3b043a70948a3f0b778838c5fb4f",
+  "files": [
+    "LICENSE"
+  ]
+}

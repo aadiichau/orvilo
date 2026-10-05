@@ -1,0 +1,15 @@
+{
+  "name": "encode_unicode",
+  "version": "1.0.0",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "Torbj\u00f8rn Birch Moltu <t.b.moltu@lyse.net>"
+  ],
+  "repository": "https://github.com/tormol/encode_unicode",
+  "source": "https://static.crates.io/crates/encode_unicode/encode_unicode-1.0.0.crate",
+  "sha256": "34aa73646ffb006b8f5147f3dc182bd4bcb190227ce861fc4a4844bf8e3cb2c0",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

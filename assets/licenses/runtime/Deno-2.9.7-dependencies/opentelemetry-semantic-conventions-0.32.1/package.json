@@ -1,0 +1,17 @@
+{
+  "name": "opentelemetry-semantic-conventions",
+  "version": "0.32.1",
+  "license": "Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/open-telemetry/opentelemetry-rust/tree/main/opentelemetry-semantic-conventions",
+  "source": "https://static.crates.io/crates/opentelemetry-semantic-conventions/opentelemetry-semantic-conventions-0.32.1.crate",
+  "sha256": "c913ac17a6c451661ee255f4625d143e51647ae78ebd969b75e41c4442f4fe47",
+  "files": [],
+  "upstream_commit": "74cb6f3a4129bf11fa3191f28d38c518c4ec4ae6",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/open-telemetry/opentelemetry-rust/74cb6f3a4129bf11fa3191f28d38c518c4ec4ae6/LICENSE"
+    }
+  ]
+}

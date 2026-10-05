@@ -1,0 +1,14 @@
+{
+  "name": "jsonc-parser",
+  "version": "0.32.1",
+  "license": "MIT",
+  "authors": [
+    "David Sherret <dsherret@gmail.com>"
+  ],
+  "repository": "https://github.com/dprint/jsonc-parser",
+  "source": "https://static.crates.io/crates/jsonc-parser/jsonc-parser-0.32.1.crate",
+  "sha256": "8de0ffda8def4eb16ed430641db8056c2509b20e38f2dd327bdb4c83239f88c4",
+  "files": [
+    "LICENSE"
+  ]
+}

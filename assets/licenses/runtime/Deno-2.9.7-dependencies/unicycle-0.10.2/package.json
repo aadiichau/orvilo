@@ -1,0 +1,15 @@
+{
+  "name": "unicycle",
+  "version": "0.10.2",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "John-John Tedro <udoprog@tedro.se>"
+  ],
+  "repository": "https://github.com/udoprog/unicycle",
+  "source": "https://static.crates.io/crates/unicycle/unicycle-0.10.2.crate",
+  "sha256": "53ccbaf192caef9a758b9cd7ea2e5d98ffd0e40eb62e5e3fbaa50049df8b841f",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "tinytemplate",
+  "version": "1.2.1",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "Brook Heisler <brookheisler@gmail.com>"
+  ],
+  "repository": "https://github.com/bheisler/TinyTemplate",
+  "source": "https://static.crates.io/crates/tinytemplate/tinytemplate-1.2.1.crate",
+  "sha256": "be4d6b5f19ff7664e8c98d03e2139cb510db9b0a60b55f8e8709b689d939b6bc",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

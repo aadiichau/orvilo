@@ -1,0 +1,16 @@
+{
+  "name": "async-executor",
+  "version": "1.13.3",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "Stjepan Glavina <stjepang@gmail.com>",
+    "John Nunley <dev@notgull.net>"
+  ],
+  "repository": "https://github.com/smol-rs/async-executor",
+  "source": "https://static.crates.io/crates/async-executor/async-executor-1.13.3.crate",
+  "sha256": "497c00e0fd83a72a79a39fcbd8e3e2f055d6f6c7e025f3b3d91f4f8e76527fb8",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

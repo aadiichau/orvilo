@@ -1,0 +1,15 @@
+{
+  "name": "bumpalo",
+  "version": "3.19.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Nick Fitzgerald <fitzgen@gmail.com>"
+  ],
+  "repository": "https://github.com/fitzgen/bumpalo",
+  "source": "https://static.crates.io/crates/bumpalo/bumpalo-3.19.0.crate",
+  "sha256": "46c5e41b57b8bba42a04676d81cb89e9ee8e859a1a66f80a5a72e1cb76b34d43",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

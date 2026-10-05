@@ -1,0 +1,16 @@
+{
+  "name": "wit-bindgen-rust-macro",
+  "version": "0.51.0",
+  "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+  "authors": [
+    "Alex Crichton <alex@alexcrichton.com>"
+  ],
+  "repository": "https://github.com/bytecodealliance/wit-bindgen",
+  "source": "https://static.crates.io/crates/wit-bindgen-rust-macro/wit-bindgen-rust-macro-0.51.0.crate",
+  "sha256": "0c0f9bfd77e6a48eccf51359e3ae77140a7f50b1e2ebfe62422d8afdaffab17a",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-Apache-2.0_WITH_LLVM-exception",
+    "LICENSE-MIT"
+  ]
+}

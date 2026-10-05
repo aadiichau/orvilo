@@ -1,0 +1,13 @@
+{
+  "name": "openssl-macros",
+  "version": "0.1.1",
+  "license": "MIT/Apache-2.0",
+  "authors": [],
+  "repository": null,
+  "source": "https://static.crates.io/crates/openssl-macros/openssl-macros-0.1.1.crate",
+  "sha256": "a948666b637a0f465e8564c73e89d4dde00d72d4d473cc972f390fc3dcee7d9c",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

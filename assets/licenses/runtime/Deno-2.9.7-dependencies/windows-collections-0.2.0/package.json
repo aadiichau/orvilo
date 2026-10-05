@@ -1,0 +1,13 @@
+{
+  "name": "windows-collections",
+  "version": "0.2.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/microsoft/windows-rs",
+  "source": "https://static.crates.io/crates/windows-collections/windows-collections-0.2.0.crate",
+  "sha256": "3beeceb5e5cfd9eb1d76b381630e82c4241ccd0d27f1a39ed41b2760b255c5e8",
+  "files": [
+    "license-apache-2.0",
+    "license-mit"
+  ]
+}

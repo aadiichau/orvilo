@@ -1,0 +1,15 @@
+{
+  "name": "wgpu-core",
+  "version": "29.0.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "gfx-rs developers"
+  ],
+  "repository": "https://github.com/gfx-rs/wgpu",
+  "source": "https://static.crates.io/crates/wgpu-core/wgpu-core-29.0.1.crate",
+  "sha256": "1e80ac6cf1895df6342f87d975162108f9d98772a0d74bc404ab7304ac29469e",
+  "files": [
+    "LICENSE.APACHE",
+    "LICENSE.MIT"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "color-print",
+  "version": "0.3.5",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Johann David <johann.david.dev@protonmail.com>"
+  ],
+  "repository": "https://gitlab.com/dajoha/color-print",
+  "source": "https://static.crates.io/crates/color-print/color-print-0.3.5.crate",
+  "sha256": "7a858372ff14bab9b1b30ea504f2a4bc534582aee3e42ba2d41d2a7baba63d5d",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

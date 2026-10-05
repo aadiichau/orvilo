@@ -1,0 +1,23 @@
+{
+  "name": "backhand",
+  "version": "0.25.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "wcampbell <wcampbell1995@gmail.com>"
+  ],
+  "repository": "https://github.com/wcampbell0x2a/backhand",
+  "source": "https://static.crates.io/crates/backhand/backhand-0.25.1.crate",
+  "sha256": "72e7812fe72262dd26c2b4309c8e8f2c028db1ffbeb21054f009f847f09ca92c",
+  "files": [],
+  "upstream_commit": "4ac463be1071219b46fc0184ce452704ea705ba0",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE-MIT",
+      "source": "https://raw.githubusercontent.com/wcampbell0x2a/backhand/4ac463be1071219b46fc0184ce452704ea705ba0/LICENSE-MIT"
+    },
+    {
+      "file": "upstream-LICENSE-APACHE",
+      "source": "https://raw.githubusercontent.com/wcampbell0x2a/backhand/4ac463be1071219b46fc0184ce452704ea705ba0/LICENSE-APACHE"
+    }
+  ]
+}

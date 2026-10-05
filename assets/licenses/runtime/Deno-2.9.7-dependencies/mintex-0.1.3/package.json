@@ -1,0 +1,14 @@
+{
+  "name": "mintex",
+  "version": "0.1.3",
+  "license": "Apache-2.0",
+  "authors": [
+    "garypen <garypen@gmail.com>"
+  ],
+  "repository": "https://github.com/garypen/mintex",
+  "source": "https://static.crates.io/crates/mintex/mintex-0.1.3.crate",
+  "sha256": "9bec4598fddb13cc7b528819e697852653252b760f1228b7642679bf2ff2cd07",
+  "files": [
+    "LICENSE"
+  ]
+}

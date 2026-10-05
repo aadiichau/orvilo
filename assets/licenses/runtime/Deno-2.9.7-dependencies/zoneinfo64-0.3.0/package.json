@@ -1,0 +1,14 @@
+{
+  "name": "zoneinfo64",
+  "version": "0.3.0",
+  "license": "Unicode-3.0",
+  "authors": [
+    "The ICU4X Project Developers"
+  ],
+  "repository": "https://github.com/unicode-org/icu4x",
+  "source": "https://static.crates.io/crates/zoneinfo64/zoneinfo64-0.3.0.crate",
+  "sha256": "ed6eb2607e906160c457fd573e9297e65029669906b9ac8fb1b5cd5e055f0705",
+  "files": [
+    "LICENSE"
+  ]
+}

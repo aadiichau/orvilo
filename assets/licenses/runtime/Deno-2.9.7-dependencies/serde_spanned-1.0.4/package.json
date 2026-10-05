@@ -1,0 +1,13 @@
+{
+  "name": "serde_spanned",
+  "version": "1.0.4",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/toml-rs/toml",
+  "source": "https://static.crates.io/crates/serde_spanned/serde_spanned-1.0.4.crate",
+  "sha256": "f8bbf91e5a4d6315eee45e704372590b30e260ee83af6639d64557f51b067776",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

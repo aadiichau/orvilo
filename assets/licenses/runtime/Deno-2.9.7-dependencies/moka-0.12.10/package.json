@@ -1,0 +1,13 @@
+{
+  "name": "moka",
+  "version": "0.12.10",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/moka-rs/moka",
+  "source": "https://static.crates.io/crates/moka/moka-0.12.10.crate",
+  "sha256": "a9321642ca94a4282428e6ea4af8cc2ca4eac48ac7a6a4ea8f33f76d0ce70926",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

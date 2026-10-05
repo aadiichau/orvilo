@@ -1,0 +1,13 @@
+{
+  "name": "crossbeam-deque",
+  "version": "0.8.5",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/crossbeam-rs/crossbeam",
+  "source": "https://static.crates.io/crates/crossbeam-deque/crossbeam-deque-0.8.5.crate",
+  "sha256": "613f8cc01fe9cf1a3eb3d7f488fd2fa8388403e97039e2f73692932e291a770d",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

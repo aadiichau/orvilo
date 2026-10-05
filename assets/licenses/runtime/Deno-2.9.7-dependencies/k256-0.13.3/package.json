@@ -1,0 +1,15 @@
+{
+  "name": "k256",
+  "version": "0.13.3",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/elliptic-curves/tree/master/k256",
+  "source": "https://static.crates.io/crates/k256/k256-0.13.3.crate",
+  "sha256": "956ff9b67e26e1a6a866cb758f12c6f8746208489e3e4a4b5580802f2f0a587b",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

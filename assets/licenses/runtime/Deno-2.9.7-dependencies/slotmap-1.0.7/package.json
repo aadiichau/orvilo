@@ -1,0 +1,14 @@
+{
+  "name": "slotmap",
+  "version": "1.0.7",
+  "license": "Zlib",
+  "authors": [
+    "Orson Peters <orsonpeters@gmail.com>"
+  ],
+  "repository": "https://github.com/orlp/slotmap",
+  "source": "https://static.crates.io/crates/slotmap/slotmap-1.0.7.crate",
+  "sha256": "dbff4acf519f630b3a3ddcfaea6c06b42174d9a44bc70c620e9ed1649d58b82a",
+  "files": [
+    "LICENSE"
+  ]
+}

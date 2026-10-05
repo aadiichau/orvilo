@@ -1,0 +1,19 @@
+{
+  "name": "zstd-sys",
+  "version": "2.0.15+zstd.1.5.7",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Alexandre Bury <alexandre.bury@gmail.com>"
+  ],
+  "repository": "https://github.com/gyscos/zstd-rs",
+  "source": "https://static.crates.io/crates/zstd-sys/zstd-sys-2.0.15+zstd.1.5.7.crate",
+  "sha256": "eb81183ddd97d0c74cedf1d50d85c8d08c1b8b68ee863bdee9e706eedba1a237",
+  "files": [
+    "LICENSE",
+    "LICENSE.Apache-2.0",
+    "LICENSE.BSD-3-Clause",
+    "LICENSE.Mit",
+    "zstd_COPYING",
+    "zstd_LICENSE"
+  ]
+}

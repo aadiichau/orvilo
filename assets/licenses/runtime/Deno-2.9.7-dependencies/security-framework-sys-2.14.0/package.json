@@ -1,0 +1,16 @@
+{
+  "name": "security-framework-sys",
+  "version": "2.14.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Steven Fackler <sfackler@gmail.com>",
+    "Kornel <kornel@geekhood.net>"
+  ],
+  "repository": "https://github.com/kornelski/rust-security-framework",
+  "source": "https://static.crates.io/crates/security-framework-sys/security-framework-sys-2.14.0.crate",
+  "sha256": "49db231d56a190491cb4aeda9527f1ad45345af50b0851622a7adb8c03b01c32",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

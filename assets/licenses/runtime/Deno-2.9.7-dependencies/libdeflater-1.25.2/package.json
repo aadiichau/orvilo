@@ -1,0 +1,14 @@
+{
+  "name": "libdeflater",
+  "version": "1.25.2",
+  "license": "Apache-2.0",
+  "authors": [
+    "Adam Kewley <contact@adamkewley.com>"
+  ],
+  "repository": "https://github.com/libdeflater/libdeflater",
+  "source": "https://static.crates.io/crates/libdeflater/libdeflater-1.25.2.crate",
+  "sha256": "d1ee41cf6fb1bb6030dfb59ffb7bc01ab26aade44142084c87f0fc7a1658fe71",
+  "files": [
+    "LICENSE"
+  ]
+}

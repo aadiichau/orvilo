@@ -1,0 +1,17 @@
+{
+  "name": "rand_core",
+  "version": "0.9.3",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The Rand Project Developers",
+    "The Rust Project Developers"
+  ],
+  "repository": "https://github.com/rust-random/rand",
+  "source": "https://static.crates.io/crates/rand_core/rand_core-0.9.3.crate",
+  "sha256": "99d9a13982dcf210057a8a78572b2217b667c3beacbf3a0d8b454f6f82837d38",
+  "files": [
+    "COPYRIGHT",
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

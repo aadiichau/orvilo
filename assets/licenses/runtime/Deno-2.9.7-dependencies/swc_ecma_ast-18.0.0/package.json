@@ -1,0 +1,14 @@
+{
+  "name": "swc_ecma_ast",
+  "version": "18.0.0",
+  "license": "Apache-2.0",
+  "authors": [
+    "\uac15\ub3d9\uc724 <kdy1997.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/swc-project/swc.git",
+  "source": "https://static.crates.io/crates/swc_ecma_ast/swc_ecma_ast-18.0.0.crate",
+  "sha256": "a573a0c72850dec8d4d8085f152d5778af35a2520c3093b242d2d1d50776da7c",
+  "files": [],
+  "upstream_commit": "00ec64fe9a4da0973f14721d7b6dc1f13cd75413",
+  "supplemental_notices": []
+}

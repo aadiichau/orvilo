@@ -1,0 +1,15 @@
+{
+  "name": "hashbrown",
+  "version": "0.16.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Amanieu d'Antras <amanieu@gmail.com>"
+  ],
+  "repository": "https://github.com/rust-lang/hashbrown",
+  "source": "https://static.crates.io/crates/hashbrown/hashbrown-0.16.1.crate",
+  "sha256": "841d1cc9bed7f9236f321df977030373f4a4163ae1a7dbfe1a51a2c1a51d9100",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

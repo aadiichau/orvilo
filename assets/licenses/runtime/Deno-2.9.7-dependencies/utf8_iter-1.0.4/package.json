@@ -1,0 +1,16 @@
+{
+  "name": "utf8_iter",
+  "version": "1.0.4",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "Henri Sivonen <hsivonen@hsivonen.fi>"
+  ],
+  "repository": "https://github.com/hsivonen/utf8_iter",
+  "source": "https://static.crates.io/crates/utf8_iter/utf8_iter-1.0.4.crate",
+  "sha256": "b6c140620e7ffbb22c2dee59cafe6084a59b5ffc27a8859a5f0d494b5d52b6be",
+  "files": [
+    "COPYRIGHT",
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

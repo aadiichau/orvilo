@@ -1,0 +1,17 @@
+{
+  "name": "opentelemetry_sdk",
+  "version": "0.32.1",
+  "license": "Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/open-telemetry/opentelemetry-rust/tree/main/opentelemetry-sdk",
+  "source": "https://static.crates.io/crates/opentelemetry_sdk/opentelemetry_sdk-0.32.1.crate",
+  "sha256": "9b59f80e1ac4d5ff7a2db8fb6c80badb7f0f3f858211fba08dd9aaec750894f9",
+  "files": [],
+  "upstream_commit": "284a37d93b3856e1975c2807ba3af1421ebd9b52",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/open-telemetry/opentelemetry-rust/284a37d93b3856e1975c2807ba3af1421ebd9b52/LICENSE"
+    }
+  ]
+}

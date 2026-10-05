@@ -1,0 +1,15 @@
+{
+  "name": "p224",
+  "version": "0.13.2",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/elliptic-curves/tree/master/p224",
+  "source": "https://static.crates.io/crates/p224/p224-0.13.2.crate",
+  "sha256": "30c06436d66652bc2f01ade021592c80a2aad401570a18aa18b82e440d2b9aa1",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

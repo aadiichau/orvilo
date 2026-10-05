@@ -1,0 +1,17 @@
+{
+  "name": "uuid",
+  "version": "1.21.0",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "Ashley Mannix<ashleymannix@live.com.au>",
+    "Dylan DPC<dylan.dpc@gmail.com>",
+    "Hunar Roop Kahlon<hunar.roop@gmail.com>"
+  ],
+  "repository": "https://github.com/uuid-rs/uuid",
+  "source": "https://static.crates.io/crates/uuid/uuid-1.21.0.crate",
+  "sha256": "b672338555252d43fd2240c714dc444b8c6fb0a5c5335e65a07bba7742735ddb",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

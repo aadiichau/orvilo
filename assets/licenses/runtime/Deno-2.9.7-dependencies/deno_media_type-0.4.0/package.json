@@ -1,0 +1,14 @@
+{
+  "name": "deno_media_type",
+  "version": "0.4.0",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/deno_media_type",
+  "source": "https://static.crates.io/crates/deno_media_type/deno_media_type-0.4.0.crate",
+  "sha256": "debab24ecd9f4fd64aa42fb18a02dff20a97d5830b2b85b98ce70b509f790763",
+  "files": [
+    "LICENSE"
+  ]
+}

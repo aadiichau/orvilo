@@ -1,0 +1,15 @@
+{
+  "name": "blake2",
+  "version": "0.10.6",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/hashes",
+  "source": "https://static.crates.io/crates/blake2/blake2-0.10.6.crate",
+  "sha256": "46502ad458c9a52b69d4d4d32775c788b7a1b85e8bc9d482d92250fc0e3f8efe",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

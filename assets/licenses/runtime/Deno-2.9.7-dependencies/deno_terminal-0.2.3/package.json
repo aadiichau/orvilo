@@ -1,0 +1,14 @@
+{
+  "name": "deno_terminal",
+  "version": "0.2.3",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/deno_terminal",
+  "source": "https://static.crates.io/crates/deno_terminal/deno_terminal-0.2.3.crate",
+  "sha256": "f3ba8041ae7319b3ca6a64c399df4112badcbbe0868b4517637647614bede4be",
+  "files": [
+    "LICENSE"
+  ]
+}

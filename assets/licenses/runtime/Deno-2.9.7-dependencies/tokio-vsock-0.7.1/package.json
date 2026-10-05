@@ -1,0 +1,16 @@
+{
+  "name": "tokio-vsock",
+  "version": "0.7.1",
+  "license": "Apache-2.0",
+  "authors": [
+    "fsyncd",
+    "rust-vsock"
+  ],
+  "repository": "https://github.com/rust-vsock/tokio-vsock",
+  "source": "https://static.crates.io/crates/tokio-vsock/tokio-vsock-0.7.1.crate",
+  "sha256": "1824fc0300433f400df6b6264a9ab00ba93f39d38c3157fb5f05183476c4af10",
+  "files": [
+    "LICENSE",
+    "THIRD-PARTY-LICENSES"
+  ]
+}

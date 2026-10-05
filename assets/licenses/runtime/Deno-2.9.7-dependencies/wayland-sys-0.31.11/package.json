@@ -1,0 +1,14 @@
+{
+  "name": "wayland-sys",
+  "version": "0.31.11",
+  "license": "MIT",
+  "authors": [
+    "Elinor Berger <elinor@safaradeg.net>"
+  ],
+  "repository": "https://github.com/smithay/wayland-rs",
+  "source": "https://static.crates.io/crates/wayland-sys/wayland-sys-0.31.11.crate",
+  "sha256": "d8eab23fefc9e41f8e841df4a9c707e8a8c4ed26e944ef69297184de2785e3be",
+  "files": [
+    "LICENSE.txt"
+  ]
+}

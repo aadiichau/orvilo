@@ -1,0 +1,14 @@
+{
+  "name": "zerofrom",
+  "version": "0.1.7",
+  "license": "Unicode-3.0",
+  "authors": [
+    "Manish Goregaokar <manishsmail@gmail.com>"
+  ],
+  "repository": "https://github.com/unicode-org/icu4x",
+  "source": "https://static.crates.io/crates/zerofrom/zerofrom-0.1.7.crate",
+  "sha256": "69faa1f2a1ea75661980b013019ed6687ed0e83d069bc1114e2cc74c6c04c4df",
+  "files": [
+    "LICENSE"
+  ]
+}

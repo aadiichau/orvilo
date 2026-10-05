@@ -1,0 +1,15 @@
+{
+  "name": "home",
+  "version": "0.5.9",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Brian Anderson <andersrb@gmail.com>"
+  ],
+  "repository": "https://github.com/rust-lang/cargo",
+  "source": "https://static.crates.io/crates/home/home-0.5.9.crate",
+  "sha256": "e3d1354bf6b7235cb4a0576c2619fd4ed18183f689b12b006a0ee7329eeff9a5",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

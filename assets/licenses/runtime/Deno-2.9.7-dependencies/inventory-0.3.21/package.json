@@ -1,0 +1,15 @@
+{
+  "name": "inventory",
+  "version": "0.3.21",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>"
+  ],
+  "repository": "https://github.com/dtolnay/inventory",
+  "source": "https://static.crates.io/crates/inventory/inventory-0.3.21.crate",
+  "sha256": "bc61209c082fbeb19919bee74b176221b27223e27b65d781eb91af24eb1fb46e",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

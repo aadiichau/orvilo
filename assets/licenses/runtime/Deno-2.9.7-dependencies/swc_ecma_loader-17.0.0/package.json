@@ -1,0 +1,14 @@
+{
+  "name": "swc_ecma_loader",
+  "version": "17.0.0",
+  "license": "Apache-2.0",
+  "authors": [
+    "\uac15\ub3d9\uc724 <kdy1997.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/swc-project/swc.git",
+  "source": "https://static.crates.io/crates/swc_ecma_loader/swc_ecma_loader-17.0.0.crate",
+  "sha256": "fbcababb48f0d46587a0a854b2c577eb3a56fa99687de558338021e93cd2c8f5",
+  "files": [],
+  "upstream_commit": "00ec64fe9a4da0973f14721d7b6dc1f13cd75413",
+  "supplemental_notices": []
+}

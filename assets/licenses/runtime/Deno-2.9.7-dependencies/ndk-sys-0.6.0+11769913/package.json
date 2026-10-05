@@ -1,0 +1,23 @@
+{
+  "name": "ndk-sys",
+  "version": "0.6.0+11769913",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The Rust Windowing contributors"
+  ],
+  "repository": "https://github.com/rust-mobile/ndk",
+  "source": "https://static.crates.io/crates/ndk-sys/ndk-sys-0.6.0+11769913.crate",
+  "sha256": "ee6cda3051665f1fb8d9e08fc35c96d5a244fb1be711a03b71118828afc9a873",
+  "files": [],
+  "upstream_commit": "49bbbba16c58ff63cb8a0ad0eca5a9fb7ecaec25",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE-MIT",
+      "source": "https://raw.githubusercontent.com/rust-mobile/ndk/49bbbba16c58ff63cb8a0ad0eca5a9fb7ecaec25/LICENSE-MIT"
+    },
+    {
+      "file": "upstream-LICENSE-APACHE",
+      "source": "https://raw.githubusercontent.com/rust-mobile/ndk/49bbbba16c58ff63cb8a0ad0eca5a9fb7ecaec25/LICENSE-APACHE"
+    }
+  ]
+}

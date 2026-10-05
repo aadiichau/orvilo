@@ -1,0 +1,14 @@
+{
+  "name": "cooked-waker",
+  "version": "5.0.0",
+  "license": "MPL-2.0",
+  "authors": [
+    "Nathan West <Lucretiel@gmail.com>"
+  ],
+  "repository": "https://github.com/Lucretiel/cooked-waker",
+  "source": "https://static.crates.io/crates/cooked-waker/cooked-waker-5.0.0.crate",
+  "sha256": "147be55d677052dabc6b22252d5dd0fd4c29c8c27aa4f2fbef0f94aa003b406f",
+  "files": [
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "tokio-macros",
+  "version": "2.5.0",
+  "license": "MIT",
+  "authors": [
+    "Tokio Contributors <team@tokio.rs>"
+  ],
+  "repository": "https://github.com/tokio-rs/tokio",
+  "source": "https://static.crates.io/crates/tokio-macros/tokio-macros-2.5.0.crate",
+  "sha256": "6e06d43f1345a3bcd39f6a56dbb7dcab2ba47e68e8ac134855e7e2bdbaf8cab8",
+  "files": [
+    "LICENSE"
+  ]
+}

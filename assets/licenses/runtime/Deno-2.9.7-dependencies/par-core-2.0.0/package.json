@@ -1,0 +1,19 @@
+{
+  "name": "par-core",
+  "version": "2.0.0",
+  "license": "Apache-2.0",
+  "authors": [
+    "\uac15\ub3d9\uc724 <kdy1997.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/dudykr/ddbase.git",
+  "source": "https://static.crates.io/crates/par-core/par-core-2.0.0.crate",
+  "sha256": "e96cbd21255b7fb29a5d51ef38a779b517a91abd59e2756c039583f43ef4c90f",
+  "files": [],
+  "upstream_commit": "d46ef439d30d2b64eb87d4e197929548b51b21be",
+  "supplemental_notices": [
+    {
+      "file": "upstream-crates_par-core_LICENSE",
+      "source": "https://raw.githubusercontent.com/dudykr/ddbase/d46ef439d30d2b64eb87d4e197929548b51b21be/crates/par-core/LICENSE"
+    }
+  ]
+}

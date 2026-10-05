@@ -1,0 +1,16 @@
+{
+  "name": "spin",
+  "version": "0.9.8",
+  "license": "MIT",
+  "authors": [
+    "Mathijs van de Nes <git@mathijs.vd-nes.nl>",
+    "John Ericson <git@JohnEricson.me>",
+    "Joshua Barretto <joshua.s.barretto@gmail.com>"
+  ],
+  "repository": "https://github.com/mvdnes/spin-rs.git",
+  "source": "https://static.crates.io/crates/spin/spin-0.9.8.crate",
+  "sha256": "6980e8d7511241f8acf4aebddbb1ff938df5eebe98691418c4468d0b72a96a67",
+  "files": [
+    "LICENSE"
+  ]
+}

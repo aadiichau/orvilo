@@ -1,0 +1,16 @@
+{
+  "name": "khronos-egl",
+  "version": "6.0.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Timoth\u00e9e Haudebourg <author@haudebourg.net>",
+    "Sean Kerr <sean@metatomic.io>"
+  ],
+  "repository": "https://github.com/timothee-haudebourg/khronos-egl",
+  "source": "https://static.crates.io/crates/khronos-egl/khronos-egl-6.0.0.crate",
+  "sha256": "6aae1df220ece3c0ada96b8153459b67eebe9ae9212258bb0134ae60416fdf76",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

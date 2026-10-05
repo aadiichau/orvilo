@@ -1,0 +1,14 @@
+{
+  "name": "rustls",
+  "version": "0.23.40",
+  "license": "Apache-2.0 OR ISC OR MIT",
+  "authors": [],
+  "repository": "https://github.com/rustls/rustls",
+  "source": "https://static.crates.io/crates/rustls/rustls-0.23.40.crate",
+  "sha256": "ef86cd5876211988985292b91c96a8f2d298df24e75989a43a3c73f2d4d8168b",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-ISC",
+    "LICENSE-MIT"
+  ]
+}

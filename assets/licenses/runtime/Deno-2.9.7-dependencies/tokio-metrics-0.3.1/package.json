@@ -1,0 +1,14 @@
+{
+  "name": "tokio-metrics",
+  "version": "0.3.1",
+  "license": "MIT",
+  "authors": [
+    "Tokio Contributors <team@tokio.rs>"
+  ],
+  "repository": "https://github.com/tokio-rs/tokio-metrics",
+  "source": "https://static.crates.io/crates/tokio-metrics/tokio-metrics-0.3.1.crate",
+  "sha256": "eace09241d62c98b7eeb1107d4c5c64ca3bd7da92e8c218c153ab3a78f9be112",
+  "files": [
+    "LICENSE"
+  ]
+}

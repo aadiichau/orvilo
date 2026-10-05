@@ -1,0 +1,15 @@
+{
+  "name": "hipstr",
+  "version": "0.6.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Polazarus <polazarus@users.noreply.github.com>"
+  ],
+  "repository": "https://github.com/polazarus/hipstr",
+  "source": "https://static.crates.io/crates/hipstr/hipstr-0.6.0.crate",
+  "sha256": "97971ffc85d4c98de12e2608e992a43f5294ebb625fdb045b27c731b64c4c6d6",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

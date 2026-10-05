@@ -1,0 +1,15 @@
+{
+  "name": "fallible-streaming-iterator",
+  "version": "0.1.9",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Steven Fackler <sfackler@gmail.com>"
+  ],
+  "repository": "https://github.com/sfackler/fallible-streaming-iterator",
+  "source": "https://static.crates.io/crates/fallible-streaming-iterator/fallible-streaming-iterator-0.1.9.crate",
+  "sha256": "7360491ce676a36bf9bb3c56c1aa791658183a54d2744120f27285738d90465a",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

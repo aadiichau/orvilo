@@ -1,0 +1,17 @@
+{
+  "name": "prost-derive",
+  "version": "0.14.4",
+  "license": "Apache-2.0",
+  "authors": [
+    "Dan Burkert <dan@danburkert.com>",
+    "Lucio Franco <luciofranco14@gmail.com>",
+    "Casper Meijn <casper@meijn.net>",
+    "Tokio Contributors <team@tokio.rs>"
+  ],
+  "repository": "https://github.com/tokio-rs/prost",
+  "source": "https://static.crates.io/crates/prost-derive/prost-derive-0.14.4.crate",
+  "sha256": "b570b25f7617e43d59005d0990ccb79e950a423952cea19671b7a876da390adf",
+  "files": [
+    "LICENSE"
+  ]
+}

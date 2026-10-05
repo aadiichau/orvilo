@@ -1,0 +1,15 @@
+{
+  "name": "weezl",
+  "version": "0.1.8",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The image-rs Developers"
+  ],
+  "repository": "https://github.com/image-rs/lzw",
+  "source": "https://static.crates.io/crates/weezl/weezl-0.1.8.crate",
+  "sha256": "53a85b86a771b1c87058196170769dd264f66c0782acf1ae6cc51bfd64b39082",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

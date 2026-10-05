@@ -1,0 +1,15 @@
+{
+  "name": "hash32",
+  "version": "0.3.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Jorge Aparicio <jorge@japaric.io>"
+  ],
+  "repository": "https://github.com/japaric/hash32",
+  "source": "https://static.crates.io/crates/hash32/hash32-0.3.1.crate",
+  "sha256": "47d60b12902ba28e2730cd37e95b8c9223af2808df9e902d4df49588d1470606",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

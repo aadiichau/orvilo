@@ -1,0 +1,15 @@
+{
+  "name": "ghash",
+  "version": "0.5.1",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/universal-hashes",
+  "source": "https://static.crates.io/crates/ghash/ghash-0.5.1.crate",
+  "sha256": "f0d8a4362ccb29cb0b265253fb0a2728f592895ee6854fd9bc13f2ffda266ff1",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

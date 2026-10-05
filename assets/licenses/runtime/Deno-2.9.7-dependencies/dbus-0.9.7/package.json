@@ -1,0 +1,15 @@
+{
+  "name": "dbus",
+  "version": "0.9.7",
+  "license": "Apache-2.0/MIT",
+  "authors": [
+    "David Henningsson <diwic@ubuntu.com>"
+  ],
+  "repository": "https://github.com/diwic/dbus-rs",
+  "source": "https://static.crates.io/crates/dbus/dbus-0.9.7.crate",
+  "sha256": "1bb21987b9fb1613058ba3843121dd18b163b254d8a6e797e144cbac14d96d1b",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

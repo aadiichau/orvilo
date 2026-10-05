@@ -1,0 +1,13 @@
+{
+  "name": "futures",
+  "version": "0.3.31",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/rust-lang/futures-rs",
+  "source": "https://static.crates.io/crates/futures/futures-0.3.31.crate",
+  "sha256": "65bc07b1a8bc7c85c5f2e110c476c7389b4554ba72af57d8445ea63a576b0876",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

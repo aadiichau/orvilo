@@ -1,0 +1,14 @@
+{
+  "name": "untrusted",
+  "version": "0.7.1",
+  "license": "ISC",
+  "authors": [
+    "Brian Smith <brian@briansmith.org>"
+  ],
+  "repository": "https://github.com/briansmith/untrusted",
+  "source": "https://static.crates.io/crates/untrusted/untrusted-0.7.1.crate",
+  "sha256": "a156c684c91ea7d62626509bce3cb4e1d9ed5c4d978f7b4352658f96a4c26b4a",
+  "files": [
+    "LICENSE.txt"
+  ]
+}

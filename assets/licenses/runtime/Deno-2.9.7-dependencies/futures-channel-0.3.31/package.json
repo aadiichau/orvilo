@@ -1,0 +1,13 @@
+{
+  "name": "futures-channel",
+  "version": "0.3.31",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/rust-lang/futures-rs",
+  "source": "https://static.crates.io/crates/futures-channel/futures-channel-0.3.31.crate",
+  "sha256": "2dff15bf788c671c1934e366d07e30c1814a8ef514e1af724a602e8a2fbe1b10",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

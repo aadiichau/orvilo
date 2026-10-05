@@ -1,0 +1,23 @@
+{
+  "name": "asn1-rs-derive",
+  "version": "0.4.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Pierre Chifflier <chifflier@wzdftpd.net>"
+  ],
+  "repository": "https://github.com/rusticata/asn1-rs.git",
+  "source": "https://static.crates.io/crates/asn1-rs-derive/asn1-rs-derive-0.4.0.crate",
+  "sha256": "726535892e8eae7e70657b4c8ea93d26b8553afb1ce617caee529ef96d7dee6c",
+  "files": [],
+  "upstream_commit": "28257314e48d1ad4e62b8159c939518e17caf826",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE-MIT",
+      "source": "https://raw.githubusercontent.com/rusticata/asn1-rs/28257314e48d1ad4e62b8159c939518e17caf826/LICENSE-MIT"
+    },
+    {
+      "file": "upstream-LICENSE-APACHE",
+      "source": "https://raw.githubusercontent.com/rusticata/asn1-rs/28257314e48d1ad4e62b8159c939518e17caf826/LICENSE-APACHE"
+    }
+  ]
+}

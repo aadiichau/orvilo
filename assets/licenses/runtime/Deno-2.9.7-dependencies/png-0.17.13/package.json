@@ -1,0 +1,15 @@
+{
+  "name": "png",
+  "version": "0.17.13",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The image-rs Developers"
+  ],
+  "repository": "https://github.com/image-rs/image-png",
+  "source": "https://static.crates.io/crates/png/png-0.17.13.crate",
+  "sha256": "06e4b0d3d1312775e782c86c91a111aa1f910cbb65e1337f9975b5f9a554b5e1",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

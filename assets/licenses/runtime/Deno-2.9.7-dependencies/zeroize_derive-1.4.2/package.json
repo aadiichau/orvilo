@@ -1,0 +1,15 @@
+{
+  "name": "zeroize_derive",
+  "version": "1.4.2",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "The RustCrypto Project Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/utils/tree/master/zeroize/derive",
+  "source": "https://static.crates.io/crates/zeroize_derive/zeroize_derive-1.4.2.crate",
+  "sha256": "ce36e65b0d2999d2aafac989fb249189a141aee1f53c612c1f37d72631959f69",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

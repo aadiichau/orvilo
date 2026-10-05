@@ -1,0 +1,17 @@
+{
+  "name": "bstr",
+  "version": "1.9.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Andrew Gallant <jamslam@gmail.com>"
+  ],
+  "repository": "https://github.com/BurntSushi/bstr",
+  "source": "https://static.crates.io/crates/bstr/bstr-1.9.1.crate",
+  "sha256": "05efc5cfd9110c8416e471df0e96702d58690178e206e61b7173706673c93706",
+  "files": [
+    "COPYING",
+    "LICENSE-APACHE",
+    "LICENSE-MIT",
+    "src_unicode_data_LICENSE-UNICODE"
+  ]
+}

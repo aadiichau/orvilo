@@ -1,0 +1,15 @@
+{
+  "name": "num-integer",
+  "version": "0.1.46",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The Rust Project Developers"
+  ],
+  "repository": "https://github.com/rust-num/num-integer",
+  "source": "https://static.crates.io/crates/num-integer/num-integer-0.1.46.crate",
+  "sha256": "7969661fd2958a5cb096e56c8e1ad0444ac2bbcd0061bd28660485a44879858f",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

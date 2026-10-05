@@ -1,0 +1,15 @@
+{
+  "name": "unicode_categories",
+  "version": "0.1.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Sean Gillespie <sean@swgillespie.me>"
+  ],
+  "repository": "https://github.com/swgillespie/unicode-categories",
+  "source": "https://static.crates.io/crates/unicode_categories/unicode_categories-0.1.1.crate",
+  "sha256": "39ec24b3121d976906ece63c9daad25b85969647682eee313cb5779fdd69e14e",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

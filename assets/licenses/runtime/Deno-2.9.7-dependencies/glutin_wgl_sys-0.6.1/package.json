@@ -1,0 +1,14 @@
+{
+  "name": "glutin_wgl_sys",
+  "version": "0.6.1",
+  "license": "Apache-2.0",
+  "authors": [
+    "Kirill Chibisov <contact@kchibisov.com>"
+  ],
+  "repository": "https://github.com/rust-windowing/glutin",
+  "source": "https://static.crates.io/crates/glutin_wgl_sys/glutin_wgl_sys-0.6.1.crate",
+  "sha256": "2c4ee00b289aba7a9e5306d57c2d05499b2e5dc427f84ac708bd2c090212cf3e",
+  "files": [
+    "LICENSE"
+  ]
+}

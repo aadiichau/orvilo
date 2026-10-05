@@ -1,0 +1,14 @@
+{
+  "name": "rmp",
+  "version": "0.8.14",
+  "license": "MIT",
+  "authors": [
+    "Evgeny Safronov <division494@gmail.com>"
+  ],
+  "repository": "https://github.com/3Hren/msgpack-rust",
+  "source": "https://static.crates.io/crates/rmp/rmp-0.8.14.crate",
+  "sha256": "228ed7c16fa39782c3b3468e974aec2795e9089153cd08ee2e9aefb3613334c4",
+  "files": [
+    "LICENSE"
+  ]
+}

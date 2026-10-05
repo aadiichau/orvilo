@@ -12,6 +12,8 @@
 | `Orvilo-Setup-1.0.2.exe` | You want the installer, a Start menu entry, and optional desktop shortcut. |
 | `Orvilo-1.0.2-Windows-x64.exe` | You want a portable application without installation. |
 | `Orvilo-1.0.2-source.zip` | You want to inspect, modify, or build the project. |
+| `Orvilo-1.0.2-notices.zip` | You want the bundled dependency notices without running the app. |
+| `DEPENDENCY_SOURCES.md` | You want matching dependency sources and rebuild instructions. |
 | `SHA256SUMS.txt` | You want to check downloaded file integrity. |
 
 The Windows executables target 64-bit Windows 10/11 and include Python, Qt, and

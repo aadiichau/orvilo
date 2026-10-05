@@ -1,0 +1,15 @@
+{
+  "name": "autocfg",
+  "version": "1.3.0",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "Josh Stone <cuviper@gmail.com>"
+  ],
+  "repository": "https://github.com/cuviper/autocfg",
+  "source": "https://static.crates.io/crates/autocfg/autocfg-1.3.0.crate",
+  "sha256": "0c4b4d0bd25bd0b74681c0ad21497610ce1b7c91b1022cd21c80c6fbdd9476b0",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

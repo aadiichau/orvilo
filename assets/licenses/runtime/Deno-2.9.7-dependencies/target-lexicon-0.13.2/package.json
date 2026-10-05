@@ -1,0 +1,14 @@
+{
+  "name": "target-lexicon",
+  "version": "0.13.2",
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "authors": [
+    "Dan Gohman <sunfish@mozilla.com>"
+  ],
+  "repository": "https://github.com/bytecodealliance/target-lexicon",
+  "source": "https://static.crates.io/crates/target-lexicon/target-lexicon-0.13.2.crate",
+  "sha256": "e502f78cdbb8ba4718f566c418c52bc729126ffd16baee5baa718cf25dd5a69a",
+  "files": [
+    "LICENSE"
+  ]
+}

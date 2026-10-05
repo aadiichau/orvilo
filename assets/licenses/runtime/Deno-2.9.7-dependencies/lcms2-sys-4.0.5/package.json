@@ -1,0 +1,14 @@
+{
+  "name": "lcms2-sys",
+  "version": "4.0.5",
+  "license": "MIT",
+  "authors": [
+    "Kornel Lesi\u0144ski <kornel@geekhood.net>"
+  ],
+  "repository": "https://github.com/kornelski/rust-lcms2-sys.git",
+  "source": "https://static.crates.io/crates/lcms2-sys/lcms2-sys-4.0.5.crate",
+  "sha256": "593265f9a3172180024fb62580ee31348f31be924b19416da174ebb7fb623d2e",
+  "files": [
+    "vendor_LICENSE"
+  ]
+}

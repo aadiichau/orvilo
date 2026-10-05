@@ -1,0 +1,12 @@
+{
+  "name": "lax-css",
+  "version": "0.3.0",
+  "license": "MIT",
+  "authors": [],
+  "repository": "https://github.com/bartlomieju/lax",
+  "source": "https://static.crates.io/crates/lax-css/lax-css-0.3.0.crate",
+  "sha256": "c964e0b1c58e6a38762c707d7b5f7a78ab4efab65d3e6c4ab2031deb8f65229e",
+  "files": [
+    "LICENSE"
+  ]
+}

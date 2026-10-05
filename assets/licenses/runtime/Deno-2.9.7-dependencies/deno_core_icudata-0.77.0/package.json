@@ -1,0 +1,14 @@
+{
+  "name": "deno_core_icudata",
+  "version": "0.77.0",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/deno_core_icudata",
+  "source": "https://static.crates.io/crates/deno_core_icudata/deno_core_icudata-0.77.0.crate",
+  "sha256": "a9efff8990a82c1ae664292507e1a5c6749ddd2312898cdf9cd7cb1fd4bc64c6",
+  "files": [],
+  "upstream_commit": "83537ba16a4bf1645fc8322e81f7aaf0149a8922",
+  "supplemental_notices": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "icu_calendar_data",
+  "version": "2.2.0",
+  "license": "Unicode-3.0",
+  "authors": [
+    "The ICU4X Project Developers"
+  ],
+  "repository": "https://github.com/unicode-org/icu4x",
+  "source": "https://static.crates.io/crates/icu_calendar_data/icu_calendar_data-2.2.0.crate",
+  "sha256": "118577bcf3a0fa7c6ac0a7d6e951814da84ee56b9b1f68fb4d8d10b08cefaf4d",
+  "files": [
+    "LICENSE"
+  ]
+}

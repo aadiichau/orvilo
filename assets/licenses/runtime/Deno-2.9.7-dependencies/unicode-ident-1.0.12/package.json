@@ -1,0 +1,16 @@
+{
+  "name": "unicode-ident",
+  "version": "1.0.12",
+  "license": "(MIT OR Apache-2.0) AND Unicode-DFS-2016",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>"
+  ],
+  "repository": "https://github.com/dtolnay/unicode-ident",
+  "source": "https://static.crates.io/crates/unicode-ident/unicode-ident-1.0.12.crate",
+  "sha256": "3354b9ac3fae1ff6755cb6db53683adb661634f67557942dea4facebec0fee4b",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT",
+    "LICENSE-UNICODE"
+  ]
+}

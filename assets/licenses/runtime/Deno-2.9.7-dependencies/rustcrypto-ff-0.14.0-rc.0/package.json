@@ -1,0 +1,16 @@
+{
+  "name": "rustcrypto-ff",
+  "version": "0.14.0-rc.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Sean Bowe <ewillbefull@gmail.com>",
+    "Jack Grigg <thestr4d@gmail.com>"
+  ],
+  "repository": "https://github.com/RustCrypto/ff",
+  "source": "https://static.crates.io/crates/rustcrypto-ff/rustcrypto-ff-0.14.0-rc.0.crate",
+  "sha256": "c5db129183b2c139d7d87d08be57cba626c715789db17aec65c8866bfd767d1f",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

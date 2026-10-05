@@ -1,0 +1,18 @@
+{
+  "name": "libnghttp2",
+  "version": "1.68.0",
+  "license": "Apache-2.0",
+  "authors": [
+    "Divy Srivastava <me@littledivy.com>"
+  ],
+  "repository": "https://github.com/littledivy/libnghttp2",
+  "source": "https://static.crates.io/crates/libnghttp2/libnghttp2-1.68.0.crate",
+  "sha256": "de061ac7dc8893bbb8b212a03444dc19f0f2f28e2be4c80dbc19aa9cc45586e5",
+  "files": [
+    "LICENSE",
+    "nghttp2_COPYING",
+    "nghttp2_LICENSE",
+    "nghttp2_doc__exts_rubydomain_LICENSE.rubydomain",
+    "nghttp2_third-party_llhttp_LICENSE"
+  ]
+}

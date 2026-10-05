@@ -1,0 +1,17 @@
+{
+  "name": "rand",
+  "version": "0.10.2",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The Rand Project Developers",
+    "The Rust Project Developers"
+  ],
+  "repository": "https://github.com/rust-random/rand",
+  "source": "https://static.crates.io/crates/rand/rand-0.10.2.crate",
+  "sha256": "c7f5fa3a058cd35567ef9bfa5e75732bee0f9e4c55fa90477bef2dfcdbc4be80",
+  "files": [
+    "COPYRIGHT",
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

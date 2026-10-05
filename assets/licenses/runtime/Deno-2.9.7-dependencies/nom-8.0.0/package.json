@@ -1,0 +1,14 @@
+{
+  "name": "nom",
+  "version": "8.0.0",
+  "license": "MIT",
+  "authors": [
+    "contact@geoffroycouprie.com"
+  ],
+  "repository": "https://github.com/rust-bakery/nom",
+  "source": "https://static.crates.io/crates/nom/nom-8.0.0.crate",
+  "sha256": "df9761775871bdef83bee530e60050f7e54b1105350d6884eb0fb4f46c2f9405",
+  "files": [
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "import_map",
+  "version": "0.25.0",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/import_map",
+  "source": "https://static.crates.io/crates/import_map/import_map-0.25.0.crate",
+  "sha256": "61dcb2ebdf4a4df8e6353c566f4b51ee2f602341538e41e77c8f861ac1bb16d5",
+  "files": [],
+  "upstream_commit": "4696fcc03310ea0e7d3adf46810310fd9203403d",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/denoland/import_map/4696fcc03310ea0e7d3adf46810310fd9203403d/LICENSE"
+    }
+  ]
+}

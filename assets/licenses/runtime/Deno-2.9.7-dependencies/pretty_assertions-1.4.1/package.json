@@ -1,0 +1,17 @@
+{
+  "name": "pretty_assertions",
+  "version": "1.4.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Colin Kiegel <kiegel@gmx.de>",
+    "Florent Fayolle <florent.fayolle69@gmail.com>",
+    "Tom Milligan <code@tommilligan.net>"
+  ],
+  "repository": "https://github.com/rust-pretty-assertions/rust-pretty-assertions",
+  "source": "https://static.crates.io/crates/pretty_assertions/pretty_assertions-1.4.1.crate",
+  "sha256": "3ae130e2f271fbc2ac3a40fb1d07180839cdbbe443c7a27e1e3c13c5cac0116d",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

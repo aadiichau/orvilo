@@ -1,0 +1,14 @@
+{
+  "name": "sync_wrapper",
+  "version": "1.0.2",
+  "license": "Apache-2.0",
+  "authors": [
+    "Actyx AG <developer@actyx.io>"
+  ],
+  "repository": "https://github.com/Actyx/sync_wrapper",
+  "source": "https://static.crates.io/crates/sync_wrapper/sync_wrapper-1.0.2.crate",
+  "sha256": "0bf256ce5efdfa370213c1dabab5935a12e49f2c58d15e9eac2870d3b4f27263",
+  "files": [
+    "LICENSE"
+  ]
+}

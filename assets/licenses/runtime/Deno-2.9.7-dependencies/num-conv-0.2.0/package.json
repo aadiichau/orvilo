@@ -1,0 +1,15 @@
+{
+  "name": "num-conv",
+  "version": "0.2.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Jacob Pratt <jacob@jhpratt.dev>"
+  ],
+  "repository": "https://github.com/jhpratt/num-conv",
+  "source": "https://static.crates.io/crates/num-conv/num-conv-0.2.0.crate",
+  "sha256": "cf97ec579c3c42f953ef76dbf8d55ac91fb219dde70e49aa4a6b7d74e9919050",
+  "files": [
+    "LICENSE-Apache",
+    "LICENSE-MIT"
+  ]
+}

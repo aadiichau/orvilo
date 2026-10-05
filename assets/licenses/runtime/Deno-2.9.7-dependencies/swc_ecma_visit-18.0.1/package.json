@@ -1,0 +1,14 @@
+{
+  "name": "swc_ecma_visit",
+  "version": "18.0.1",
+  "license": "Apache-2.0",
+  "authors": [
+    "\uac15\ub3d9\uc724 <kdy1997.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/swc-project/swc.git",
+  "source": "https://static.crates.io/crates/swc_ecma_visit/swc_ecma_visit-18.0.1.crate",
+  "sha256": "a9611a72a4008d62608547a394e5d72a5245413104db096d95a52368a8cc1d63",
+  "files": [],
+  "upstream_commit": "fc7d43ce157083059e2b83acf0a6af8d78c131c7",
+  "supplemental_notices": []
+}

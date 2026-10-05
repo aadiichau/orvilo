@@ -1,0 +1,15 @@
+{
+  "name": "windows_i686_msvc",
+  "version": "0.53.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Microsoft"
+  ],
+  "repository": "https://github.com/microsoft/windows-rs",
+  "source": "https://static.crates.io/crates/windows_i686_msvc/windows_i686_msvc-0.53.0.crate",
+  "sha256": "581fee95406bb13382d2f65cd4a908ca7b1e4c2f1917f143ba16efe98a589b5d",
+  "files": [
+    "license-apache-2.0",
+    "license-mit"
+  ]
+}

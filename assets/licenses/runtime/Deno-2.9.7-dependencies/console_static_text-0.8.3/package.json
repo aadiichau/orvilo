@@ -1,0 +1,14 @@
+{
+  "name": "console_static_text",
+  "version": "0.8.3",
+  "license": "MIT",
+  "authors": [
+    "David Sherret <dsherret@gmail.com>"
+  ],
+  "repository": "https://github.com/dsherret/console_static_text",
+  "source": "https://static.crates.io/crates/console_static_text/console_static_text-0.8.3.crate",
+  "sha256": "55d8a913e62f6444b79e038be3eb09839e9cfc34d55d85f9336460710647d2f6",
+  "files": [
+    "LICENSE"
+  ]
+}

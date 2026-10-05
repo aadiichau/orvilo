@@ -1,0 +1,14 @@
+{
+  "name": "tracing-log",
+  "version": "0.2.0",
+  "license": "MIT",
+  "authors": [
+    "Tokio Contributors <team@tokio.rs>"
+  ],
+  "repository": "https://github.com/tokio-rs/tracing",
+  "source": "https://static.crates.io/crates/tracing-log/tracing-log-0.2.0.crate",
+  "sha256": "ee855f1f400bd0e5c02d150ae5de3840039a3f54b025156404e34c23c03f47c3",
+  "files": [
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "insta",
+  "version": "1.46.3",
+  "license": "Apache-2.0",
+  "authors": [
+    "Armin Ronacher <armin.ronacher@active-4.com>"
+  ],
+  "repository": "https://github.com/mitsuhiko/insta",
+  "source": "https://static.crates.io/crates/insta/insta-1.46.3.crate",
+  "sha256": "e82db8c87c7f1ccecb34ce0c24399b8a73081427f3c7c50a5d597925356115e4",
+  "files": [
+    "LICENSE"
+  ]
+}

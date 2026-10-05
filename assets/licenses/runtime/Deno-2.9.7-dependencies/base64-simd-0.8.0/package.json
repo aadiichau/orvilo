@@ -1,0 +1,17 @@
+{
+  "name": "base64-simd",
+  "version": "0.8.0",
+  "license": "MIT",
+  "authors": [],
+  "repository": "https://github.com/Nugine/simd",
+  "source": "https://static.crates.io/crates/base64-simd/base64-simd-0.8.0.crate",
+  "sha256": "339abbe78e73178762e23bea9dfd08e697eb3f3301cd4be981c0f78ba5859195",
+  "files": [],
+  "upstream_commit": "d74c030d9dc4f3cae02146d1f497ff62726ef09a",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/Nugine/simd/d74c030d9dc4f3cae02146d1f497ff62726ef09a/LICENSE"
+    }
+  ]
+}

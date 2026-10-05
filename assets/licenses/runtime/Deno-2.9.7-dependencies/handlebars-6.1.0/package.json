@@ -1,0 +1,15 @@
+{
+  "name": "handlebars",
+  "version": "6.1.0",
+  "license": "MIT",
+  "authors": [
+    "Ning Sun <sunng@pm.me>"
+  ],
+  "repository": "https://github.com/sunng87/handlebars-rust",
+  "source": "https://static.crates.io/crates/handlebars/handlebars-6.1.0.crate",
+  "sha256": "ce25b617d1375ef96eeb920ae717e3da34a02fc979fe632c75128350f9e1f74a",
+  "files": [
+    "LICENSE",
+    "wasm_LICENSE"
+  ]
+}

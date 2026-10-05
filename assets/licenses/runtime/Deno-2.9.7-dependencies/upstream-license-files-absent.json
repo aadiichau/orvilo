@@ -1,0 +1,315 @@
+[
+  {
+    "name": "aead-gcm-stream",
+    "reason": "No GitHub source repository",
+    "source": "https://static.crates.io/crates/aead-gcm-stream/aead-gcm-stream-0.4.0.crate"
+  },
+  {
+    "name": "ast_node",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/ast_node/ast_node-5.0.0.crate",
+    "commit": "00ec64fe9a4da0973f14721d7b6dc1f13cd75413"
+  },
+  {
+    "name": "better_scoped_tls",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/better_scoped_tls/better_scoped_tls-1.0.1.crate",
+    "commit": "832d537695a07e539660096883fab52bb7f10ecf"
+  },
+  {
+    "name": "convert_case",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/convert_case/convert_case-0.4.0.crate",
+    "commit": "300d9eef9e8c970e15f324afbc3df8b6a4ebbf71"
+  },
+  {
+    "name": "cranelift-assembler-x64",
+    "reason": "No GitHub source repository",
+    "source": "https://static.crates.io/crates/cranelift-assembler-x64/cranelift-assembler-x64-0.117.2.crate"
+  },
+  {
+    "name": "cranelift-assembler-x64-meta",
+    "reason": "No GitHub source repository",
+    "source": "https://static.crates.io/crates/cranelift-assembler-x64-meta/cranelift-assembler-x64-meta-0.117.2.crate"
+  },
+  {
+    "name": "deno_core_icudata",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/deno_core_icudata/deno_core_icudata-0.77.0.crate",
+    "commit": "83537ba16a4bf1645fc8322e81f7aaf0149a8922"
+  },
+  {
+    "name": "deno_native_certs",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/deno_native_certs/deno_native_certs-0.3.0.crate",
+    "commit": "700f235fe029ea839f5a64eea251abf8116ddb4c"
+  },
+  {
+    "name": "deno_tunnel",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/deno_tunnel/deno_tunnel-0.8.1.crate",
+    "commit": "c0572b46beac220e105e69317ff9e207babc7f09"
+  },
+  {
+    "name": "derive-io",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/derive-io/derive-io-0.4.1.crate",
+    "commit": "69a023098378b66e8f8852173b65ca5762b201e2"
+  },
+  {
+    "name": "derive-io-macros",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/derive-io-macros/derive-io-macros-0.4.1.crate",
+    "commit": "69a023098378b66e8f8852173b65ca5762b201e2"
+  },
+  {
+    "name": "dlopen2",
+    "reason": "Archive has no recorded Git commit",
+    "source": "https://static.crates.io/crates/dlopen2/dlopen2-0.6.1.crate"
+  },
+  {
+    "name": "dlopen2_derive",
+    "reason": "No GitHub source repository",
+    "source": "https://static.crates.io/crates/dlopen2_derive/dlopen2_derive-0.4.0.crate"
+  },
+  {
+    "name": "fqdn",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/fqdn/fqdn-0.5.2.crate",
+    "commit": "a23fef8570522a3b98a79afc45322d6487166cd9"
+  },
+  {
+    "name": "from_variant",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/from_variant/from_variant-3.0.0.crate",
+    "commit": "00ec64fe9a4da0973f14721d7b6dc1f13cd75413"
+  },
+  {
+    "name": "hexf-parse",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/hexf-parse/hexf-parse-0.2.1.crate",
+    "commit": "4225763d744183d720f575ae96d04161b4d08ea0"
+  },
+  {
+    "name": "lazy-regex-proc_macros",
+    "reason": "No GitHub source repository",
+    "source": "https://static.crates.io/crates/lazy-regex-proc_macros/lazy-regex-proc_macros-3.1.0.crate"
+  },
+  {
+    "name": "r-efi",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/r-efi/r-efi-5.3.0.crate",
+    "commit": "97b55bed1c2c91dcbf787674849f05337ff80b33"
+  },
+  {
+    "name": "rsqlite-vfs",
+    "reason": "No GitHub source repository",
+    "source": "https://static.crates.io/crates/rsqlite-vfs/rsqlite-vfs-0.1.1.crate"
+  },
+  {
+    "name": "rustls-tokio-stream",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/rustls-tokio-stream/rustls-tokio-stream-0.8.0.crate",
+    "commit": "c8a9239c987dbfa7b1eaed78d27935fe8272319c"
+  },
+  {
+    "name": "sacabase",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/sacabase/sacabase-2.0.0.crate",
+    "commit": "acd5846b959884a1d24247038e9c52b5cf900f67"
+  },
+  {
+    "name": "sptr",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/sptr/sptr-0.3.2.crate",
+    "commit": "e59792814876b4948279ec3121921fbe827b1077"
+  },
+  {
+    "name": "string_enum",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/string_enum/string_enum-1.0.2.crate",
+    "commit": "0ce4fd737e260c0cbfffcfdb19f269a9cc221ef4"
+  },
+  {
+    "name": "swc_allocator",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_allocator/swc_allocator-4.0.1.crate",
+    "commit": "0ce4fd737e260c0cbfffcfdb19f269a9cc221ef4"
+  },
+  {
+    "name": "swc_atoms",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_atoms/swc_atoms-9.0.0.crate",
+    "commit": "00ec64fe9a4da0973f14721d7b6dc1f13cd75413"
+  },
+  {
+    "name": "swc_common",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_common/swc_common-17.0.1.crate",
+    "commit": "fc7d43ce157083059e2b83acf0a6af8d78c131c7"
+  },
+  {
+    "name": "swc_config",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_config/swc_config-3.1.2.crate",
+    "commit": "c9b1b7fda64a7824f9a8265c30c3181f2def0fb8"
+  },
+  {
+    "name": "swc_config_macro",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_config_macro/swc_config_macro-1.0.1.crate",
+    "commit": "832d537695a07e539660096883fab52bb7f10ecf"
+  },
+  {
+    "name": "swc_ecma_ast",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_ecma_ast/swc_ecma_ast-18.0.0.crate",
+    "commit": "00ec64fe9a4da0973f14721d7b6dc1f13cd75413"
+  },
+  {
+    "name": "swc_ecma_codegen",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_ecma_codegen/swc_ecma_codegen-20.0.2.crate",
+    "commit": "dc794548c75c63410b9f8f7ff32bb9b372f0668c"
+  },
+  {
+    "name": "swc_ecma_codegen_macros",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_ecma_codegen_macros/swc_ecma_codegen_macros-2.0.2.crate",
+    "commit": "0ce4fd737e260c0cbfffcfdb19f269a9cc221ef4"
+  },
+  {
+    "name": "swc_ecma_lexer",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_ecma_lexer/swc_ecma_lexer-26.0.0.crate",
+    "commit": "8d4313921fb2e639ee1d6bacdfb5b071a8d07d36"
+  },
+  {
+    "name": "swc_ecma_loader",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_ecma_loader/swc_ecma_loader-17.0.0.crate",
+    "commit": "00ec64fe9a4da0973f14721d7b6dc1f13cd75413"
+  },
+  {
+    "name": "swc_ecma_parser",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_ecma_parser/swc_ecma_parser-27.0.7.crate",
+    "commit": "b229ffef05bc3906a1badd9857bcd2b2298481af"
+  },
+  {
+    "name": "swc_ecma_transforms_base",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_ecma_transforms_base/swc_ecma_transforms_base-30.0.1.crate",
+    "commit": "51c62242fe6d95a0697be4cd6bdacc4f04679505"
+  },
+  {
+    "name": "swc_ecma_transforms_classes",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_ecma_transforms_classes/swc_ecma_transforms_classes-30.0.0.crate",
+    "commit": "b82dc67157b78e0deaaa2139d2d07902d8f61954"
+  },
+  {
+    "name": "swc_ecma_transforms_macros",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_ecma_transforms_macros/swc_ecma_transforms_macros-1.0.1.crate",
+    "commit": "832d537695a07e539660096883fab52bb7f10ecf"
+  },
+  {
+    "name": "swc_ecma_transforms_proposal",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_ecma_transforms_proposal/swc_ecma_transforms_proposal-30.0.0.crate",
+    "commit": "b294d6f6a47934b3baa04229d232f9e1889db1a5"
+  },
+  {
+    "name": "swc_ecma_transforms_react",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_ecma_transforms_react/swc_ecma_transforms_react-33.0.0.crate",
+    "commit": "83fba28883be9092ca3e5cffbd9cf35bfc73eabe"
+  },
+  {
+    "name": "swc_ecma_transforms_typescript",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_ecma_transforms_typescript/swc_ecma_transforms_typescript-33.0.0.crate",
+    "commit": "83fba28883be9092ca3e5cffbd9cf35bfc73eabe"
+  },
+  {
+    "name": "swc_ecma_utils",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_ecma_utils/swc_ecma_utils-24.0.0.crate",
+    "commit": "8d4313921fb2e639ee1d6bacdfb5b071a8d07d36"
+  },
+  {
+    "name": "swc_ecma_visit",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_ecma_visit/swc_ecma_visit-18.0.1.crate",
+    "commit": "fc7d43ce157083059e2b83acf0a6af8d78c131c7"
+  },
+  {
+    "name": "swc_eq_ignore_macros",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_eq_ignore_macros/swc_eq_ignore_macros-1.0.1.crate",
+    "commit": "832d537695a07e539660096883fab52bb7f10ecf"
+  },
+  {
+    "name": "swc_macros_common",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_macros_common/swc_macros_common-1.0.1.crate",
+    "commit": "832d537695a07e539660096883fab52bb7f10ecf"
+  },
+  {
+    "name": "swc_ts_fast_strip",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_ts_fast_strip/swc_ts_fast_strip-36.0.0.crate",
+    "commit": "6f71ba0ceb4fc3de8b782a3b0afa4d5719024647"
+  },
+  {
+    "name": "swc_visit",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/swc_visit/swc_visit-2.0.1.crate",
+    "commit": "832d537695a07e539660096883fab52bb7f10ecf"
+  },
+  {
+    "name": "sys_traits",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/sys_traits/sys_traits-0.1.28.crate",
+    "commit": "709e02e198721f81b485c078ccdf1835fa3e6a40"
+  },
+  {
+    "name": "sys_traits_macros",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/sys_traits_macros/sys_traits_macros-0.1.0.crate",
+    "commit": "75cbf3ea478624cc78275b0264e78e9ae13ce3f5"
+  },
+  {
+    "name": "testing_macros",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/testing_macros/testing_macros-1.0.1.crate",
+    "commit": "832d537695a07e539660096883fab52bb7f10ecf"
+  },
+  {
+    "name": "valuable",
+    "reason": "Archive has no recorded Git commit",
+    "source": "https://static.crates.io/crates/valuable/valuable-0.1.0.crate"
+  },
+  {
+    "name": "wasite",
+    "reason": "No separate license document at source paths",
+    "source": "https://static.crates.io/crates/wasite/wasite-0.1.0.crate",
+    "commit": "0c72934ad329ab4670eb017581640c2d6eceb289"
+  },
+  {
+    "name": "winapi-i686-pc-windows-gnu",
+    "reason": "Archive has no recorded Git commit",
+    "source": "https://static.crates.io/crates/winapi-i686-pc-windows-gnu/winapi-i686-pc-windows-gnu-0.4.0.crate"
+  },
+  {
+    "name": "winapi-x86_64-pc-windows-gnu",
+    "reason": "Archive has no recorded Git commit",
+    "source": "https://static.crates.io/crates/winapi-x86_64-pc-windows-gnu/winapi-x86_64-pc-windows-gnu-0.4.0.crate"
+  },
+  {
+    "name": "zune-core",
+    "reason": "No GitHub source repository",
+    "source": "https://static.crates.io/crates/zune-core/zune-core-0.4.12.crate"
+  }
+]

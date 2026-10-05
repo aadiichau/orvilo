@@ -1,0 +1,22 @@
+{
+  "name": "liblzma-sys",
+  "version": "0.4.6",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Alex Crichton <alex@alexcrichton.com>",
+    "Portable-Network-Archive Developers"
+  ],
+  "repository": "https://github.com/portable-network-archive/liblzma-rs",
+  "source": "https://static.crates.io/crates/liblzma-sys/liblzma-sys-0.4.6.crate",
+  "sha256": "1a60851d15cd8c5346eca4ab8babff585be2ae4bc8097c067291d3ffe2add3b6",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT",
+    "xz_COPYING",
+    "xz_COPYING.0BSD",
+    "xz_COPYING.GPLv2",
+    "xz_COPYING.GPLv3",
+    "xz_COPYING.LGPLv2.1",
+    "xz_build-aux_license-check.sh"
+  ]
+}

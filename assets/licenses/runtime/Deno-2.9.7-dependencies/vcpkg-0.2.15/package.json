@@ -1,0 +1,15 @@
+{
+  "name": "vcpkg",
+  "version": "0.2.15",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Jim McGrath <jimmc2@gmail.com>"
+  ],
+  "repository": "https://github.com/mcgoo/vcpkg-rs",
+  "source": "https://static.crates.io/crates/vcpkg/vcpkg-0.2.15.crate",
+  "sha256": "accd4ea62f7bb7a82fe23066fb0957d48ef677f6eeb8215f372f52e48bb32426",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

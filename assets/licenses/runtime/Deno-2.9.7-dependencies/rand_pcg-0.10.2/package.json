@@ -1,0 +1,16 @@
+{
+  "name": "rand_pcg",
+  "version": "0.10.2",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The Rand Project Developers"
+  ],
+  "repository": "https://github.com/rust-random/rngs",
+  "source": "https://static.crates.io/crates/rand_pcg/rand_pcg-0.10.2.crate",
+  "sha256": "caa0f4137e1c0a72f4c651489402276c8e8e1cf081f3b0ba156d2cbeef09e86a",
+  "files": [
+    "COPYRIGHT",
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "libffi",
+  "version": "5.1.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Jesse A. Tov <jesse.tov@gmail.com>"
+  ],
+  "repository": "https://github.com/libffi-rs/libffi-rs",
+  "source": "https://static.crates.io/crates/libffi/libffi-5.1.0.crate",
+  "sha256": "0498fe5655f857803e156523e644dcdcdc3b3c7edda42ea2afdae2e09b2db87b",
+  "files": [],
+  "upstream_commit": "7b1471ad430dd899046280f79066fc2d9b0fac90",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE-MIT",
+      "source": "https://raw.githubusercontent.com/libffi-rs/libffi-rs/7b1471ad430dd899046280f79066fc2d9b0fac90/LICENSE-MIT"
+    },
+    {
+      "file": "upstream-LICENSE-APACHE",
+      "source": "https://raw.githubusercontent.com/libffi-rs/libffi-rs/7b1471ad430dd899046280f79066fc2d9b0fac90/LICENSE-APACHE"
+    }
+  ]
+}

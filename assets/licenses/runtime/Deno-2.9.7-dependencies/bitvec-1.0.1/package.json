@@ -1,0 +1,12 @@
+{
+  "name": "bitvec",
+  "version": "1.0.1",
+  "license": "MIT",
+  "authors": [],
+  "repository": "https://github.com/bitvecto-rs/bitvec",
+  "source": "https://static.crates.io/crates/bitvec/bitvec-1.0.1.crate",
+  "sha256": "1bc2832c24239b0141d5674bb9174f9d68a8b5b3f2753311927c172ca46f7e9c",
+  "files": [
+    "LICENSE.txt"
+  ]
+}

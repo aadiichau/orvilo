@@ -1,0 +1,14 @@
+{
+  "name": "os_pipe",
+  "version": "1.2.1",
+  "license": "MIT",
+  "authors": [
+    "Jack O'Connor"
+  ],
+  "repository": "https://github.com/oconnor663/os_pipe.rs",
+  "source": "https://static.crates.io/crates/os_pipe/os_pipe-1.2.1.crate",
+  "sha256": "5ffd2b0a5634335b135d5728d84c5e0fd726954b87111f7506a61c502280d982",
+  "files": [
+    "LICENSE"
+  ]
+}

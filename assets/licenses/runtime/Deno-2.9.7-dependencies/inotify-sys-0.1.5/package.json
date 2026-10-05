@@ -1,0 +1,14 @@
+{
+  "name": "inotify-sys",
+  "version": "0.1.5",
+  "license": "ISC",
+  "authors": [
+    "Hanno Braun <hb@hannobraun.de>"
+  ],
+  "repository": "https://github.com/hannobraun/inotify-sys",
+  "source": "https://static.crates.io/crates/inotify-sys/inotify-sys-0.1.5.crate",
+  "sha256": "e05c02b5e89bff3b946cedeca278abc628fe811e604f027c45a8aa3cf793d0eb",
+  "files": [
+    "LICENSE"
+  ]
+}

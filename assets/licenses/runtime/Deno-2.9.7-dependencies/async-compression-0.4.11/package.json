@@ -1,0 +1,16 @@
+{
+  "name": "async-compression",
+  "version": "0.4.11",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Wim Looman <wim@nemo157.com>",
+    "Allen Bui <fairingrey@gmail.com>"
+  ],
+  "repository": "https://github.com/Nullus157/async-compression",
+  "source": "https://static.crates.io/crates/async-compression/async-compression-0.4.11.crate",
+  "sha256": "cd066d0b4ef8ecb03a55319dc13aa6910616d0f44008a045bb1835af830abff5",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

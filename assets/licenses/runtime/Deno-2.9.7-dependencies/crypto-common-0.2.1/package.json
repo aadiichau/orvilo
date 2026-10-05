@@ -1,0 +1,15 @@
+{
+  "name": "crypto-common",
+  "version": "0.2.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/traits",
+  "source": "https://static.crates.io/crates/crypto-common/crypto-common-0.2.1.crate",
+  "sha256": "77727bb15fa921304124b128af125e7e3b968275d1b108b379190264f4423710",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

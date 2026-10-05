@@ -1,0 +1,15 @@
+{
+  "name": "quote",
+  "version": "1.0.45",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>"
+  ],
+  "repository": "https://github.com/dtolnay/quote",
+  "source": "https://static.crates.io/crates/quote/quote-1.0.45.crate",
+  "sha256": "41f2619966050689382d2b44f664f4bc593e129785a36d6ee376ddf37259b924",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

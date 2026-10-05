@@ -1,0 +1,16 @@
+{
+  "name": "notify",
+  "version": "8.2.0",
+  "license": "CC0-1.0",
+  "authors": [
+    "F\u00e9lix Saparelli <me@passcod.name>",
+    "Daniel Faust <hessijames@gmail.com>",
+    "Aron Heinecke <Ox0p54r36@t-online.de>"
+  ],
+  "repository": "https://github.com/notify-rs/notify.git",
+  "source": "https://static.crates.io/crates/notify/notify-8.2.0.crate",
+  "sha256": "4d3d07927151ff8575b7087f245456e549fea62edf0ec4e565a5ee50c8402bc3",
+  "files": [
+    "LICENSE-CC0"
+  ]
+}

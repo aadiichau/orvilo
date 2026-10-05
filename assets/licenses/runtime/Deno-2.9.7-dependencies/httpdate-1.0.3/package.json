@@ -1,0 +1,15 @@
+{
+  "name": "httpdate",
+  "version": "1.0.3",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Pyfisch <pyfisch@posteo.org>"
+  ],
+  "repository": "https://github.com/pyfisch/httpdate",
+  "source": "https://static.crates.io/crates/httpdate/httpdate-1.0.3.crate",
+  "sha256": "df3b46402a9d5adb4c86a0cf463f42e19994e3ee891101b1841f30a545cb49a9",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

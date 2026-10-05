@@ -1,0 +1,19 @@
+{
+  "name": "error-code",
+  "version": "3.2.0",
+  "license": "BSL-1.0",
+  "authors": [
+    "Douman <douman@gmx.se>"
+  ],
+  "repository": "https://github.com/DoumanAsh/error-code",
+  "source": "https://static.crates.io/crates/error-code/error-code-3.2.0.crate",
+  "sha256": "a0474425d51df81997e2f90a21591180b38eccf27292d755f3e30750225c175b",
+  "files": [],
+  "upstream_commit": "d3d734587b06a1259fe8d2d7cafcd436e801975a",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/DoumanAsh/error-code/d3d734587b06a1259fe8d2d7cafcd436e801975a/LICENSE"
+    }
+  ]
+}

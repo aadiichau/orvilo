@@ -1,0 +1,13 @@
+{
+  "name": "addr2line",
+  "version": "0.24.2",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [],
+  "repository": "https://github.com/gimli-rs/addr2line",
+  "source": "https://static.crates.io/crates/addr2line/addr2line-0.24.2.crate",
+  "sha256": "dfbe277e56a376000877090da837660b4427aad530e3028d44e0bffe4f89a1c1",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

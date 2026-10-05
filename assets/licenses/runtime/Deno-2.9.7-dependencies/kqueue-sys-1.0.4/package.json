@@ -1,0 +1,15 @@
+{
+  "name": "kqueue-sys",
+  "version": "1.0.4",
+  "license": "MIT",
+  "authors": [
+    "William Orr <will@worrbase.com>",
+    "Daniel (dmilith) Dettlaff <dmilith@me.com>"
+  ],
+  "repository": "https://gitlab.com/rust-kqueue/rust-kqueue-sys",
+  "source": "https://static.crates.io/crates/kqueue-sys/kqueue-sys-1.0.4.crate",
+  "sha256": "ed9625ffda8729b85e45cf04090035ac368927b8cebc34898e7c120f52e4838b",
+  "files": [
+    "LICENSE"
+  ]
+}

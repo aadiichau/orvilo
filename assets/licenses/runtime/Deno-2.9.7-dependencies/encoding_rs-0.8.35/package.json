@@ -1,0 +1,17 @@
+{
+  "name": "encoding_rs",
+  "version": "0.8.35",
+  "license": "(Apache-2.0 OR MIT) AND BSD-3-Clause",
+  "authors": [
+    "Henri Sivonen <hsivonen@hsivonen.fi>"
+  ],
+  "repository": "https://github.com/hsivonen/encoding_rs",
+  "source": "https://static.crates.io/crates/encoding_rs/encoding_rs-0.8.35.crate",
+  "sha256": "75030f3c4f45dafd7586dd6780965a8c7e8e285a5ecb86713e63a79c5b2766f3",
+  "files": [
+    "COPYRIGHT",
+    "LICENSE-APACHE",
+    "LICENSE-MIT",
+    "LICENSE-WHATWG"
+  ]
+}

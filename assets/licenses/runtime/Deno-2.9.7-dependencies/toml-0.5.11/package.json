@@ -1,0 +1,15 @@
+{
+  "name": "toml",
+  "version": "0.5.11",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Alex Crichton <alex@alexcrichton.com>"
+  ],
+  "repository": "https://github.com/toml-rs/toml",
+  "source": "https://static.crates.io/crates/toml/toml-0.5.11.crate",
+  "sha256": "f4f7f0dd8d50a853a531c426359045b1998f04219d88799810762cd4ad314234",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

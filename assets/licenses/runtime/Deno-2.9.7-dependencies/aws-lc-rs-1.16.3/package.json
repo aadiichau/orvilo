@@ -1,0 +1,14 @@
+{
+  "name": "aws-lc-rs",
+  "version": "1.16.3",
+  "license": "ISC AND (Apache-2.0 OR ISC)",
+  "authors": [
+    "AWS-LibCrypto"
+  ],
+  "repository": "https://github.com/aws/aws-lc-rs",
+  "source": "https://static.crates.io/crates/aws-lc-rs/aws-lc-rs-1.16.3.crate",
+  "sha256": "0ec6fb3fe69024a75fa7e1bfb48aa6cf59706a101658ea01bfd33b2b248a038f",
+  "files": [
+    "LICENSE"
+  ]
+}

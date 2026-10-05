@@ -1,0 +1,15 @@
+{
+  "name": "hyper-rustls",
+  "version": "0.27.2",
+  "license": "Apache-2.0 OR ISC OR MIT",
+  "authors": [],
+  "repository": "https://github.com/rustls/hyper-rustls",
+  "source": "https://static.crates.io/crates/hyper-rustls/hyper-rustls-0.27.2.crate",
+  "sha256": "5ee4be2c948921a1a5320b629c4193916ed787a7f7f293fd3f7f5a6c9de74155",
+  "files": [
+    "LICENSE",
+    "LICENSE-APACHE",
+    "LICENSE-ISC",
+    "LICENSE-MIT"
+  ]
+}

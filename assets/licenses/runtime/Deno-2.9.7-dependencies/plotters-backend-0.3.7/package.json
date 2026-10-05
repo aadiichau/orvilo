@@ -1,0 +1,14 @@
+{
+  "name": "plotters-backend",
+  "version": "0.3.7",
+  "license": "MIT",
+  "authors": [
+    "Hao Hou <haohou302@gmail.com>"
+  ],
+  "repository": "https://github.com/plotters-rs/plotters",
+  "source": "https://static.crates.io/crates/plotters-backend/plotters-backend-0.3.7.crate",
+  "sha256": "df42e13c12958a16b3f7f4386b9ab1f3e7933914ecea48da7139435263a4172a",
+  "files": [
+    "LICENSE"
+  ]
+}

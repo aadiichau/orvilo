@@ -1,0 +1,15 @@
+{
+  "name": "asn1-rs",
+  "version": "0.5.2",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Pierre Chifflier <chifflier@wzdftpd.net>"
+  ],
+  "repository": "https://github.com/rusticata/asn1-rs.git",
+  "source": "https://static.crates.io/crates/asn1-rs/asn1-rs-0.5.2.crate",
+  "sha256": "7f6fd5ddaf0351dff5b8da21b2fb4ff8e08ddd02857f0bf69c47639106c0fff0",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

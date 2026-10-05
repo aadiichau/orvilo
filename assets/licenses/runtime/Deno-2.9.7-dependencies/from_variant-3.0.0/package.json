@@ -1,0 +1,14 @@
+{
+  "name": "from_variant",
+  "version": "3.0.0",
+  "license": "Apache-2.0",
+  "authors": [
+    "\uac15\ub3d9\uc724 <kdy1997.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/swc-project/swc.git",
+  "source": "https://static.crates.io/crates/from_variant/from_variant-3.0.0.crate",
+  "sha256": "e5ff35a391aef949120a0340d690269b3d9f63460a6106e99bd07b961f345ea9",
+  "files": [],
+  "upstream_commit": "00ec64fe9a4da0973f14721d7b6dc1f13cd75413",
+  "supplemental_notices": []
+}

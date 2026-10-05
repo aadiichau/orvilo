@@ -1,0 +1,14 @@
+{
+  "name": "rusqlite",
+  "version": "0.40.1",
+  "license": "MIT",
+  "authors": [
+    "The rusqlite developers"
+  ],
+  "repository": "https://github.com/rusqlite/rusqlite",
+  "source": "https://static.crates.io/crates/rusqlite/rusqlite-0.40.1.crate",
+  "sha256": "11438310b19e3109b6446c33d1ed5e889428cf2e278407bc7896bc4aaea43323",
+  "files": [
+    "LICENSE"
+  ]
+}

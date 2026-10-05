@@ -1,0 +1,16 @@
+{
+  "name": "num-bigint-dig",
+  "version": "0.8.6",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "dignifiedquire <dignifiedquire@gmail.com>",
+    "The Rust Project Developers"
+  ],
+  "repository": "https://github.com/dignifiedquire/num-bigint",
+  "source": "https://static.crates.io/crates/num-bigint-dig/num-bigint-dig-0.8.6.crate",
+  "sha256": "e661dda6640fad38e827a6d4a310ff4763082116fe217f279885c97f511bb0b7",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

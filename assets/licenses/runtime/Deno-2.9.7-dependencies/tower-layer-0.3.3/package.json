@@ -1,0 +1,14 @@
+{
+  "name": "tower-layer",
+  "version": "0.3.3",
+  "license": "MIT",
+  "authors": [
+    "Tower Maintainers <team@tower-rs.com>"
+  ],
+  "repository": "https://github.com/tower-rs/tower",
+  "source": "https://static.crates.io/crates/tower-layer/tower-layer-0.3.3.crate",
+  "sha256": "121c2a6cda46980bb0fcd1647ffaf6cd3fc79a013de288782836f6df9c48780e",
+  "files": [
+    "LICENSE"
+  ]
+}

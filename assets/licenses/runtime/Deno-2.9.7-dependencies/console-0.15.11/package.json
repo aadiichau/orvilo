@@ -1,0 +1,14 @@
+{
+  "name": "console",
+  "version": "0.15.11",
+  "license": "MIT",
+  "authors": [
+    "Armin Ronacher <armin.ronacher@active-4.com>"
+  ],
+  "repository": "https://github.com/console-rs/console",
+  "source": "https://static.crates.io/crates/console/console-0.15.11.crate",
+  "sha256": "054ccb5b10f9f2cbf51eb355ca1d05c2d279ce1804688d0db74b4733a5aeafd8",
+  "files": [
+    "LICENSE"
+  ]
+}

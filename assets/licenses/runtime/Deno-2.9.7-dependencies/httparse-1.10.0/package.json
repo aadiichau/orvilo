@@ -1,0 +1,15 @@
+{
+  "name": "httparse",
+  "version": "1.10.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Sean McArthur <sean@seanmonstar.com>"
+  ],
+  "repository": "https://github.com/seanmonstar/httparse",
+  "source": "https://static.crates.io/crates/httparse/httparse-1.10.0.crate",
+  "sha256": "f2d708df4e7140240a16cd6ab0ab65c972d7433ab77819ea693fde9c43811e2a",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "lock_api",
+  "version": "0.4.11",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Amanieu d'Antras <amanieu@gmail.com>"
+  ],
+  "repository": "https://github.com/Amanieu/parking_lot",
+  "source": "https://static.crates.io/crates/lock_api/lock_api-0.4.11.crate",
+  "sha256": "3c168f8615b12bc01f9c17e2eb0cc07dcae1940121185446edc3744920e8ef45",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

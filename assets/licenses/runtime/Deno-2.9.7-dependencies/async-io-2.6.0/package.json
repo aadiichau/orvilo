@@ -1,0 +1,15 @@
+{
+  "name": "async-io",
+  "version": "2.6.0",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "Stjepan Glavina <stjepang@gmail.com>"
+  ],
+  "repository": "https://github.com/smol-rs/async-io",
+  "source": "https://static.crates.io/crates/async-io/async-io-2.6.0.crate",
+  "sha256": "456b8a8feb6f42d237746d4b3e9a178494627745c3c56c6ea55d92ba50d026fc",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

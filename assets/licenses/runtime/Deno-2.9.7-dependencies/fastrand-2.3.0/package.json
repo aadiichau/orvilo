@@ -1,0 +1,15 @@
+{
+  "name": "fastrand",
+  "version": "2.3.0",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "Stjepan Glavina <stjepang@gmail.com>"
+  ],
+  "repository": "https://github.com/smol-rs/fastrand",
+  "source": "https://static.crates.io/crates/fastrand/fastrand-2.3.0.crate",
+  "sha256": "37909eebbb50d72f9059c3b6d82c0463f2ff062c9e95845c43a6c9c0355411be",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

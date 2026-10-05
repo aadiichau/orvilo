@@ -1,0 +1,16 @@
+{
+  "name": "http-body-util",
+  "version": "0.1.3",
+  "license": "MIT",
+  "authors": [
+    "Carl Lerche <me@carllerche.com>",
+    "Lucio Franco <luciofranco14@gmail.com>",
+    "Sean McArthur <sean@seanmonstar.com>"
+  ],
+  "repository": "https://github.com/hyperium/http-body",
+  "source": "https://static.crates.io/crates/http-body-util/http-body-util-0.1.3.crate",
+  "sha256": "b021d93e26becf5dc7e1b75b1bed1fd93124b374ceb73f43d4d4eafec896a64a",
+  "files": [
+    "LICENSE"
+  ]
+}

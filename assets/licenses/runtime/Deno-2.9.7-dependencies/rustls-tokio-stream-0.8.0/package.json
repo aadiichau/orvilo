@@ -1,0 +1,12 @@
+{
+  "name": "rustls-tokio-stream",
+  "version": "0.8.0",
+  "license": "MIT",
+  "authors": [],
+  "repository": "https://github.com/denoland/rustls-tokio-stream",
+  "source": "https://static.crates.io/crates/rustls-tokio-stream/rustls-tokio-stream-0.8.0.crate",
+  "sha256": "0560d12c0d8c672f849197de91b9ee61f5bf9aa024c97aaeeb112ec2f6c347fd",
+  "files": [],
+  "upstream_commit": "c8a9239c987dbfa7b1eaed78d27935fe8272319c",
+  "supplemental_notices": []
+}

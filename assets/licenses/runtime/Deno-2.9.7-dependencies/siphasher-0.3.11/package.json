@@ -1,0 +1,14 @@
+{
+  "name": "siphasher",
+  "version": "0.3.11",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Frank Denis <github@pureftpd.org>"
+  ],
+  "repository": "https://github.com/jedisct1/rust-siphash",
+  "source": "https://static.crates.io/crates/siphasher/siphasher-0.3.11.crate",
+  "sha256": "38b58827f4464d87d377d175e90bf58eb00fd8716ff0a62f80356b5e61555d0d",
+  "files": [
+    "COPYING"
+  ]
+}

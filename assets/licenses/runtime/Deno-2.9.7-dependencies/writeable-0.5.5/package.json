@@ -1,0 +1,14 @@
+{
+  "name": "writeable",
+  "version": "0.5.5",
+  "license": "Unicode-3.0",
+  "authors": [
+    "The ICU4X Project Developers"
+  ],
+  "repository": "https://github.com/unicode-org/icu4x",
+  "source": "https://static.crates.io/crates/writeable/writeable-0.5.5.crate",
+  "sha256": "1e9df38ee2d2c3c5948ea468a8406ff0db0b29ae1ffde1bcf20ef305bcc95c51",
+  "files": [
+    "LICENSE"
+  ]
+}

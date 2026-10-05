@@ -1,0 +1,19 @@
+{
+  "name": "pretty_yaml",
+  "version": "0.5.0",
+  "license": "MIT",
+  "authors": [
+    "Pig Fang <g-plane@hotmail.com>"
+  ],
+  "repository": "https://github.com/g-plane/pretty_yaml",
+  "source": "https://static.crates.io/crates/pretty_yaml/pretty_yaml-0.5.0.crate",
+  "sha256": "dda9a64ee7296e82d1e0f4389383e6a7d8e6e2487d8391f7d028c131395fd376",
+  "files": [],
+  "upstream_commit": "5dfb6c22ba91a738b681d614202e264259e877f0",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/g-plane/pretty_yaml/5dfb6c22ba91a738b681d614202e264259e877f0/LICENSE"
+    }
+  ]
+}

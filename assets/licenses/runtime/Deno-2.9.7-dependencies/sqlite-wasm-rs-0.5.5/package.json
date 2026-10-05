@@ -1,0 +1,14 @@
+{
+  "name": "sqlite-wasm-rs",
+  "version": "0.5.5",
+  "license": "MIT",
+  "authors": [
+    "Spxg <unsafe@outlook.es>"
+  ],
+  "repository": "https://github.com/Spxg/sqlite-wasm-rs",
+  "source": "https://static.crates.io/crates/sqlite-wasm-rs/sqlite-wasm-rs-0.5.5.crate",
+  "sha256": "dc3efc0da82635d7e1ced0053bbbfa8c7ab9645d0bf36ceb4f7127bb85315d75",
+  "files": [
+    "LICENSE"
+  ]
+}

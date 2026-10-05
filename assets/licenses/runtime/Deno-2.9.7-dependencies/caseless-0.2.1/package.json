@@ -1,0 +1,14 @@
+{
+  "name": "caseless",
+  "version": "0.2.1",
+  "license": "MIT",
+  "authors": [
+    "Simon Sapin <simon.sapin@exyr.org>"
+  ],
+  "repository": "https://github.com/SimonSapin/rust-caseless",
+  "source": "https://static.crates.io/crates/caseless/caseless-0.2.1.crate",
+  "sha256": "808dab3318747be122cb31d36de18d4d1c81277a76f8332a02b81a3d73463d7f",
+  "files": [
+    "LICENSE"
+  ]
+}

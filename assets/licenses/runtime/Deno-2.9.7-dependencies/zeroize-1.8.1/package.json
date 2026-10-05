@@ -1,0 +1,15 @@
+{
+  "name": "zeroize",
+  "version": "1.8.1",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "The RustCrypto Project Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/utils/tree/master/zeroize",
+  "source": "https://static.crates.io/crates/zeroize/zeroize-1.8.1.crate",
+  "sha256": "ced3678a2879b30306d323f4542626697a464a97c0a07c9aebf7ebca65cd4dde",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

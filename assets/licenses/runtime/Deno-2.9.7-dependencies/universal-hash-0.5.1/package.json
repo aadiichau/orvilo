@@ -1,0 +1,15 @@
+{
+  "name": "universal-hash",
+  "version": "0.5.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/traits",
+  "source": "https://static.crates.io/crates/universal-hash/universal-hash-0.5.1.crate",
+  "sha256": "fc1de2c688dc15305988b563c3854064043356019f97a4b46276fe734c4f07ea",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

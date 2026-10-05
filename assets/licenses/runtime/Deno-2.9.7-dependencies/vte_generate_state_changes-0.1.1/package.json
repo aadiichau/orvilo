@@ -1,0 +1,23 @@
+{
+  "name": "vte_generate_state_changes",
+  "version": "0.1.1",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "Christian Duerr <contact@christianduerr.com>"
+  ],
+  "repository": "https://github.com/jwilm/vte",
+  "source": "https://static.crates.io/crates/vte_generate_state_changes/vte_generate_state_changes-0.1.1.crate",
+  "sha256": "d257817081c7dffcdbab24b9e62d2def62e2ff7d00b1c20062551e6cccc145ff",
+  "files": [],
+  "upstream_commit": "1712405055f5d97f6dc7b6156885c940982ec20d",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE-MIT",
+      "source": "https://raw.githubusercontent.com/jwilm/vte/1712405055f5d97f6dc7b6156885c940982ec20d/LICENSE-MIT"
+    },
+    {
+      "file": "upstream-LICENSE-APACHE",
+      "source": "https://raw.githubusercontent.com/jwilm/vte/1712405055f5d97f6dc7b6156885c940982ec20d/LICENSE-APACHE"
+    }
+  ]
+}

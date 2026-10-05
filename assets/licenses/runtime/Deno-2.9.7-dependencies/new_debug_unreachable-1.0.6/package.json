@@ -1,0 +1,15 @@
+{
+  "name": "new_debug_unreachable",
+  "version": "1.0.6",
+  "license": "MIT",
+  "authors": [
+    "Matt Brubeck <mbrubeck@limpet.net>",
+    "Jonathan Reem <jonathan.reem@gmail.com>"
+  ],
+  "repository": "https://github.com/mbrubeck/rust-debug-unreachable",
+  "source": "https://static.crates.io/crates/new_debug_unreachable/new_debug_unreachable-1.0.6.crate",
+  "sha256": "650eef8c711430f1a879fdd01d4745a7deea475becfb90269c06775983bbf086",
+  "files": [
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "litemap",
+  "version": "0.7.3",
+  "license": "Unicode-3.0",
+  "authors": [
+    "The ICU4X Project Developers"
+  ],
+  "repository": "https://github.com/unicode-org/icu4x",
+  "source": "https://static.crates.io/crates/litemap/litemap-0.7.3.crate",
+  "sha256": "643cb0b8d4fcc284004d5fd0d67ccf61dfffadb7f75e1e71bc420f4688a3a704",
+  "files": [
+    "LICENSE"
+  ]
+}

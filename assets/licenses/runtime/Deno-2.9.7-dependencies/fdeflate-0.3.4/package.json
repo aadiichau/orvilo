@@ -1,0 +1,15 @@
+{
+  "name": "fdeflate",
+  "version": "0.3.4",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The image-rs Developers"
+  ],
+  "repository": "https://github.com/image-rs/fdeflate",
+  "source": "https://static.crates.io/crates/fdeflate/fdeflate-0.3.4.crate",
+  "sha256": "4f9bfee30e4dedf0ab8b422f03af778d9612b63f502710fc500a334ebe2de645",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

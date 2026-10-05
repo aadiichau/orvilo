@@ -1,0 +1,14 @@
+{
+  "name": "tokio-socks",
+  "version": "0.5.3",
+  "license": "MIT",
+  "authors": [
+    "Yilin Chen <sticnarf@gmail.com>"
+  ],
+  "repository": "https://github.com/sticnarf/tokio-socks",
+  "source": "https://static.crates.io/crates/tokio-socks/tokio-socks-0.5.3.crate",
+  "sha256": "a7e2948f60dbe26b35f2c7fb74ac2854c1fddded0fe9d7548fcc674a246f7615",
+  "files": [
+    "LICENSE"
+  ]
+}

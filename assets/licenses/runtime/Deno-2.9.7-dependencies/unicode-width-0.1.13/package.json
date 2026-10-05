@@ -1,0 +1,17 @@
+{
+  "name": "unicode-width",
+  "version": "0.1.13",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "kwantam <kwantam@gmail.com>",
+    "Manish Goregaokar <manishsmail@gmail.com>"
+  ],
+  "repository": "https://github.com/unicode-rs/unicode-width",
+  "source": "https://static.crates.io/crates/unicode-width/unicode-width-0.1.13.crate",
+  "sha256": "0336d538f7abc86d282a4189614dfaa90810dfc2c6f6427eaf88e16311dd225d",
+  "files": [
+    "COPYRIGHT",
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

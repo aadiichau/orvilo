@@ -1,0 +1,14 @@
+{
+  "name": "deno_lint",
+  "version": "0.84.1",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/deno_lint",
+  "source": "https://static.crates.io/crates/deno_lint/deno_lint-0.84.1.crate",
+  "sha256": "2f077fbc572115bf86a5e6ed8314aa7b5ad18266e03df3db5c32004a6b1cd1df",
+  "files": [
+    "LICENSE"
+  ]
+}

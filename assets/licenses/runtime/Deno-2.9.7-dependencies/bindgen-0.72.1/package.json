@@ -1,0 +1,17 @@
+{
+  "name": "bindgen",
+  "version": "0.72.1",
+  "license": "BSD-3-Clause",
+  "authors": [
+    "Jyun-Yan You <jyyou.tw@gmail.com>",
+    "Emilio Cobos \u00c1lvarez <emilio@crisal.io>",
+    "Nick Fitzgerald <fitzgen@gmail.com>",
+    "The Servo project developers"
+  ],
+  "repository": "https://github.com/rust-lang/rust-bindgen",
+  "source": "https://static.crates.io/crates/bindgen/bindgen-0.72.1.crate",
+  "sha256": "993776b509cfb49c750f11b8f07a46fa23e0a1386ffc01fb1e7d343efc387895",
+  "files": [
+    "LICENSE"
+  ]
+}

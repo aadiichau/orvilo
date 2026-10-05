@@ -1,0 +1,23 @@
+{
+  "name": "yasna",
+  "version": "0.5.2",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Masaki Hara <ackie.h.gmai@gmail.com>"
+  ],
+  "repository": "https://github.com/qnighy/yasna.rs",
+  "source": "https://static.crates.io/crates/yasna/yasna-0.5.2.crate",
+  "sha256": "e17bb3549cc1321ae1296b9cdc2698e2b6cb1992adfa19a8c72e5b7a738f44cd",
+  "files": [],
+  "upstream_commit": "b7e65f9a4c317494cce2d18ea02b3d6eaaea7985",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE-MIT",
+      "source": "https://raw.githubusercontent.com/qnighy/yasna.rs/b7e65f9a4c317494cce2d18ea02b3d6eaaea7985/LICENSE-MIT"
+    },
+    {
+      "file": "upstream-LICENSE-APACHE",
+      "source": "https://raw.githubusercontent.com/qnighy/yasna.rs/b7e65f9a4c317494cce2d18ea02b3d6eaaea7985/LICENSE-APACHE"
+    }
+  ]
+}

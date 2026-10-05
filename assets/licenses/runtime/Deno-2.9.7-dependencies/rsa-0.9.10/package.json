@@ -1,0 +1,16 @@
+{
+  "name": "rsa",
+  "version": "0.9.10",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "RustCrypto Developers",
+    "dignifiedquire <dignifiedquire@gmail.com>"
+  ],
+  "repository": "https://github.com/RustCrypto/RSA",
+  "source": "https://static.crates.io/crates/rsa/rsa-0.9.10.crate",
+  "sha256": "b8573f03f5883dcaebdfcf4725caa1ecb9c15b2ef50c43a07b816e06799bb12d",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

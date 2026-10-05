@@ -1,0 +1,13 @@
+{
+  "name": "toml_datetime",
+  "version": "0.7.5+spec-1.1.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/toml-rs/toml",
+  "source": "https://static.crates.io/crates/toml_datetime/toml_datetime-0.7.5+spec-1.1.0.crate",
+  "sha256": "92e1cfed4a3038bc5a127e35a2d360f145e1f4b971b551a2ba5fd7aedf7e1347",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

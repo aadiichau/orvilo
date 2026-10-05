@@ -1,0 +1,14 @@
+{
+  "name": "winreg",
+  "version": "0.52.0",
+  "license": "MIT",
+  "authors": [
+    "Igor Shaula <gentoo90@gmail.com>"
+  ],
+  "repository": "https://github.com/gentoo90/winreg-rs",
+  "source": "https://static.crates.io/crates/winreg/winreg-0.52.0.crate",
+  "sha256": "a277a57398d4bfa075df44f501a17cfdf8542d224f0d36095a2adc7aee4ef0a5",
+  "files": [
+    "LICENSE"
+  ]
+}

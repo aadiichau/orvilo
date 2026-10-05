@@ -1,0 +1,14 @@
+{
+  "name": "testing_macros",
+  "version": "1.0.1",
+  "license": "Apache-2.0",
+  "authors": [
+    "\uac15\ub3d9\uc724 <kdy1997.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/swc-project/swc.git",
+  "source": "https://static.crates.io/crates/testing_macros/testing_macros-1.0.1.crate",
+  "sha256": "b7442bd3ca09f38d4788dc5ebafbc1967c3717726b4b074db011d470b353548b",
+  "files": [],
+  "upstream_commit": "832d537695a07e539660096883fab52bb7f10ecf",
+  "supplemental_notices": []
+}

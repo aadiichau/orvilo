@@ -1,0 +1,16 @@
+{
+  "name": "is-terminal",
+  "version": "0.4.17",
+  "license": "MIT",
+  "authors": [
+    "softprops <d.tangren@gmail.com>",
+    "Dan Gohman <dev@sunfishcode.online>"
+  ],
+  "repository": "https://github.com/sunfishcode/is-terminal",
+  "source": "https://static.crates.io/crates/is-terminal/is-terminal-0.4.17.crate",
+  "sha256": "3640c1c38b8e4e43584d8df18be5fc6b0aa314ce6ebf51b53313d4306cca8e46",
+  "files": [
+    "LICENSE-MIT",
+    "LICENSE-MIT-atty"
+  ]
+}

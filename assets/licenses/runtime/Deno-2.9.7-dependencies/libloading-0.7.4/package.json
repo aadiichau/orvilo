@@ -1,0 +1,14 @@
+{
+  "name": "libloading",
+  "version": "0.7.4",
+  "license": "ISC",
+  "authors": [
+    "Simonas Kazlauskas <libloading@kazlauskas.me>"
+  ],
+  "repository": "https://github.com/nagisa/rust_libloading/",
+  "source": "https://static.crates.io/crates/libloading/libloading-0.7.4.crate",
+  "sha256": "b67380fd3b2fbe7527a606e18729d21c6f3951633d0500574c4dc22d2d638b9f",
+  "files": [
+    "LICENSE"
+  ]
+}

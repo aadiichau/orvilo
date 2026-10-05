@@ -1,0 +1,19 @@
+{
+  "name": "denokv_sqlite",
+  "version": "0.14.0",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/denokv",
+  "source": "https://static.crates.io/crates/denokv_sqlite/denokv_sqlite-0.14.0.crate",
+  "sha256": "9cedc50f9f299c8e3b33c81156a34b24a82a85e2b22cd9100db6b9c45f5c8c31",
+  "files": [],
+  "upstream_commit": "9fe65cc138ff56ca5bfe7a1bf8c53e832246f9d5",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/denoland/denokv/9fe65cc138ff56ca5bfe7a1bf8c53e832246f9d5/LICENSE"
+    }
+  ]
+}

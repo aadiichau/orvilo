@@ -1,0 +1,14 @@
+{
+  "name": "twox-hash",
+  "version": "2.1.2",
+  "license": "MIT",
+  "authors": [
+    "Jake Goulding <jake.goulding@gmail.com>"
+  ],
+  "repository": "https://github.com/shepmaster/twox-hash",
+  "source": "https://static.crates.io/crates/twox-hash/twox-hash-2.1.2.crate",
+  "sha256": "9ea3136b675547379c4bd395ca6b938e5ad3c3d20fad76e7fe85f9e0d011419c",
+  "files": [
+    "LICENSE.txt"
+  ]
+}

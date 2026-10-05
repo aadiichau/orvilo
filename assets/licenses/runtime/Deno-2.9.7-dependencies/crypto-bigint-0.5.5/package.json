@@ -1,0 +1,15 @@
+{
+  "name": "crypto-bigint",
+  "version": "0.5.5",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/crypto-bigint",
+  "source": "https://static.crates.io/crates/crypto-bigint/crypto-bigint-0.5.5.crate",
+  "sha256": "0dc92fb57ca44df6db8059111ab3af99a63d5d0f8375d9972e319a379c6bab76",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

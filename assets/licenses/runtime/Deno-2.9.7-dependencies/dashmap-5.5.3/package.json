@@ -1,0 +1,14 @@
+{
+  "name": "dashmap",
+  "version": "5.5.3",
+  "license": "MIT",
+  "authors": [
+    "Acrimon <joel.wejdenstal@gmail.com>"
+  ],
+  "repository": "https://github.com/xacrimon/dashmap",
+  "source": "https://static.crates.io/crates/dashmap/dashmap-5.5.3.crate",
+  "sha256": "978747c1d849a7d2ee5e8adc0159961c48fb7e5db2f06af6723b80123bb53856",
+  "files": [
+    "LICENSE"
+  ]
+}

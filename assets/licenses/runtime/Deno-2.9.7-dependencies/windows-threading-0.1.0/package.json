@@ -1,0 +1,15 @@
+{
+  "name": "windows-threading",
+  "version": "0.1.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Microsoft"
+  ],
+  "repository": "https://github.com/microsoft/windows-rs",
+  "source": "https://static.crates.io/crates/windows-threading/windows-threading-0.1.0.crate",
+  "sha256": "b66463ad2e0ea3bbf808b7f1d371311c80e115c0b71d60efc142cafbcfb057a6",
+  "files": [
+    "license-apache-2.0",
+    "license-mit"
+  ]
+}

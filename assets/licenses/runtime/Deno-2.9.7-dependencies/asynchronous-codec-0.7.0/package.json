@@ -1,0 +1,14 @@
+{
+  "name": "asynchronous-codec",
+  "version": "0.7.0",
+  "license": "MIT",
+  "authors": [
+    "Max Inden <mail@max-inden.de>"
+  ],
+  "repository": "https://github.com/mxinden/asynchronous-codec",
+  "source": "https://static.crates.io/crates/asynchronous-codec/asynchronous-codec-0.7.0.crate",
+  "sha256": "a860072022177f903e59730004fb5dc13db9275b79bb2aef7ba8ce831956c233",
+  "files": [
+    "LICENSE"
+  ]
+}

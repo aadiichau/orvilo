@@ -1,0 +1,14 @@
+{
+  "name": "endian-type",
+  "version": "0.1.2",
+  "license": "MIT",
+  "authors": [
+    "Lolirofle <lolipopple@hotmail.com>"
+  ],
+  "repository": "https://github.com/Lolirofle/endian-type.git",
+  "source": "https://static.crates.io/crates/endian-type/endian-type-0.1.2.crate",
+  "sha256": "c34f04666d835ff5d62e058c3995147c06f42fe86ff053337632bca83e42702d",
+  "files": [
+    "LICENSE"
+  ]
+}

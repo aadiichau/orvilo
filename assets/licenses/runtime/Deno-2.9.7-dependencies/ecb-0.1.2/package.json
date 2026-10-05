@@ -1,0 +1,15 @@
+{
+  "name": "ecb",
+  "version": "0.1.2",
+  "license": "MIT",
+  "authors": [
+    "RustCrypto Developers",
+    "magic-akari"
+  ],
+  "repository": "https://github.com/magic-akari/ecb",
+  "source": "https://static.crates.io/crates/ecb/ecb-0.1.2.crate",
+  "sha256": "1a8bfa975b1aec2145850fcaa1c6fe269a16578c44705a532ae3edc92b8881c7",
+  "files": [
+    "LICENSE"
+  ]
+}

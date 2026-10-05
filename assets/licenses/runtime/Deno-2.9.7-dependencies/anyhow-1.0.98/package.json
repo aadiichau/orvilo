@@ -1,0 +1,15 @@
+{
+  "name": "anyhow",
+  "version": "1.0.98",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>"
+  ],
+  "repository": "https://github.com/dtolnay/anyhow",
+  "source": "https://static.crates.io/crates/anyhow/anyhow-1.0.98.crate",
+  "sha256": "e16d2d3311acee920a9eb8d33b8cbc1787ce4a264e85f964c2404b969bdcd487",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

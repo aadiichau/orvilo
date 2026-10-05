@@ -1,0 +1,14 @@
+{
+  "name": "entities",
+  "version": "1.0.1",
+  "license": "MIT",
+  "authors": [
+    "Philip Jackson <p-jackson@live.com>"
+  ],
+  "repository": "https://github.com/p-jackson/entities",
+  "source": "https://static.crates.io/crates/entities/entities-1.0.1.crate",
+  "sha256": "b5320ae4c3782150d900b79807611a59a99fc9a1d61d686faafc24b93fc8d7ca",
+  "files": [
+    "LICENSE"
+  ]
+}

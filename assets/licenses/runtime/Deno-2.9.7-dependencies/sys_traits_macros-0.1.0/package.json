@@ -1,0 +1,12 @@
+{
+  "name": "sys_traits_macros",
+  "version": "0.1.0",
+  "license": "MIT",
+  "authors": [],
+  "repository": "https://github.com/dsherret/sys_traits",
+  "source": "https://static.crates.io/crates/sys_traits_macros/sys_traits_macros-0.1.0.crate",
+  "sha256": "181f22127402abcf8ee5c83ccd5b408933fec36a6095cf82cda545634692657e",
+  "files": [],
+  "upstream_commit": "75cbf3ea478624cc78275b0264e78e9ae13ce3f5",
+  "supplemental_notices": []
+}

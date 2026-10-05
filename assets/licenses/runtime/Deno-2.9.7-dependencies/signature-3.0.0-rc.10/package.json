@@ -1,0 +1,15 @@
+{
+  "name": "signature",
+  "version": "3.0.0-rc.10",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/traits",
+  "source": "https://static.crates.io/crates/signature/signature-3.0.0-rc.10.crate",
+  "sha256": "7f1880df446116126965eeec169136b2e0251dba37c6223bcc819569550edea3",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

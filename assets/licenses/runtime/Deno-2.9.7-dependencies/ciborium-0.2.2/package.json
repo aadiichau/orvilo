@@ -1,0 +1,14 @@
+{
+  "name": "ciborium",
+  "version": "0.2.2",
+  "license": "Apache-2.0",
+  "authors": [
+    "Nathaniel McCallum <npmccallum@profian.com>"
+  ],
+  "repository": "https://github.com/enarx/ciborium",
+  "source": "https://static.crates.io/crates/ciborium/ciborium-0.2.2.crate",
+  "sha256": "42e69ffd6f0917f5c029256a24d0161db17cea3997d185db0d35926308770f0e",
+  "files": [
+    "LICENSE"
+  ]
+}

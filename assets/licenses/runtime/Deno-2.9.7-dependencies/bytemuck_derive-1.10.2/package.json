@@ -1,0 +1,16 @@
+{
+  "name": "bytemuck_derive",
+  "version": "1.10.2",
+  "license": "Zlib OR Apache-2.0 OR MIT",
+  "authors": [
+    "Lokathor <zefria@gmail.com>"
+  ],
+  "repository": "https://github.com/Lokathor/bytemuck",
+  "source": "https://static.crates.io/crates/bytemuck_derive/bytemuck_derive-1.10.2.crate",
+  "sha256": "f9abbd1bc6865053c427f7198e6af43bfdedc55ab791faed4fbd361d789575ff",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT",
+    "LICENSE-ZLIB"
+  ]
+}

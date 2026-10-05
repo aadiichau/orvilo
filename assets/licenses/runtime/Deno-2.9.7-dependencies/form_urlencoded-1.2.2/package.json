@@ -1,0 +1,15 @@
+{
+  "name": "form_urlencoded",
+  "version": "1.2.2",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The rust-url developers"
+  ],
+  "repository": "https://github.com/servo/rust-url",
+  "source": "https://static.crates.io/crates/form_urlencoded/form_urlencoded-1.2.2.crate",
+  "sha256": "cb4cb245038516f5f85277875cdaa4f7d2c9a0fa0468de06ed190163b1581fcf",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

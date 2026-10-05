@@ -1,0 +1,15 @@
+{
+  "name": "des",
+  "version": "0.8.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/block-ciphers",
+  "source": "https://static.crates.io/crates/des/des-0.8.1.crate",
+  "sha256": "ffdd80ce8ce993de27e9f063a444a4d53ce8e8db4c1f00cc03af5ad5a9867a1e",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

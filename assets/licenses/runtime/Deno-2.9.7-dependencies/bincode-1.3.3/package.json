@@ -1,0 +1,17 @@
+{
+  "name": "bincode",
+  "version": "1.3.3",
+  "license": "MIT",
+  "authors": [
+    "Ty Overby <ty@pre-alpha.com>",
+    "Francesco Mazzoli <f@mazzo.li>",
+    "David Tolnay <dtolnay@gmail.com>",
+    "Zoey Riordan <zoey@dos.cafe>"
+  ],
+  "repository": "https://github.com/servo/bincode",
+  "source": "https://static.crates.io/crates/bincode/bincode-1.3.3.crate",
+  "sha256": "b1f45e9417d87227c7a56d22e471c6206462cba514c7590c09aff4cf6d1ddcad",
+  "files": [
+    "LICENSE.md"
+  ]
+}

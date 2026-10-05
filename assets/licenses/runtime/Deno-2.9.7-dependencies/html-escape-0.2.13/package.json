@@ -1,0 +1,14 @@
+{
+  "name": "html-escape",
+  "version": "0.2.13",
+  "license": "MIT",
+  "authors": [
+    "Magic Len <len@magiclen.org>"
+  ],
+  "repository": "https://github.com/magiclen/html-escape",
+  "source": "https://static.crates.io/crates/html-escape/html-escape-0.2.13.crate",
+  "sha256": "6d1ad449764d627e22bfd7cd5e8868264fc9236e07c752972b4080cd351cb476",
+  "files": [
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "spirv",
+  "version": "0.4.0+sdk-1.4.341.0",
+  "license": "Apache-2.0",
+  "authors": [
+    "Lei Zhang <antiagainst@gmail.com>"
+  ],
+  "repository": "https://github.com/gfx-rs/rspirv",
+  "source": "https://static.crates.io/crates/spirv/spirv-0.4.0+sdk-1.4.341.0.crate",
+  "sha256": "d9571ea910ebd84c86af4b3ed27f9dbdc6ad06f17c5f96146b2b671e2976744f",
+  "files": [],
+  "upstream_commit": "8afc3d0ac8e158128cd1410bb2e4b4c26ab11bb4",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/gfx-rs/rspirv/8afc3d0ac8e158128cd1410bb2e4b4c26ab11bb4/LICENSE"
+    }
+  ]
+}

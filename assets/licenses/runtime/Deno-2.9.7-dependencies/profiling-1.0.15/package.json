@@ -1,0 +1,23 @@
+{
+  "name": "profiling",
+  "version": "1.0.15",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Philip Degarmo <aclysma@gmail.com>"
+  ],
+  "repository": "https://github.com/aclysma/profiling",
+  "source": "https://static.crates.io/crates/profiling/profiling-1.0.15.crate",
+  "sha256": "43d84d1d7a6ac92673717f9f6d1518374ef257669c24ebc5ac25d5033828be58",
+  "files": [],
+  "upstream_commit": "2f000e192aa804e043021fd851ce1f077f73f76a",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE-MIT",
+      "source": "https://raw.githubusercontent.com/aclysma/profiling/2f000e192aa804e043021fd851ce1f077f73f76a/LICENSE-MIT"
+    },
+    {
+      "file": "upstream-LICENSE-APACHE",
+      "source": "https://raw.githubusercontent.com/aclysma/profiling/2f000e192aa804e043021fd851ce1f077f73f76a/LICENSE-APACHE"
+    }
+  ]
+}

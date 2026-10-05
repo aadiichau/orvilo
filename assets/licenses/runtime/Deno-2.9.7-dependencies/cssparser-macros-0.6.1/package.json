@@ -1,0 +1,14 @@
+{
+  "name": "cssparser-macros",
+  "version": "0.6.1",
+  "license": "MPL-2.0",
+  "authors": [
+    "Simon Sapin <simon.sapin@exyr.org>"
+  ],
+  "repository": "https://github.com/servo/rust-cssparser",
+  "source": "https://static.crates.io/crates/cssparser-macros/cssparser-macros-0.6.1.crate",
+  "sha256": "13b588ba4ac1a99f7f2964d24b3d896ddc6bf847ee3855dbd4366f058cfcd331",
+  "files": [
+    "LICENSE"
+  ]
+}

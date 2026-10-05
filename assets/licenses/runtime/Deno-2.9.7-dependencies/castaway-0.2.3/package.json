@@ -1,0 +1,14 @@
+{
+  "name": "castaway",
+  "version": "0.2.3",
+  "license": "MIT",
+  "authors": [
+    "Stephen M. Coakley <me@stephencoakley.com>"
+  ],
+  "repository": "https://github.com/sagebind/castaway",
+  "source": "https://static.crates.io/crates/castaway/castaway-0.2.3.crate",
+  "sha256": "0abae9be0aaf9ea96a3b1b8b1b55c602ca751eba1b1500220cea4ecbafe7c0d5",
+  "files": [
+    "LICENSE"
+  ]
+}

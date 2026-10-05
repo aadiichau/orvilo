@@ -1,0 +1,14 @@
+{
+  "name": "yoke",
+  "version": "0.8.2",
+  "license": "Unicode-3.0",
+  "authors": [
+    "Manish Goregaokar <manishsmail@gmail.com>"
+  ],
+  "repository": "https://github.com/unicode-org/icu4x",
+  "source": "https://static.crates.io/crates/yoke/yoke-0.8.2.crate",
+  "sha256": "abe8c5fda708d9ca3df187cae8bfb9ceda00dd96231bed36e445a1a48e66f9ca",
+  "files": [
+    "LICENSE"
+  ]
+}

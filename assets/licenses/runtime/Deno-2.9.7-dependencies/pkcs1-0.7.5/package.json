@@ -1,0 +1,15 @@
+{
+  "name": "pkcs1",
+  "version": "0.7.5",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/formats/tree/master/pkcs1",
+  "source": "https://static.crates.io/crates/pkcs1/pkcs1-0.7.5.crate",
+  "sha256": "c8ffb9f10fa047879315e6625af03c164b16962a5368d724ed16323b68ace47f",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

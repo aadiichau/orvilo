@@ -1,0 +1,18 @@
+{
+  "name": "unicode-xid",
+  "version": "0.2.6",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "erick.tryzelaar <erick.tryzelaar@gmail.com>",
+    "kwantam <kwantam@gmail.com>",
+    "Manish Goregaokar <manishsmail@gmail.com>"
+  ],
+  "repository": "https://github.com/unicode-rs/unicode-xid",
+  "source": "https://static.crates.io/crates/unicode-xid/unicode-xid-0.2.6.crate",
+  "sha256": "ebc1c04c71510c7f702b52b7c350734c9ff1295c464a03335b00bb84fc54f853",
+  "files": [
+    "COPYRIGHT",
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

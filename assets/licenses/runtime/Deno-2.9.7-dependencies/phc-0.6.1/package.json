@@ -1,0 +1,15 @@
+{
+  "name": "phc",
+  "version": "0.6.1",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/formats",
+  "source": "https://static.crates.io/crates/phc/phc-0.6.1.crate",
+  "sha256": "44dc769b75f93afdddd8c7fa12d685292ddeff1e66f7f0f3a234cf1818afe892",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

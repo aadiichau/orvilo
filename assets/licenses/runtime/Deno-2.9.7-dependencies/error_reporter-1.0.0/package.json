@@ -1,0 +1,14 @@
+{
+  "name": "error_reporter",
+  "version": "1.0.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/mahkoh/error_reporter",
+  "source": "https://static.crates.io/crates/error_reporter/error_reporter-1.0.0.crate",
+  "sha256": "31ae425815400e5ed474178a7a22e275a9687086a12ca63ec793ff292d8fdae8",
+  "files": [
+    "COPYRIGHT",
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "http-body",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    "Carl Lerche <me@carllerche.com>",
+    "Lucio Franco <luciofranco14@gmail.com>",
+    "Sean McArthur <sean@seanmonstar.com>"
+  ],
+  "repository": "https://github.com/hyperium/http-body",
+  "source": "https://static.crates.io/crates/http-body/http-body-1.0.0.crate",
+  "sha256": "1cac85db508abc24a2e48553ba12a996e87244a0395ce011e62b37158745d643",
+  "files": [],
+  "upstream_commit": "2474edda2035ea4c6bb22f79417d7964479b2a10",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/hyperium/http-body/2474edda2035ea4c6bb22f79417d7964479b2a10/LICENSE"
+    }
+  ]
+}

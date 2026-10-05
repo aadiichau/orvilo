@@ -1,0 +1,15 @@
+{
+  "name": "ppv-lite86",
+  "version": "0.2.17",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "The CryptoCorrosion Contributors"
+  ],
+  "repository": "https://github.com/cryptocorrosion/cryptocorrosion",
+  "source": "https://static.crates.io/crates/ppv-lite86/ppv-lite86-0.2.17.crate",
+  "sha256": "5b40af805b3121feab8a3c29f04d8ad262fa8e0561883e7653e024ae4479e6de",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

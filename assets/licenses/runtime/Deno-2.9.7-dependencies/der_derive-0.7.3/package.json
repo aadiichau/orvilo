@@ -1,0 +1,15 @@
+{
+  "name": "der_derive",
+  "version": "0.7.3",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/formats/tree/master/der/derive",
+  "source": "https://static.crates.io/crates/der_derive/der_derive-0.7.3.crate",
+  "sha256": "8034092389675178f570469e6c3b0465d3d30b4505c294a6550db47f3c17ad18",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

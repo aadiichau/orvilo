@@ -1,0 +1,17 @@
+{
+  "name": "rpm",
+  "version": "0.25.1",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "Ren\u00e9 Richter <richterrettich@gmail.com>",
+    "Bernhard Schuster <bernhard@ahoi.io>",
+    "Daniel Alley <dalley@redhat.com>"
+  ],
+  "repository": "https://github.com/rpm-rs/rpm",
+  "source": "https://static.crates.io/crates/rpm/rpm-0.25.1.crate",
+  "sha256": "3a5c5d43b95d73d6f0a1b8fbeab72a7ebebf618cdc99f2b9a28f269ee343766e",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

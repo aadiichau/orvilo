@@ -1,0 +1,16 @@
+{
+  "name": "ryu-js",
+  "version": "1.0.1",
+  "license": "Apache-2.0 OR BSL-1.0",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>",
+    "boa-dev"
+  ],
+  "repository": "https://github.com/boa-dev/ryu-js",
+  "source": "https://static.crates.io/crates/ryu-js/ryu-js-1.0.1.crate",
+  "sha256": "ad97d4ce1560a5e27cec89519dc8300d1aa6035b099821261c651486a19e44d5",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-BOOST"
+  ]
+}

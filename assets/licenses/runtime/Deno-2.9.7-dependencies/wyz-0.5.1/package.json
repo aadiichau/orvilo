@@ -1,0 +1,14 @@
+{
+  "name": "wyz",
+  "version": "0.5.1",
+  "license": "MIT",
+  "authors": [
+    "myrrlyn <self@myrrlyn.dev>"
+  ],
+  "repository": "https://github.com/myrrlyn/wyz",
+  "source": "https://static.crates.io/crates/wyz/wyz-0.5.1.crate",
+  "sha256": "05f360fc0b24296329c78fda852a1e9ae82de9cf7b27dae4b7f62f118f77b9ed",
+  "files": [
+    "LICENSE.txt"
+  ]
+}

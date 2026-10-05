@@ -1,0 +1,15 @@
+{
+  "name": "diff",
+  "version": "0.1.13",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Utkarsh Kukreti <utkarshkukreti@gmail.com>"
+  ],
+  "repository": "https://github.com/utkarshkukreti/diff.rs",
+  "source": "https://static.crates.io/crates/diff/diff-0.1.13.crate",
+  "sha256": "56254986775e3233ffa9c4d7d3faaf6d36a2c09d30b20687e9f88bc8bafc16c8",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "regex-syntax",
+  "version": "0.8.8",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The Rust Project Developers",
+    "Andrew Gallant <jamslam@gmail.com>"
+  ],
+  "repository": "https://github.com/rust-lang/regex",
+  "source": "https://static.crates.io/crates/regex-syntax/regex-syntax-0.8.8.crate",
+  "sha256": "7a2d987857b319362043e95f5353c0535c1f58eec5336fdfcf626430af7def58",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT",
+    "src_unicode_tables_LICENSE-UNICODE"
+  ]
+}

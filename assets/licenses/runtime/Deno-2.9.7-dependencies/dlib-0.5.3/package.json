@@ -1,0 +1,14 @@
+{
+  "name": "dlib",
+  "version": "0.5.3",
+  "license": "MIT",
+  "authors": [
+    "Elinor Berger <elinor@safaradeg.net>"
+  ],
+  "repository": "https://github.com/elinorbgr/dlib",
+  "source": "https://static.crates.io/crates/dlib/dlib-0.5.3.crate",
+  "sha256": "ab8ecd87370524b461f8557c119c405552c396ed91fc0a8eec68679eab26f94a",
+  "files": [
+    "LICENSE.txt"
+  ]
+}

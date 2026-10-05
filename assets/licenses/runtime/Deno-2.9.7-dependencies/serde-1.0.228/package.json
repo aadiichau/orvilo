@@ -1,0 +1,16 @@
+{
+  "name": "serde",
+  "version": "1.0.228",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Erick Tryzelaar <erick.tryzelaar@gmail.com>",
+    "David Tolnay <dtolnay@gmail.com>"
+  ],
+  "repository": "https://github.com/serde-rs/serde",
+  "source": "https://static.crates.io/crates/serde/serde-1.0.228.crate",
+  "sha256": "9a8e94ea7f378bd32cbbd37198a4a91436180c5bb472411e48b5ec2e2124ae9e",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

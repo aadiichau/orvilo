@@ -1,0 +1,17 @@
+{
+  "name": "libdbus-sys",
+  "version": "0.2.5",
+  "license": "Apache-2.0/MIT",
+  "authors": [
+    "David Henningsson <diwic@ubuntu.com>"
+  ],
+  "repository": "https://github.com/diwic/dbus-rs",
+  "source": "https://static.crates.io/crates/libdbus-sys/libdbus-sys-0.2.5.crate",
+  "sha256": "06085512b750d640299b79be4bad3d2fa90a9c00b1fd9e1b46364f66f0485c72",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT",
+    "vendor_dbus_COPYING",
+    "vendor_dbus_cmake_modules_COPYING-CMAKE-SCRIPTS"
+  ]
+}

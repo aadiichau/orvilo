@@ -1,0 +1,15 @@
+{
+  "name": "win32job",
+  "version": "2.0.3",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Ohad Ravid <ohad.rv@gmail.com>"
+  ],
+  "repository": "https://github.com/ohadravid/win32job-rs",
+  "source": "https://static.crates.io/crates/win32job/win32job-2.0.3.crate",
+  "sha256": "8c6a6724ccfbf34154a8691bd868b0fcd2be2ca3f7b47b32614654f1a01b191c",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

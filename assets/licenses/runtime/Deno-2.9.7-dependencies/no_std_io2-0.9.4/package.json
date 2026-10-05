@@ -1,0 +1,13 @@
+{
+  "name": "no_std_io2",
+  "version": "0.9.4",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [],
+  "repository": "https://github.com/wcampbell0x2a/no-std-io2",
+  "source": "https://static.crates.io/crates/no_std_io2/no_std_io2-0.9.4.crate",
+  "sha256": "418abd1b6d34fbf6cae440dc874771b0525a604428704c76e48b29a5e67b8003",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

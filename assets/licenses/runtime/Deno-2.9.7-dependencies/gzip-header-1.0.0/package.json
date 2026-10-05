@@ -1,0 +1,15 @@
+{
+  "name": "gzip-header",
+  "version": "1.0.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "oyvindln <oyvindln@users.noreply.github.com>"
+  ],
+  "repository": "https://github.com/oyvindln/gzip-header",
+  "source": "https://static.crates.io/crates/gzip-header/gzip-header-1.0.0.crate",
+  "sha256": "95cc527b92e6029a62960ad99aa8a6660faa4555fe5f731aab13aa6a921795a2",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

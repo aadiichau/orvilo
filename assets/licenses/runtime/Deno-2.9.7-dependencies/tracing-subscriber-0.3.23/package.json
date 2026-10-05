@@ -1,0 +1,16 @@
+{
+  "name": "tracing-subscriber",
+  "version": "0.3.23",
+  "license": "MIT",
+  "authors": [
+    "Eliza Weisman <eliza@buoyant.io>",
+    "David Barsky <me@davidbarsky.com>",
+    "Tokio Contributors <team@tokio.rs>"
+  ],
+  "repository": "https://github.com/tokio-rs/tracing",
+  "source": "https://static.crates.io/crates/tracing-subscriber/tracing-subscriber-0.3.23.crate",
+  "sha256": "cb7f578e5945fb242538965c2d0b04418d38ec25c79d160cd279bf0731c8d319",
+  "files": [
+    "LICENSE"
+  ]
+}

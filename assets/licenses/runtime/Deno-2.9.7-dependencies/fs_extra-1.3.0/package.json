@@ -1,0 +1,14 @@
+{
+  "name": "fs_extra",
+  "version": "1.3.0",
+  "license": "MIT",
+  "authors": [
+    "Denis Kurilenko <webdesus@gmail.com>"
+  ],
+  "repository": "https://github.com/webdesus/fs_extra",
+  "source": "https://static.crates.io/crates/fs_extra/fs_extra-1.3.0.crate",
+  "sha256": "42703706b716c37f96a77aea830392ad231f44c9e9a67872fa5548707e11b11c",
+  "files": [
+    "LICENSE"
+  ]
+}

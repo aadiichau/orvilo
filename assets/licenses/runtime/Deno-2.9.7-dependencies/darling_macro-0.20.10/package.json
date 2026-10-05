@@ -1,0 +1,14 @@
+{
+  "name": "darling_macro",
+  "version": "0.20.10",
+  "license": "MIT",
+  "authors": [
+    "Ted Driggs <ted.driggs@outlook.com>"
+  ],
+  "repository": "https://github.com/TedDriggs/darling",
+  "source": "https://static.crates.io/crates/darling_macro/darling_macro-0.20.10.crate",
+  "sha256": "d336a2a514f6ccccaa3e09b02d41d35330c07ddf03a62165fcec10bb561c7806",
+  "files": [
+    "LICENSE"
+  ]
+}

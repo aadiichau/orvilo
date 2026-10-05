@@ -1,0 +1,14 @@
+{
+  "name": "qbsdiff",
+  "version": "1.4.4",
+  "license": "MIT",
+  "authors": [
+    "hucsmn <hucsmn@hotmail.com>"
+  ],
+  "repository": "https://github.com/hucsmn/qbsdiff",
+  "source": "https://static.crates.io/crates/qbsdiff/qbsdiff-1.4.4.crate",
+  "sha256": "fdc7f24528be166f08f2c7becaca5618865499b6ded2565d5afcd795cc0d7596",
+  "files": [
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "v8x",
+  "version": "149.4.0-rc.4",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Divy Srivastava <me@littledivy.com>"
+  ],
+  "repository": "https://github.com/littledivy/v8x",
+  "source": "https://static.crates.io/crates/v8x/v8x-149.4.0-rc.4.crate",
+  "sha256": "3701ffb3692a24808503d17f758b0a3f688d2c451779247982566b5941033e63",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT",
+    "vendor_quickjs-ng_LICENSE",
+    "vendor_rusty_v8_LICENSE",
+    "vendor_temporal-polyfill_LICENSE",
+    "vendor_wamr_LICENSE",
+    "vendor_wamr_core_iwasm_aot_debug_LICENSE_NUTTX",
+    "vendor_wamr_core_iwasm_aot_debug_NOTICE_NUTTX",
+    "vendor_wamr_core_iwasm_fast-jit_cg_LICENSE_ASMJIT",
+    "vendor_wamr_core_iwasm_fast-jit_cg_LICENSE_ZYDIS",
+    "vendor_wamr_core_iwasm_libraries_libc-uvwasi_LICENSE_LIBUV",
+    "vendor_wamr_core_iwasm_libraries_libc-uvwasi_LICENSE_UVWASI",
+    "vendor_wamr_core_iwasm_libraries_libc-wasi_sandboxed-system-primitives_LICENSE",
+    "vendor_wamr_core_iwasm_libraries_libc-wasi_sandboxed-system-primitives_include_LICENSE",
+    "vendor_wamr_core_iwasm_libraries_libc-wasi_sandboxed-system-primitives_src_LICENSE",
+    "vendor_wamr_core_shared_coap_er-coap_LICENSE.md",
+    "vendor_wamr_core_shared_platform_common_math_COPYRIGHT"
+  ]
+}

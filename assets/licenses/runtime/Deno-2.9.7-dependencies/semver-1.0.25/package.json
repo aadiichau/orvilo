@@ -1,0 +1,15 @@
+{
+  "name": "semver",
+  "version": "1.0.25",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>"
+  ],
+  "repository": "https://github.com/dtolnay/semver",
+  "source": "https://static.crates.io/crates/semver/semver-1.0.25.crate",
+  "sha256": "f79dfe2d285b0488816f30e700a7438c5a73d816b5b7d3ac72fbc48b0d185e03",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

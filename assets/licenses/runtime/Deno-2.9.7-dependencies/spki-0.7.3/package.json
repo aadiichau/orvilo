@@ -1,0 +1,15 @@
+{
+  "name": "spki",
+  "version": "0.7.3",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/formats/tree/master/spki",
+  "source": "https://static.crates.io/crates/spki/spki-0.7.3.crate",
+  "sha256": "d91ed6c858b01f942cd56b37a94b3e0a1798290327d1236e4d9cf4eaca44d29d",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

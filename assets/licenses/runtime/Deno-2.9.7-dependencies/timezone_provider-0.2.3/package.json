@@ -1,0 +1,15 @@
+{
+  "name": "timezone_provider",
+  "version": "0.2.3",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "boa-dev"
+  ],
+  "repository": "https://github.com/boa-dev/temporal",
+  "source": "https://static.crates.io/crates/timezone_provider/timezone_provider-0.2.3.crate",
+  "sha256": "c48f9b04628a2b813051e4dfe97c65281e49625eabd09ec343190e31e399a8c2",
+  "files": [
+    "LICENSE-Apache",
+    "LICENSE-MIT"
+  ]
+}

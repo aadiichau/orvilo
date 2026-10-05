@@ -1,0 +1,14 @@
+{
+  "name": "ixdtf",
+  "version": "0.6.4",
+  "license": "Unicode-3.0",
+  "authors": [
+    "The ICU4X Project Developers"
+  ],
+  "repository": "https://github.com/unicode-org/icu4x",
+  "source": "https://static.crates.io/crates/ixdtf/ixdtf-0.6.4.crate",
+  "sha256": "84de9d95a6d2547d9b77ee3f25fa0ee32e3c3a6484d47a55adebc0439c077992",
+  "files": [
+    "LICENSE"
+  ]
+}

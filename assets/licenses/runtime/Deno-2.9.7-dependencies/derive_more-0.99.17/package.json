@@ -1,0 +1,14 @@
+{
+  "name": "derive_more",
+  "version": "0.99.17",
+  "license": "MIT",
+  "authors": [
+    "Jelte Fennema <github-tech@jeltef.nl>"
+  ],
+  "repository": "https://github.com/JelteF/derive_more",
+  "source": "https://static.crates.io/crates/derive_more/derive_more-0.99.17.crate",
+  "sha256": "4fb810d30a7c1953f91334de7244731fc3f3c10d7fe163338a35b9f640960321",
+  "files": [
+    "LICENSE"
+  ]
+}

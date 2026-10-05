@@ -1,0 +1,15 @@
+{
+  "name": "ed25519",
+  "version": "2.2.3",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/signatures/tree/master/ed25519",
+  "source": "https://static.crates.io/crates/ed25519/ed25519-2.2.3.crate",
+  "sha256": "115531babc129696a58c64a4fef0a8bf9e9698629fb97e9e40767d235cfbcd53",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

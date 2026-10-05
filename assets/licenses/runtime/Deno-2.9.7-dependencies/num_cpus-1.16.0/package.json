@@ -1,0 +1,15 @@
+{
+  "name": "num_cpus",
+  "version": "1.16.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Sean McArthur <sean@seanmonstar.com>"
+  ],
+  "repository": "https://github.com/seanmonstar/num_cpus",
+  "source": "https://static.crates.io/crates/num_cpus/num_cpus-1.16.0.crate",
+  "sha256": "4161fcb6d602d4d2081af7c3a45852d875a03dd337a6bfdd6e06407b61342a43",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

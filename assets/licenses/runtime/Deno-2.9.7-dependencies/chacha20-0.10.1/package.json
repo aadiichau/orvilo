@@ -1,0 +1,15 @@
+{
+  "name": "chacha20",
+  "version": "0.10.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/stream-ciphers",
+  "source": "https://static.crates.io/crates/chacha20/chacha20-0.10.1.crate",
+  "sha256": "d524456ba66e72eb8b115ff89e01e497f8e6d11d78b70b1aa13c0fbd97540a81",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

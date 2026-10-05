@@ -1,0 +1,14 @@
+{
+  "name": "zerotrie",
+  "version": "0.2.4",
+  "license": "Unicode-3.0",
+  "authors": [
+    "The ICU4X Project Developers"
+  ],
+  "repository": "https://github.com/unicode-org/icu4x",
+  "source": "https://static.crates.io/crates/zerotrie/zerotrie-0.2.4.crate",
+  "sha256": "0f9152d31db0792fa83f70fb2f83148effb5c1f5b8c7686c3459e361d9bc20bf",
+  "files": [
+    "LICENSE"
+  ]
+}

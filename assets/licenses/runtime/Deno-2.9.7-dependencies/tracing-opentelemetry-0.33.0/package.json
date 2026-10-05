@@ -1,0 +1,12 @@
+{
+  "name": "tracing-opentelemetry",
+  "version": "0.33.0",
+  "license": "MIT",
+  "authors": [],
+  "repository": "https://github.com/tokio-rs/tracing-opentelemetry",
+  "source": "https://static.crates.io/crates/tracing-opentelemetry/tracing-opentelemetry-0.33.0.crate",
+  "sha256": "adbc64cba7137545b8044cb1fe9814f7aacf3c6b5f9b45be8bb5db538befdb26",
+  "files": [
+    "LICENSE"
+  ]
+}

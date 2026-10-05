@@ -1,0 +1,16 @@
+{
+  "name": "safe_arch",
+  "version": "0.7.4",
+  "license": "Zlib OR Apache-2.0 OR MIT",
+  "authors": [
+    "Lokathor <zefria@gmail.com>"
+  ],
+  "repository": "https://github.com/Lokathor/safe_arch",
+  "source": "https://static.crates.io/crates/safe_arch/safe_arch-0.7.4.crate",
+  "sha256": "96b02de82ddbe1b636e6170c21be622223aea188ef2e139be0a5b219ec215323",
+  "files": [
+    "LICENSE-APACHE.md",
+    "LICENSE-MIT.md",
+    "LICENSE-ZLIB.md"
+  ]
+}

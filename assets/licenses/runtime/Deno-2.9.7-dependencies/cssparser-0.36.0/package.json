@@ -1,0 +1,14 @@
+{
+  "name": "cssparser",
+  "version": "0.36.0",
+  "license": "MPL-2.0",
+  "authors": [
+    "Simon Sapin <simon.sapin@exyr.org>"
+  ],
+  "repository": "https://github.com/servo/rust-cssparser",
+  "source": "https://static.crates.io/crates/cssparser/cssparser-0.36.0.crate",
+  "sha256": "dae61cf9c0abb83bd659dab65b7e4e38d8236824c85f0f804f173567bda257d2",
+  "files": [
+    "LICENSE"
+  ]
+}

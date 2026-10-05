@@ -1,0 +1,15 @@
+{
+  "name": "lzxd",
+  "version": "0.2.6",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Lonami Exo <totufals@hotmail.com>"
+  ],
+  "repository": "https://github.com/Lonami/lzxd",
+  "source": "https://static.crates.io/crates/lzxd/lzxd-0.2.6.crate",
+  "sha256": "7b29dffab797218e12e4df08ef5d15ab9efca2504038b1b32b9b32fc844b39c9",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

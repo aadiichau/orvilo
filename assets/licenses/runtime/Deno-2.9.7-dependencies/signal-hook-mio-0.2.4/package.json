@@ -1,0 +1,16 @@
+{
+  "name": "signal-hook-mio",
+  "version": "0.2.4",
+  "license": "Apache-2.0/MIT",
+  "authors": [
+    "Michal 'vorner' Vaner <vorner@vorner.cz>",
+    "Thomas Himmelstoss <thimm@posteo.de>"
+  ],
+  "repository": "https://github.com/vorner/signal-hook",
+  "source": "https://static.crates.io/crates/signal-hook-mio/signal-hook-mio-0.2.4.crate",
+  "sha256": "34db1a06d485c9142248b7a054f034b349b212551f3dfd19c94d45a754a217cd",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

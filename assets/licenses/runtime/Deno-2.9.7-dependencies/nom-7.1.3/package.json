@@ -1,0 +1,14 @@
+{
+  "name": "nom",
+  "version": "7.1.3",
+  "license": "MIT",
+  "authors": [
+    "contact@geoffroycouprie.com"
+  ],
+  "repository": "https://github.com/Geal/nom",
+  "source": "https://static.crates.io/crates/nom/nom-7.1.3.crate",
+  "sha256": "d273983c5a657a70a3e8f2a01329822f3b8c8172b73826411a55751e404a0a4a",
+  "files": [
+    "LICENSE"
+  ]
+}

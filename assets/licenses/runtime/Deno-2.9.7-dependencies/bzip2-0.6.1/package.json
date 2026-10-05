@@ -1,0 +1,13 @@
+{
+  "name": "bzip2",
+  "version": "0.6.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/trifectatechfoundation/bzip2-rs",
+  "source": "https://static.crates.io/crates/bzip2/bzip2-0.6.1.crate",
+  "sha256": "f3a53fac24f34a81bc9954b5d6cfce0c21e18ec6959f44f56e8e90e4bb7c346c",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

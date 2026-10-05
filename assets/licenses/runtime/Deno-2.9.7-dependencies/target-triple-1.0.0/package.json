@@ -1,0 +1,15 @@
+{
+  "name": "target-triple",
+  "version": "1.0.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>"
+  ],
+  "repository": "https://github.com/dtolnay/target-triple",
+  "source": "https://static.crates.io/crates/target-triple/target-triple-1.0.0.crate",
+  "sha256": "591ef38edfb78ca4771ee32cf494cb8771944bee237a9b91fc9c1424ac4b777b",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

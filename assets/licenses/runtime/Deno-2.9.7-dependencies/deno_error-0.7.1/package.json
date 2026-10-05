@@ -1,0 +1,14 @@
+{
+  "name": "deno_error",
+  "version": "0.7.1",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/deno_error",
+  "source": "https://static.crates.io/crates/deno_error/deno_error-0.7.1.crate",
+  "sha256": "bfafd2219b29886a71aecbb3449e462deed1b2c474dc5b12f855f0e58c478931",
+  "files": [
+    "LICENSE"
+  ]
+}

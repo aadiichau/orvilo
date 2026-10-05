@@ -1,0 +1,13 @@
+{
+  "name": "unarray",
+  "version": "0.1.4",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/cameron1024/unarray",
+  "source": "https://static.crates.io/crates/unarray/unarray-0.1.4.crate",
+  "sha256": "eaea85b334db583fe3274d12b4cd1880032beab409c0d774be044d4480ab9a94",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

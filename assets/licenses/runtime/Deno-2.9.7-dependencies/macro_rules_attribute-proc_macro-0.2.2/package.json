@@ -1,0 +1,16 @@
+{
+  "name": "macro_rules_attribute-proc_macro",
+  "version": "0.2.2",
+  "license": "Apache-2.0 OR MIT OR Zlib",
+  "authors": [
+    "Daniel Henry-Mantilla <daniel.henry.mantilla@gmail.com>"
+  ],
+  "repository": "https://github.com/danielhenrymantilla/macro_rules_attribute-rs",
+  "source": "https://static.crates.io/crates/macro_rules_attribute-proc_macro/macro_rules_attribute-proc_macro-0.2.2.crate",
+  "sha256": "670fdfda89751bc4a84ac13eaa63e205cf0fd22b4c9a5fbfa085b63c1f1d3a30",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT",
+    "LICENSE-ZLIB"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "objc2-core-foundation",
+  "version": "0.3.2",
+  "license": "Zlib OR Apache-2.0 OR MIT",
+  "authors": [],
+  "repository": "https://github.com/madsmtm/objc2",
+  "source": "https://static.crates.io/crates/objc2-core-foundation/objc2-core-foundation-0.3.2.crate",
+  "sha256": "2a180dd8642fa45cdb7dd721cd4c11b1cadd4929ce112ebd8b9f5803cc79d536",
+  "files": [],
+  "upstream_commit": "7b1abfd750a2cacaea71d6a56ecfb83cb7de560b",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE.md",
+      "source": "https://raw.githubusercontent.com/madsmtm/objc2/7b1abfd750a2cacaea71d6a56ecfb83cb7de560b/LICENSE.md"
+    }
+  ]
+}

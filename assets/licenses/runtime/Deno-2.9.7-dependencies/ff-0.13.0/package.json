@@ -1,0 +1,16 @@
+{
+  "name": "ff",
+  "version": "0.13.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Sean Bowe <ewillbefull@gmail.com>",
+    "Jack Grigg <thestr4d@gmail.com>"
+  ],
+  "repository": "https://github.com/zkcrypto/ff",
+  "source": "https://static.crates.io/crates/ff/ff-0.13.0.crate",
+  "sha256": "ded41244b729663b1e574f1b4fb731469f69f79c17667b5d776b16cda0479449",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

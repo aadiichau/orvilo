@@ -1,0 +1,14 @@
+{
+  "name": "sharded-slab",
+  "version": "0.1.7",
+  "license": "MIT",
+  "authors": [
+    "Eliza Weisman <eliza@buoyant.io>"
+  ],
+  "repository": "https://github.com/hawkw/sharded-slab",
+  "source": "https://static.crates.io/crates/sharded-slab/sharded-slab-0.1.7.crate",
+  "sha256": "f40ca3c46823713e0d4209592e8d6e826aa57e928f09752619fc696c499637f6",
+  "files": [
+    "LICENSE"
+  ]
+}

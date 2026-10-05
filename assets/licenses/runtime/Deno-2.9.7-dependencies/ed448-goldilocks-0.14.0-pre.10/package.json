@@ -1,0 +1,15 @@
+{
+  "name": "ed448-goldilocks",
+  "version": "0.14.0-pre.10",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/elliptic-curves/tree/master/ed448-goldilocks",
+  "source": "https://static.crates.io/crates/ed448-goldilocks/ed448-goldilocks-0.14.0-pre.10.crate",
+  "sha256": "7b5c8e6341702ff3b4d27a1a21c4ad3d38f3b18facc3b94e04f9157bae4089c0",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

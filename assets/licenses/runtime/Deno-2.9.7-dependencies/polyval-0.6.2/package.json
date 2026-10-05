@@ -1,0 +1,15 @@
+{
+  "name": "polyval",
+  "version": "0.6.2",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/universal-hashes",
+  "source": "https://static.crates.io/crates/polyval/polyval-0.6.2.crate",
+  "sha256": "9d1fe60d06143b2430aa532c94cfe9e29783047f06c0d7fd359a9a51b729fa25",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

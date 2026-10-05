@@ -1,0 +1,102 @@
+[
+  {
+    "file": "LICENSE",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/LICENSE"
+  },
+  {
+    "file": "LICENSE.fdlibm",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/LICENSE.fdlibm"
+  },
+  {
+    "file": "LICENSE.strongtalk",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/LICENSE.strongtalk"
+  },
+  {
+    "file": "LICENSE.v8",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/LICENSE.v8"
+  },
+  {
+    "file": "src_compiler_turboshaft_copying-phase.cc",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/src/compiler/turboshaft/copying-phase.cc"
+  },
+  {
+    "file": "src_compiler_turboshaft_copying-phase.h",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/src/compiler/turboshaft/copying-phase.h"
+  },
+  {
+    "file": "test_js-perf-test_SixSpeed_LICENSE.sixspeed",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/test/js-perf-test/SixSpeed/LICENSE.sixspeed"
+  },
+  {
+    "file": "test_mjsunit_third_party_object-keys_LICENSE",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/test/mjsunit/third_party/object-keys/LICENSE"
+  },
+  {
+    "file": "test_mjsunit_third_party_regexp-pcre_LICENSE",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/test/mjsunit/third_party/regexp-pcre/LICENSE"
+  },
+  {
+    "file": "test_wasm-js_third_party_LICENSE.testharness",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/test/wasm-js/third_party/LICENSE.testharness"
+  },
+  {
+    "file": "third_party_colorama_LICENSE",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/third_party/colorama/LICENSE"
+  },
+  {
+    "file": "third_party_fp16_LICENSE",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/third_party/fp16/LICENSE"
+  },
+  {
+    "file": "third_party_glibc_LICENSE",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/third_party/glibc/LICENSE"
+  },
+  {
+    "file": "third_party_highway_LICENSE",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/third_party/highway/LICENSE"
+  },
+  {
+    "file": "third_party_inspector_protocol_LICENSE",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/third_party/inspector_protocol/LICENSE"
+  },
+  {
+    "file": "third_party_jsoncpp_LICENSE",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/third_party/jsoncpp/LICENSE"
+  },
+  {
+    "file": "third_party_rapidhash-v8_LICENSE",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/third_party/rapidhash-v8/LICENSE"
+  },
+  {
+    "file": "third_party_re2_LICENSE",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/third_party/re2/LICENSE"
+  },
+  {
+    "file": "third_party_siphash_LICENSE",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/third_party/siphash/LICENSE"
+  },
+  {
+    "file": "third_party_utf8-decoder_LICENSE",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/third_party/utf8-decoder/LICENSE"
+  },
+  {
+    "file": "third_party_v8_builtins_LICENSE",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/third_party/v8/builtins/LICENSE"
+  },
+  {
+    "file": "third_party_v8_codegen_LICENSE",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/third_party/v8/codegen/LICENSE"
+  },
+  {
+    "file": "third_party_valgrind_LICENSE",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/third_party/valgrind/LICENSE"
+  },
+  {
+    "file": "third_party_vtune_LICENSE",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/third_party/vtune/LICENSE"
+  },
+  {
+    "file": "third_party_wasm-api_LICENSE",
+    "source": "https://raw.githubusercontent.com/denoland/v8/ac1e23989121713ca642f6650b34deff7b686896/third_party/wasm-api/LICENSE"
+  }
+]

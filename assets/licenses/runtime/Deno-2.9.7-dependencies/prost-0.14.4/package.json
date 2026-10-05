@@ -1,0 +1,17 @@
+{
+  "name": "prost",
+  "version": "0.14.4",
+  "license": "Apache-2.0",
+  "authors": [
+    "Dan Burkert <dan@danburkert.com>",
+    "Lucio Franco <luciofranco14@gmail.com>",
+    "Casper Meijn <casper@meijn.net>",
+    "Tokio Contributors <team@tokio.rs>"
+  ],
+  "repository": "https://github.com/tokio-rs/prost",
+  "source": "https://static.crates.io/crates/prost/prost-0.14.4.crate",
+  "sha256": "528ac67416ff8646872a3c02cad9cc4ee5dc9f9540c9b10771855c95cb2e5ae1",
+  "files": [
+    "LICENSE"
+  ]
+}

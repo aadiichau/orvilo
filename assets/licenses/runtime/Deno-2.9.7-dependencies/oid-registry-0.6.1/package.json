@@ -1,0 +1,15 @@
+{
+  "name": "oid-registry",
+  "version": "0.6.1",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Pierre Chifflier <chifflier@wzdftpd.net>"
+  ],
+  "repository": "https://github.com/rusticata/oid-registry.git",
+  "source": "https://static.crates.io/crates/oid-registry/oid-registry-0.6.1.crate",
+  "sha256": "9bedf36ffb6ba96c2eb7144ef6270557b52e54b20c0a8e1eb2ff99a6c6959bff",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

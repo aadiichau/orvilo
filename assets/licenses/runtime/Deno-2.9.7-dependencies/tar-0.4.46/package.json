@@ -1,0 +1,15 @@
+{
+  "name": "tar",
+  "version": "0.4.46",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Alex Crichton <alex@alexcrichton.com>"
+  ],
+  "repository": "https://github.com/composefs/tar-rs",
+  "source": "https://static.crates.io/crates/tar/tar-0.4.46.crate",
+  "sha256": "3f6221d9a6003c78398e3b239969f352578258df48c8eb051caadae0015bc840",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

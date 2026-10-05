@@ -1,0 +1,15 @@
+{
+  "name": "futures-timer",
+  "version": "3.0.3",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Alex Crichton <alex@alexcrichton.com>"
+  ],
+  "repository": "https://github.com/async-rs/futures-timer",
+  "source": "https://static.crates.io/crates/futures-timer/futures-timer-3.0.3.crate",
+  "sha256": "f288b0a4f20f9a56b5d1da57e2227c661b7b16168e2f72365f57b63326e29b24",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

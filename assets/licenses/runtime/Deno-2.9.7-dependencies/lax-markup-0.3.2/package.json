@@ -1,0 +1,12 @@
+{
+  "name": "lax-markup",
+  "version": "0.3.2",
+  "license": "MIT",
+  "authors": [],
+  "repository": "https://github.com/bartlomieju/lax",
+  "source": "https://static.crates.io/crates/lax-markup/lax-markup-0.3.2.crate",
+  "sha256": "0b6f67a7a729b68c4b8e6f45315b0777fdf9618cfd569d4551d14d0906b93306",
+  "files": [
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "sdd",
+  "version": "4.8.6",
+  "license": "Apache-2.0",
+  "authors": [
+    "wvwwvwwv <wvwwvwwv@proton.me>"
+  ],
+  "repository": "https://codeberg.org/wvwwvwwv/scalable-delayed-dealloc",
+  "source": "https://static.crates.io/crates/sdd/sdd-4.8.6.crate",
+  "sha256": "e5f0e40a01b94e35d1dacbcfbe5bfd3d31e37d9590b2e6d86a82b0e87bd4f551",
+  "files": [
+    "LICENSE"
+  ]
+}

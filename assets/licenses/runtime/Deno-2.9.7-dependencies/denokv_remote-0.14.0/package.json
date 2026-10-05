@@ -1,0 +1,19 @@
+{
+  "name": "denokv_remote",
+  "version": "0.14.0",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/denokv",
+  "source": "https://static.crates.io/crates/denokv_remote/denokv_remote-0.14.0.crate",
+  "sha256": "8ce7f058cc5e0bcd230b07451bf7ee46b1b30c4d37f895cb736e43ce6a23dbf7",
+  "files": [],
+  "upstream_commit": "9fe65cc138ff56ca5bfe7a1bf8c53e832246f9d5",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/denoland/denokv/9fe65cc138ff56ca5bfe7a1bf8c53e832246f9d5/LICENSE"
+    }
+  ]
+}

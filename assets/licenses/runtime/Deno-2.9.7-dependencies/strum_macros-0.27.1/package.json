@@ -1,0 +1,14 @@
+{
+  "name": "strum_macros",
+  "version": "0.27.1",
+  "license": "MIT",
+  "authors": [
+    "Peter Glotfelty <peter.glotfelty@microsoft.com>"
+  ],
+  "repository": "https://github.com/Peternator7/strum",
+  "source": "https://static.crates.io/crates/strum_macros/strum_macros-0.27.1.crate",
+  "sha256": "c77a8c5abcaf0f9ce05d62342b7d298c346515365c36b673df4ebe3ced01fde8",
+  "files": [
+    "LICENSE"
+  ]
+}

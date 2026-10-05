@@ -1,0 +1,14 @@
+{
+  "name": "sha1_smol",
+  "version": "1.0.1",
+  "license": "BSD-3-Clause",
+  "authors": [
+    "Armin Ronacher <armin.ronacher@active-4.com>"
+  ],
+  "repository": "https://github.com/mitsuhiko/sha1-smol",
+  "source": "https://static.crates.io/crates/sha1_smol/sha1_smol-1.0.1.crate",
+  "sha256": "bbfa15b3dddfee50a0fff136974b3e1bde555604ba463834a7eb7deb6417705d",
+  "files": [
+    "LICENSE"
+  ]
+}

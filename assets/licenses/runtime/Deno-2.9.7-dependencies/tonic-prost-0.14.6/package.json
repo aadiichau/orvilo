@@ -1,0 +1,19 @@
+{
+  "name": "tonic-prost",
+  "version": "0.14.6",
+  "license": "MIT",
+  "authors": [
+    "Lucio Franco <luciofranco14@gmail.com>"
+  ],
+  "repository": "https://github.com/hyperium/tonic",
+  "source": "https://static.crates.io/crates/tonic-prost/tonic-prost-0.14.6.crate",
+  "sha256": "50849f68853be452acf590cde0b146665b8d507b3b8af17261df47e02c209ea0",
+  "files": [],
+  "upstream_commit": "6cb6056b5a748bc5a29bd48f4602dbc4e552bb7d",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/hyperium/tonic/6cb6056b5a748bc5a29bd48f4602dbc4e552bb7d/LICENSE"
+    }
+  ]
+}

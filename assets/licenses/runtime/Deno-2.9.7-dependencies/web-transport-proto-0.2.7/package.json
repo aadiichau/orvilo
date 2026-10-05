@@ -1,0 +1,23 @@
+{
+  "name": "web-transport-proto",
+  "version": "0.2.7",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Luke Curley"
+  ],
+  "repository": "https://github.com/kixelated/web-transport",
+  "source": "https://static.crates.io/crates/web-transport-proto/web-transport-proto-0.2.7.crate",
+  "sha256": "fb650c577c46254d16041c7fe0dc9901d9a42df3f46e77e9d05d1b3c17294b19",
+  "files": [],
+  "upstream_commit": "b5be3f7274ff9885e5361c229d05f515ed09af4e",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE-MIT",
+      "source": "https://raw.githubusercontent.com/kixelated/web-transport/b5be3f7274ff9885e5361c229d05f515ed09af4e/LICENSE-MIT"
+    },
+    {
+      "file": "upstream-LICENSE-APACHE",
+      "source": "https://raw.githubusercontent.com/kixelated/web-transport/b5be3f7274ff9885e5361c229d05f515ed09af4e/LICENSE-APACHE"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "deno_ast",
+  "version": "0.53.3",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/deno_ast",
+  "source": "https://static.crates.io/crates/deno_ast/deno_ast-0.53.3.crate",
+  "sha256": "6f7c1384d87fc0a6439a065312fbef8f6ac6128689dbc2831b28b3a1d4f3a4e6",
+  "files": [
+    "LICENSE"
+  ]
+}

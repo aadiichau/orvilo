@@ -1,0 +1,13 @@
+{
+  "name": "clap",
+  "version": "4.5.56",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/clap-rs/clap",
+  "source": "https://static.crates.io/crates/clap/clap-4.5.56.crate",
+  "sha256": "a75ca66430e33a14957acc24c5077b503e7d374151b2b4b3a10c83b4ceb4be0e",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ripemd",
+  "version": "0.1.3",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/hashes",
+  "source": "https://static.crates.io/crates/ripemd/ripemd-0.1.3.crate",
+  "sha256": "bd124222d17ad93a644ed9d011a40f4fb64aa54275c08cc216524a9ea82fb09f",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "icu_normalizer",
+  "version": "2.2.0",
+  "license": "Unicode-3.0",
+  "authors": [
+    "The ICU4X Project Developers"
+  ],
+  "repository": "https://github.com/unicode-org/icu4x",
+  "source": "https://static.crates.io/crates/icu_normalizer/icu_normalizer-2.2.0.crate",
+  "sha256": "c56e5ee99d6e3d33bd91c5d85458b6005a22140021cc324cea84dd0e72cff3b4",
+  "files": [
+    "LICENSE"
+  ]
+}

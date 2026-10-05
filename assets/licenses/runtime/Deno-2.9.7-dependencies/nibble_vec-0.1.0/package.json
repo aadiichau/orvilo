@@ -1,0 +1,14 @@
+{
+  "name": "nibble_vec",
+  "version": "0.1.0",
+  "license": "MIT",
+  "authors": [
+    "Michael Sproul <micsproul@gmail.com>"
+  ],
+  "repository": "https://github.com/michaelsproul/rust_nibble_vec",
+  "source": "https://static.crates.io/crates/nibble_vec/nibble_vec-0.1.0.crate",
+  "sha256": "77a5d83df9f36fe23f0c3648c6bbb8b0298bb5f1939c8f2704431371f4b84d43",
+  "files": [
+    "LICENSE"
+  ]
+}

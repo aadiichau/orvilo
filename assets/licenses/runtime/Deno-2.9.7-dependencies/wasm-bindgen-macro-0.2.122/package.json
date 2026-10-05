@@ -1,0 +1,15 @@
+{
+  "name": "wasm-bindgen-macro",
+  "version": "0.2.122",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The wasm-bindgen Developers"
+  ],
+  "repository": "https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/macro",
+  "source": "https://static.crates.io/crates/wasm-bindgen-macro/wasm-bindgen-macro-0.2.122.crate",
+  "sha256": "916151b09da36bd82f6615cbf3a419e2f0ba23a03c6160e8e92eb6bd4aa1dec6",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

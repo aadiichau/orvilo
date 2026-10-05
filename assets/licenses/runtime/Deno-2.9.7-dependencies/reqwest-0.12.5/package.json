@@ -1,0 +1,15 @@
+{
+  "name": "reqwest",
+  "version": "0.12.5",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Sean McArthur <sean@seanmonstar.com>"
+  ],
+  "repository": "https://github.com/seanmonstar/reqwest",
+  "source": "https://static.crates.io/crates/reqwest/reqwest-0.12.5.crate",
+  "sha256": "c7d6d2a27d57148378eb5e111173f4276ad26340ecc5c49a4a2152167a2d6a37",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

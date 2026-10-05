@@ -1,0 +1,16 @@
+{
+  "name": "criterion-plot",
+  "version": "0.5.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Jorge Aparicio <japaricious@gmail.com>",
+    "Brook Heisler <brookheisler@gmail.com>"
+  ],
+  "repository": "https://github.com/bheisler/criterion.rs",
+  "source": "https://static.crates.io/crates/criterion-plot/criterion-plot-0.5.0.crate",
+  "sha256": "6b50826342786a51a89e2da3a28f1c32b06e387201bc2d19791f622c673706b1",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "miniz_oxide",
+  "version": "0.8.8",
+  "license": "MIT OR Zlib OR Apache-2.0",
+  "authors": [
+    "Frommi <daniil.liferenko@gmail.com>",
+    "oyvindln <oyvindln@users.noreply.github.com>",
+    "Rich Geldreich richgel99@gmail.com"
+  ],
+  "repository": "https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide",
+  "source": "https://static.crates.io/crates/miniz_oxide/miniz_oxide-0.8.8.crate",
+  "sha256": "3be647b768db090acb35d5ec5db2b0e1f1de11133ca123b9eacf5137868f892a",
+  "files": [
+    "LICENSE",
+    "LICENSE-APACHE.md",
+    "LICENSE-MIT.md",
+    "LICENSE-ZLIB.md"
+  ]
+}

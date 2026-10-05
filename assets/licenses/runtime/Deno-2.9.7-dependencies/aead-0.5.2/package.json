@@ -1,0 +1,15 @@
+{
+  "name": "aead",
+  "version": "0.5.2",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/traits",
+  "source": "https://static.crates.io/crates/aead/aead-0.5.2.crate",
+  "sha256": "d122413f284cf2d62fb1b7db97e02edb8cda96d769b16e443a4f6195e35662b0",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "junction",
+  "version": "1.2.0",
+  "license": "MIT",
+  "authors": [
+    "Lzu Tao <taolzu@gmail.com>"
+  ],
+  "repository": "https://github.com/tesuji/junction",
+  "source": "https://static.crates.io/crates/junction/junction-1.2.0.crate",
+  "sha256": "72bbdfd737a243da3dfc1f99ee8d6e166480f17ab4ac84d7c34aacd73fc7bd16",
+  "files": [
+    "COPYRIGHT"
+  ]
+}

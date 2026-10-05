@@ -1,0 +1,14 @@
+{
+  "name": "loom",
+  "version": "0.7.2",
+  "license": "MIT",
+  "authors": [
+    "Carl Lerche <me@carllerche.com>"
+  ],
+  "repository": "https://github.com/tokio-rs/loom",
+  "source": "https://static.crates.io/crates/loom/loom-0.7.2.crate",
+  "sha256": "419e0dc8046cb947daa77eb95ae174acfbddb7673b4151f56d1eed8e93fbfaca",
+  "files": [
+    "LICENSE"
+  ]
+}

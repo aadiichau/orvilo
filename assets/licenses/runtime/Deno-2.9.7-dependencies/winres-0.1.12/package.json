@@ -1,0 +1,14 @@
+{
+  "name": "winres",
+  "version": "0.1.12",
+  "license": "MIT",
+  "authors": [
+    "Max Resch <resch.max@gmail.com>"
+  ],
+  "repository": "https://github.com/mxre/winres",
+  "source": "https://static.crates.io/crates/winres/winres-0.1.12.crate",
+  "sha256": "b68db261ef59e9e52806f688020631e987592bd83619edccda9c47d42cde4f6c",
+  "files": [
+    "LICENSE"
+  ]
+}

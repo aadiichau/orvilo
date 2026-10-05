@@ -1,0 +1,14 @@
+{
+  "name": "utf8-width",
+  "version": "0.1.7",
+  "license": "MIT",
+  "authors": [
+    "Magic Len <len@magiclen.org>"
+  ],
+  "repository": "https://github.com/magiclen/utf8-width",
+  "source": "https://static.crates.io/crates/utf8-width/utf8-width-0.1.7.crate",
+  "sha256": "86bd8d4e895da8537e5315b8254664e6b769c4ff3db18321b297a1e7004392e3",
+  "files": [
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "p521",
+  "version": "0.13.3",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/elliptic-curves/tree/master/p521",
+  "source": "https://static.crates.io/crates/p521/p521-0.13.3.crate",
+  "sha256": "0fc9e2161f1f215afdfce23677034ae137bbd45016a880c2eb3ba8eb95f085b2",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

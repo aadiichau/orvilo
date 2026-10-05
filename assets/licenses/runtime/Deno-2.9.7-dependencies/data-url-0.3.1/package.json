@@ -1,0 +1,15 @@
+{
+  "name": "data-url",
+  "version": "0.3.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Simon Sapin <simon.sapin@exyr.org>"
+  ],
+  "repository": "https://github.com/servo/rust-url",
+  "source": "https://static.crates.io/crates/data-url/data-url-0.3.1.crate",
+  "sha256": "5c297a1c74b71ae29df00c3e22dd9534821d60eb9af5a0192823fa2acea70c2a",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

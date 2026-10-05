@@ -1,0 +1,15 @@
+{
+  "name": "urlpattern",
+  "version": "0.4.2",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors",
+    "crowlKats <crowlkats@toaxl.com>"
+  ],
+  "repository": "https://github.com/denoland/rust-urlpattern",
+  "source": "https://static.crates.io/crates/urlpattern/urlpattern-0.4.2.crate",
+  "sha256": "0f805818f843b548bacc19609eb3619dd2850e54746f5cada37927393c2ef4ec",
+  "files": [
+    "LICENSE"
+  ]
+}

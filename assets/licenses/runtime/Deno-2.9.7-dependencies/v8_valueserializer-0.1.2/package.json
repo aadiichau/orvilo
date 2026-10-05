@@ -1,0 +1,14 @@
+{
+  "name": "v8_valueserializer",
+  "version": "0.1.2",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/v8_valueserializer",
+  "source": "https://static.crates.io/crates/v8_valueserializer/v8_valueserializer-0.1.2.crate",
+  "sha256": "9e05741b8524f73cbf239bea12239458d3a835246c5c637cc9e7e601eac60770",
+  "files": [
+    "LICENSE"
+  ]
+}

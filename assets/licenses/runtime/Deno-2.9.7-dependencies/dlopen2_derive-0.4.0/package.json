@@ -1,0 +1,13 @@
+{
+  "name": "dlopen2_derive",
+  "version": "0.4.0",
+  "license": "MIT",
+  "authors": [
+    "Szymon Wieloch <szymon.wieloch@gmail.com>",
+    "OpenByte <development.openbyte@gmail.com>"
+  ],
+  "repository": null,
+  "source": "https://static.crates.io/crates/dlopen2_derive/dlopen2_derive-0.4.0.crate",
+  "sha256": "f2b99bf03862d7f545ebc28ddd33a665b50865f4dfd84031a393823879bd4c54",
+  "files": []
+}

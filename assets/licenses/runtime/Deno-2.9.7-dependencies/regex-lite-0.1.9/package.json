@@ -1,0 +1,16 @@
+{
+  "name": "regex-lite",
+  "version": "0.1.9",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The Rust Project Developers",
+    "Andrew Gallant <jamslam@gmail.com>"
+  ],
+  "repository": "https://github.com/rust-lang/regex",
+  "source": "https://static.crates.io/crates/regex-lite/regex-lite-0.1.9.crate",
+  "sha256": "cab834c73d247e67f4fae452806d17d3c7501756d98c8808d7c9c7aa7d18f973",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

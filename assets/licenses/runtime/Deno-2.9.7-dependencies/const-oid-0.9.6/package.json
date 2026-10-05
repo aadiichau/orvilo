@@ -1,0 +1,15 @@
+{
+  "name": "const-oid",
+  "version": "0.9.6",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/formats/tree/master/const-oid",
+  "source": "https://static.crates.io/crates/const-oid/const-oid-0.9.6.crate",
+  "sha256": "c2459377285ad874054d797f3ccebf984978aa39129f6eafde5cdc8315b612f8",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

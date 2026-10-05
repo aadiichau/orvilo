@@ -1,0 +1,15 @@
+{
+  "name": "hash2curve",
+  "version": "0.14.0-rc.10",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/elliptic-curves",
+  "source": "https://static.crates.io/crates/hash2curve/hash2curve-0.14.0-rc.10.crate",
+  "sha256": "3448b4c05089875da77b94b1177c36f79a5dcf4b316bc999f8dd3d7f3da42eda",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

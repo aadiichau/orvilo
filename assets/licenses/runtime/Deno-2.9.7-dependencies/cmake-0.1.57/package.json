@@ -1,0 +1,15 @@
+{
+  "name": "cmake",
+  "version": "0.1.57",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Alex Crichton <alex@alexcrichton.com>"
+  ],
+  "repository": "https://github.com/rust-lang/cmake-rs",
+  "source": "https://static.crates.io/crates/cmake/cmake-0.1.57.crate",
+  "sha256": "75443c44cd6b379beb8c5b45d85d0773baf31cce901fe7bb252f4eff3008ef7d",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

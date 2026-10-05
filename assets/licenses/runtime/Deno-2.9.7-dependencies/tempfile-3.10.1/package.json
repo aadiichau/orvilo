@@ -1,0 +1,18 @@
+{
+  "name": "tempfile",
+  "version": "3.10.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Steven Allen <steven@stebalien.com>",
+    "The Rust Project Developers",
+    "Ashley Mannix <ashleymannix@live.com.au>",
+    "Jason White <me@jasonwhite.io>"
+  ],
+  "repository": "https://github.com/Stebalien/tempfile",
+  "source": "https://static.crates.io/crates/tempfile/tempfile-3.10.1.crate",
+  "sha256": "85b77fafb263dd9d05cbeac119526425676db3784113aa9295c88498cbf8bff1",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

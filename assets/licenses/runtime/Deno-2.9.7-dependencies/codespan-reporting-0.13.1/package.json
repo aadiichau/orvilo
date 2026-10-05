@@ -1,0 +1,14 @@
+{
+  "name": "codespan-reporting",
+  "version": "0.13.1",
+  "license": "Apache-2.0",
+  "authors": [
+    "Brendan Zabarauskas <bjzaba@yahoo.com.au>"
+  ],
+  "repository": "https://github.com/brendanzab/codespan",
+  "source": "https://static.crates.io/crates/codespan-reporting/codespan-reporting-0.13.1.crate",
+  "sha256": "af491d569909a7e4dee0ad7db7f5341fef5c614d5b8ec8cf765732aba3cff681",
+  "files": [
+    "LICENSE"
+  ]
+}

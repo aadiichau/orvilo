@@ -1,0 +1,15 @@
+{
+  "name": "bit-vec",
+  "version": "0.8.0",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "Alexis Beingessner <a.beingessner@gmail.com>"
+  ],
+  "repository": "https://github.com/contain-rs/bit-vec",
+  "source": "https://static.crates.io/crates/bit-vec/bit-vec-0.8.0.crate",
+  "sha256": "5e764a1d40d510daf35e07be9eb06e75770908c27d411ee6c92109c9840eaaf7",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

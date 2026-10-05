@@ -1,0 +1,15 @@
+{
+  "name": "fastbloom",
+  "version": "0.17.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "tomtomwombat"
+  ],
+  "repository": "https://github.com/tomtomwombat/fastbloom/",
+  "source": "https://static.crates.io/crates/fastbloom/fastbloom-0.17.0.crate",
+  "sha256": "ef975e30683b2d965054bb0a836f8973857c4ebf6acf274fe46617cd285060d8",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

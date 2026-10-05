@@ -1,0 +1,16 @@
+{
+  "name": "minimal-lexical",
+  "version": "0.2.1",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Alex Huszagh <ahuszagh@gmail.com>"
+  ],
+  "repository": "https://github.com/Alexhuszagh/minimal-lexical",
+  "source": "https://static.crates.io/crates/minimal-lexical/minimal-lexical-0.2.1.crate",
+  "sha256": "68354c5c6bd36d73ff3feceb05efa59b6acb7626617f4962be322a825e61f79a",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT",
+    "LICENSE.md"
+  ]
+}

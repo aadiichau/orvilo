@@ -1,0 +1,14 @@
+{
+  "name": "hstr",
+  "version": "3.0.3",
+  "license": "Apache-2.0",
+  "authors": [
+    "\uac15\ub3d9\uc724 <kdy1997.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/swc-project/swc.git",
+  "source": "https://static.crates.io/crates/hstr/hstr-3.0.3.crate",
+  "sha256": "0c43c0a9e8fbdb3bb9dc8eee85e1e2ac81605418b4c83b6b7413cbf14d56ca5c",
+  "files": [
+    "LICENSE"
+  ]
+}

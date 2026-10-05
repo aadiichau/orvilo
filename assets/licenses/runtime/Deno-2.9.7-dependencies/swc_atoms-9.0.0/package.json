@@ -1,0 +1,14 @@
+{
+  "name": "swc_atoms",
+  "version": "9.0.0",
+  "license": "Apache-2.0",
+  "authors": [
+    "\uac15\ub3d9\uc724 <kdy1997.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/swc-project/swc.git",
+  "source": "https://static.crates.io/crates/swc_atoms/swc_atoms-9.0.0.crate",
+  "sha256": "d4ccbe2ecad10ad7432100f878a107b1d972a8aee83ca53184d00c23a078bb8a",
+  "files": [],
+  "upstream_commit": "00ec64fe9a4da0973f14721d7b6dc1f13cd75413",
+  "supplemental_notices": []
+}

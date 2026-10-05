@@ -1,0 +1,13 @@
+{
+  "name": "futures-sink",
+  "version": "0.3.31",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/rust-lang/futures-rs",
+  "source": "https://static.crates.io/crates/futures-sink/futures-sink-0.3.31.crate",
+  "sha256": "e575fab7d1e0dcb8d0c7bcf9a63ee213816ab51902e6d244a95819acacf1d4f7",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

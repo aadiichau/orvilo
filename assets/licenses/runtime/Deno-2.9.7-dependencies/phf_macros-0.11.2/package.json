@@ -1,0 +1,19 @@
+{
+  "name": "phf_macros",
+  "version": "0.11.2",
+  "license": "MIT",
+  "authors": [
+    "Steven Fackler <sfackler@gmail.com>"
+  ],
+  "repository": "https://github.com/rust-phf/rust-phf",
+  "source": "https://static.crates.io/crates/phf_macros/phf_macros-0.11.2.crate",
+  "sha256": "3444646e286606587e49f3bcf1679b8cef1dc2c5ecc29ddacaffc305180d464b",
+  "files": [],
+  "upstream_commit": "c9c35fd8ba3f1bc228388b0cef6e3814a02a72c0",
+  "supplemental_notices": [
+    {
+      "file": "upstream-phf_macros_LICENSE",
+      "source": "https://raw.githubusercontent.com/rust-phf/rust-phf/c9c35fd8ba3f1bc228388b0cef6e3814a02a72c0/phf_macros/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "unicode-normalization",
+  "version": "0.1.23",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "kwantam <kwantam@gmail.com>",
+    "Manish Goregaokar <manishsmail@gmail.com>"
+  ],
+  "repository": "https://github.com/unicode-rs/unicode-normalization",
+  "source": "https://static.crates.io/crates/unicode-normalization/unicode-normalization-0.1.23.crate",
+  "sha256": "a56d1686db2308d901306f92a263857ef59ea39678a5458e7cb17f01415101f5",
+  "files": [
+    "COPYRIGHT",
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

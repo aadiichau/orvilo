@@ -1,0 +1,23 @@
+{
+  "name": "wit-parser",
+  "version": "0.244.0",
+  "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+  "authors": [
+    "Alex Crichton <alex@alexcrichton.com>"
+  ],
+  "repository": "https://github.com/bytecodealliance/wasm-tools/tree/main/crates/wit-parser",
+  "source": "https://static.crates.io/crates/wit-parser/wit-parser-0.244.0.crate",
+  "sha256": "ecc8ac4bc1dc3381b7f59c34f00b67e18f910c2c0f50015669dde7def656a736",
+  "files": [],
+  "upstream_commit": "d4e317f22c3bace76cb3205003bcc34b4929037d",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE-MIT",
+      "source": "https://raw.githubusercontent.com/bytecodealliance/wasm-tools/d4e317f22c3bace76cb3205003bcc34b4929037d/LICENSE-MIT"
+    },
+    {
+      "file": "upstream-LICENSE-APACHE",
+      "source": "https://raw.githubusercontent.com/bytecodealliance/wasm-tools/d4e317f22c3bace76cb3205003bcc34b4929037d/LICENSE-APACHE"
+    }
+  ]
+}

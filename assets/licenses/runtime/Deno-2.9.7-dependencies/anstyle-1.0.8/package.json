@@ -1,0 +1,13 @@
+{
+  "name": "anstyle",
+  "version": "1.0.8",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/rust-cli/anstyle.git",
+  "source": "https://static.crates.io/crates/anstyle/anstyle-1.0.8.crate",
+  "sha256": "1bec1de6f59aedf83baf9ff929c98f2ad654b97c9510f4e70cf6f661d49fd5b1",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

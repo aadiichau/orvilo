@@ -1,0 +1,14 @@
+{
+  "name": "sourcemap",
+  "version": "9.2.0",
+  "license": "BSD-3-Clause",
+  "authors": [
+    "Sentry <hello@sentry.io>"
+  ],
+  "repository": "https://github.com/getsentry/rust-sourcemap",
+  "source": "https://static.crates.io/crates/sourcemap/sourcemap-9.2.0.crate",
+  "sha256": "dd430118acc9fdd838557649b9b43fd0a78e3834d84a283b466f8e84720d6101",
+  "files": [
+    "LICENSE"
+  ]
+}

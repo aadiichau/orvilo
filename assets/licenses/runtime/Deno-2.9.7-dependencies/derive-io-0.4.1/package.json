@@ -1,0 +1,14 @@
+{
+  "name": "derive-io",
+  "version": "0.4.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Matt Mastracci <matthew@mastracci.com>"
+  ],
+  "repository": "https://github.com/mmastrac/derive-io",
+  "source": "https://static.crates.io/crates/derive-io/derive-io-0.4.1.crate",
+  "sha256": "58cc7f4740088458993d183a200fe56e62378736f94bf0e2dd45807407e7bb94",
+  "files": [],
+  "upstream_commit": "69a023098378b66e8f8852173b65ca5762b201e2",
+  "supplemental_notices": []
+}

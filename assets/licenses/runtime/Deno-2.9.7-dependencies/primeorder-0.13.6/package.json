@@ -1,0 +1,15 @@
+{
+  "name": "primeorder",
+  "version": "0.13.6",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/elliptic-curves/tree/master/primeorder",
+  "source": "https://static.crates.io/crates/primeorder/primeorder-0.13.6.crate",
+  "sha256": "353e1ca18966c16d9deb1c69278edbc5f194139612772bd9537af60ac231e1e6",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

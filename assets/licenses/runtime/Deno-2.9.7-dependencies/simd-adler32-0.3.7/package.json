@@ -1,0 +1,14 @@
+{
+  "name": "simd-adler32",
+  "version": "0.3.7",
+  "license": "MIT",
+  "authors": [
+    "Marvin Countryman <me@maar.vin>"
+  ],
+  "repository": "https://github.com/mcountryman/simd-adler32",
+  "source": "https://static.crates.io/crates/simd-adler32/simd-adler32-0.3.7.crate",
+  "sha256": "d66dc143e6b11c1eddc06d5c423cfc97062865baf299914ab64caa38182078fe",
+  "files": [
+    "LICENSE.md"
+  ]
+}

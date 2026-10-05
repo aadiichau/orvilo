@@ -1,0 +1,15 @@
+{
+  "name": "utf-8",
+  "version": "0.7.6",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Simon Sapin <simon.sapin@exyr.org>"
+  ],
+  "repository": "https://github.com/SimonSapin/rust-utf8",
+  "source": "https://static.crates.io/crates/utf-8/utf-8-0.7.6.crate",
+  "sha256": "09cc8ee72d2a9becf2f2febe0205bbed8fc6615b7cb429ad062dc7b7ddd036a9",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

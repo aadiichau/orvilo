@@ -1,0 +1,13 @@
+{
+  "name": "critical-section",
+  "version": "1.2.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/rust-embedded/critical-section",
+  "source": "https://static.crates.io/crates/critical-section/critical-section-1.2.0.crate",
+  "sha256": "790eea4361631c5e7d22598ecd5723ff611904e3344ce8720784c93e3d83d40b",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

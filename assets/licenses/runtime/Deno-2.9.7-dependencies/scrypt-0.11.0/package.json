@@ -1,0 +1,15 @@
+{
+  "name": "scrypt",
+  "version": "0.11.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/password-hashes/tree/master/scrypt",
+  "source": "https://static.crates.io/crates/scrypt/scrypt-0.11.0.crate",
+  "sha256": "0516a385866c09368f0b5bcd1caff3366aace790fcd46e2bb032697bb172fd1f",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

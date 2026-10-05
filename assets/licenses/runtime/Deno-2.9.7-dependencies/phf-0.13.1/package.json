@@ -1,0 +1,14 @@
+{
+  "name": "phf",
+  "version": "0.13.1",
+  "license": "MIT",
+  "authors": [
+    "Steven Fackler <sfackler@gmail.com>"
+  ],
+  "repository": "https://github.com/rust-phf/rust-phf",
+  "source": "https://static.crates.io/crates/phf/phf-0.13.1.crate",
+  "sha256": "c1562dc717473dbaa4c1f85a36410e03c047b2e7df7f45ee938fbef64ae7fadf",
+  "files": [
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "dlopen2",
+  "version": "0.6.1",
+  "license": "MIT",
+  "authors": [
+    "Szymon Wieloch <szymon.wieloch@gmail.com>",
+    "Ahmed Masud <ahmed.masud@saf.ai>",
+    "OpenByte <development.openbyte@gmail.com>"
+  ],
+  "repository": "https://github.com/OpenByteDev/dlopen2",
+  "source": "https://static.crates.io/crates/dlopen2/dlopen2-0.6.1.crate",
+  "sha256": "6bc2c7ed06fd72a8513ded8d0d2f6fd2655a85d6885c48cae8625d80faf28c03",
+  "files": []
+}

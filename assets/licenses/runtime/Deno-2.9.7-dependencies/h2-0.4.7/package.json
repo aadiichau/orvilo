@@ -1,0 +1,15 @@
+{
+  "name": "h2",
+  "version": "0.4.7",
+  "license": "MIT",
+  "authors": [
+    "Carl Lerche <me@carllerche.com>",
+    "Sean McArthur <sean@seanmonstar.com>"
+  ],
+  "repository": "https://github.com/hyperium/h2",
+  "source": "https://static.crates.io/crates/h2/h2-0.4.7.crate",
+  "sha256": "ccae279728d634d083c00f6099cb58f01cc99c145b84b8be2f6c74618d79922e",
+  "files": [
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "scopeguard",
+  "version": "1.2.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "bluss"
+  ],
+  "repository": "https://github.com/bluss/scopeguard",
+  "source": "https://static.crates.io/crates/scopeguard/scopeguard-1.2.0.crate",
+  "sha256": "94143f37725109f92c262ed2cf5e59bce7498c01bcc1502d7b9afe439a4e9f49",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

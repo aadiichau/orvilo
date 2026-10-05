@@ -1,0 +1,17 @@
+{
+  "name": "ash",
+  "version": "0.38.0+1.3.281",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Maik Klein <maikklein@googlemail.com>",
+    "Benjamin Saunders <ben.e.saunders@gmail.com>",
+    "Marijn Suijten <marijn@traverseresearch.nl>"
+  ],
+  "repository": "https://github.com/ash-rs/ash",
+  "source": "https://static.crates.io/crates/ash/ash-0.38.0+1.3.281.crate",
+  "sha256": "0bb44936d800fea8f016d7f2311c6a4f97aebd5dc86f09906139ec848cf3a46f",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

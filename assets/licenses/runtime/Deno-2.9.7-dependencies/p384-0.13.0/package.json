@@ -1,0 +1,16 @@
+{
+  "name": "p384",
+  "version": "0.13.0",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers",
+    "Frank Denis <github@pureftpd.org>"
+  ],
+  "repository": "https://github.com/RustCrypto/elliptic-curves/tree/master/p384",
+  "source": "https://static.crates.io/crates/p384/p384-0.13.0.crate",
+  "sha256": "70786f51bcc69f6a4c0360e063a4cac5419ef7c5cd5b3c99ad70f3be5ba79209",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

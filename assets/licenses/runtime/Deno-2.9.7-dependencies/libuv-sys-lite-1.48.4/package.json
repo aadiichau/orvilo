@@ -1,0 +1,12 @@
+{
+  "name": "libuv-sys-lite",
+  "version": "1.48.4",
+  "license": null,
+  "authors": [],
+  "repository": "https://github.com/nathanwhit/libuv-sys-lite",
+  "source": "https://static.crates.io/crates/libuv-sys-lite/libuv-sys-lite-1.48.4.crate",
+  "sha256": "ef43df715b26b66832106cde0adc4c156bc91f46fc35164ab257281f62657956",
+  "files": [
+    "LICENSE"
+  ]
+}

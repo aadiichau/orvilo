@@ -1,0 +1,17 @@
+{
+  "name": "unicode-segmentation",
+  "version": "1.11.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "kwantam <kwantam@gmail.com>",
+    "Manish Goregaokar <manishsmail@gmail.com>"
+  ],
+  "repository": "https://github.com/unicode-rs/unicode-segmentation",
+  "source": "https://static.crates.io/crates/unicode-segmentation/unicode-segmentation-1.11.0.crate",
+  "sha256": "d4c87d22b6e3f4a18d4d40ef354e97c90fcb14dd91d7dc0aa9d8a1172ebf7202",
+  "files": [
+    "COPYRIGHT",
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

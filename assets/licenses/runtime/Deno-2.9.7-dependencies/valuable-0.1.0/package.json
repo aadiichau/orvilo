@@ -1,0 +1,10 @@
+{
+  "name": "valuable",
+  "version": "0.1.0",
+  "license": "MIT",
+  "authors": [],
+  "repository": "https://github.com/tokio-rs/valuable",
+  "source": "https://static.crates.io/crates/valuable/valuable-0.1.0.crate",
+  "sha256": "830b7e5d4d90034032940e4ace0d9a9a057e7a45cd94e6c007832e39edb82f6d",
+  "files": []
+}

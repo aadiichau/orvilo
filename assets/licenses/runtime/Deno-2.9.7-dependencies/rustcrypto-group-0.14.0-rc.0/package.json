@@ -1,0 +1,17 @@
+{
+  "name": "rustcrypto-group",
+  "version": "0.14.0-rc.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Sean Bowe <ewillbefull@gmail.com>",
+    "Jack Grigg <jack@z.cash>"
+  ],
+  "repository": "https://github.com/RustCrypto/group",
+  "source": "https://static.crates.io/crates/rustcrypto-group/rustcrypto-group-0.14.0-rc.0.crate",
+  "sha256": "57c4b1463f274a3ff6fb2f44da43e576cb9424367bd96f185ead87b52fe00523",
+  "files": [
+    "COPYRIGHT",
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

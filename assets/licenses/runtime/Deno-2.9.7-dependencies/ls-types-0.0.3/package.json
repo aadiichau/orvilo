@@ -1,0 +1,16 @@
+{
+  "name": "ls-types",
+  "version": "0.0.3",
+  "license": "MIT",
+  "authors": [
+    "Markus Westerlind <marwes91@gmail.com>",
+    "Bruno Medeiros <bruno.do.medeiros@gmail.com>",
+    "Milo Moisson <milo@wiro.world>"
+  ],
+  "repository": "https://github.com/tower-lsp-community/ls-types",
+  "source": "https://static.crates.io/crates/ls-types/ls-types-0.0.3.crate",
+  "sha256": "c029d4b509074b7d59dac432d87d4c24badaaf6c6c9c8b7ac030ae8022dc118d",
+  "files": [
+    "LICENSE"
+  ]
+}

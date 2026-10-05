@@ -1,0 +1,15 @@
+{
+  "name": "android_system_properties",
+  "version": "0.1.5",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Nicolas Silva <nical@fastmail.com>"
+  ],
+  "repository": "https://github.com/nical/android_system_properties",
+  "source": "https://static.crates.io/crates/android_system_properties/android_system_properties-0.1.5.crate",
+  "sha256": "819e7219dbd41043ac279b19830f2efc897156490d7fd6ea916720117ee66311",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "quick-xml",
+  "version": "0.39.4",
+  "license": "MIT",
+  "authors": [],
+  "repository": "https://github.com/tafia/quick-xml",
+  "source": "https://static.crates.io/crates/quick-xml/quick-xml-0.39.4.crate",
+  "sha256": "cdcc8dd4e2f670d309a5f0e83fe36dfdc05af317008fea29144da1a2ac858e5e",
+  "files": [
+    "LICENSE-MIT.md"
+  ]
+}

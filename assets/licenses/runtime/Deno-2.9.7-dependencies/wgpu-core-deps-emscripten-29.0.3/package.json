@@ -1,0 +1,15 @@
+{
+  "name": "wgpu-core-deps-emscripten",
+  "version": "29.0.3",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "gfx-rs developers"
+  ],
+  "repository": "https://github.com/gfx-rs/wgpu",
+  "source": "https://static.crates.io/crates/wgpu-core-deps-emscripten/wgpu-core-deps-emscripten-29.0.3.crate",
+  "sha256": "3487cd6293a963bc5c0c0396f6a2192043c50003c07f4efdccbad3d90ec9d819",
+  "files": [
+    "LICENSE.APACHE",
+    "LICENSE.MIT"
+  ]
+}

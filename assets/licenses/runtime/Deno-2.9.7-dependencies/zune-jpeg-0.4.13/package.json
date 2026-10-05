@@ -1,0 +1,19 @@
+{
+  "name": "zune-jpeg",
+  "version": "0.4.13",
+  "license": "MIT OR Apache-2.0 OR Zlib",
+  "authors": [
+    "caleb <etemesicaleb@gmail.com>"
+  ],
+  "repository": "https://github.com/etemesi254/zune-image/tree/dev/crates/zune-jpeg",
+  "source": "https://static.crates.io/crates/zune-jpeg/zune-jpeg-0.4.13.crate",
+  "sha256": "16099418600b4d8f028622f73ff6e3deaabdff330fb9a2a131dea781ee8b0768",
+  "files": [],
+  "upstream_commit": "d45a0a0380530e164ac9a58d62ea330c95d74daf",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE.md",
+      "source": "https://raw.githubusercontent.com/etemesi254/zune-image/d45a0a0380530e164ac9a58d62ea330c95d74daf/LICENSE.md"
+    }
+  ]
+}

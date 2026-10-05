@@ -1,0 +1,15 @@
+{
+  "name": "trybuild",
+  "version": "1.0.115",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>"
+  ],
+  "repository": "https://github.com/dtolnay/trybuild",
+  "source": "https://static.crates.io/crates/trybuild/trybuild-1.0.115.crate",
+  "sha256": "5f614c21bd3a61bad9501d75cbb7686f00386c806d7f456778432c25cf86948a",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

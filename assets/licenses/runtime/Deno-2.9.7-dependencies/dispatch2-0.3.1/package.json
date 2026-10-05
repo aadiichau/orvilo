@@ -1,0 +1,20 @@
+{
+  "name": "dispatch2",
+  "version": "0.3.1",
+  "license": "Zlib OR Apache-2.0 OR MIT",
+  "authors": [
+    "Mads Marquart <mads@marquart.dk>",
+    "Mary <mary@mary.zone>"
+  ],
+  "repository": "https://github.com/madsmtm/objc2",
+  "source": "https://static.crates.io/crates/dispatch2/dispatch2-0.3.1.crate",
+  "sha256": "1e0e367e4e7da84520dedcac1901e4da967309406d1e51017ae1abfb97adbd38",
+  "files": [],
+  "upstream_commit": "8852b424193ca41602281b3d7540d7c8ed51e49a",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE.md",
+      "source": "https://raw.githubusercontent.com/madsmtm/objc2/8852b424193ca41602281b3d7540d7c8ed51e49a/LICENSE.md"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "zstd-safe",
+  "version": "7.2.4",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Alexandre Bury <alexandre.bury@gmail.com>"
+  ],
+  "repository": "https://github.com/gyscos/zstd-rs",
+  "source": "https://static.crates.io/crates/zstd-safe/zstd-safe-7.2.4.crate",
+  "sha256": "8f49c4d5f0abb602a93fb8736af2a4f4dd9512e36f7f570d66e65ff867ed3b9d",
+  "files": [
+    "LICENSE",
+    "LICENSE.Apache-2.0",
+    "LICENSE.Mit"
+  ]
+}

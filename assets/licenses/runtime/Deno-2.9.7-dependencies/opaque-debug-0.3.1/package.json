@@ -1,0 +1,15 @@
+{
+  "name": "opaque-debug",
+  "version": "0.3.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/utils",
+  "source": "https://static.crates.io/crates/opaque-debug/opaque-debug-0.3.1.crate",
+  "sha256": "c08d65885ee38876c4f86fa503fb49d7b507c2b62552df7c70b2fce627e06381",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

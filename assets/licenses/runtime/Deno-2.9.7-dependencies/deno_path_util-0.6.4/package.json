@@ -1,0 +1,14 @@
+{
+  "name": "deno_path_util",
+  "version": "0.6.4",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/deno_path_util",
+  "source": "https://static.crates.io/crates/deno_path_util/deno_path_util-0.6.4.crate",
+  "sha256": "78c7e98943f0d068928906db0c7bde89de684fa32c6a8018caacc4cee2cdd72b",
+  "files": [
+    "LICENSE"
+  ]
+}

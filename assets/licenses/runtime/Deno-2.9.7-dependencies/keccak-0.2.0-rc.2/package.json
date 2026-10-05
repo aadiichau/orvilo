@@ -1,0 +1,15 @@
+{
+  "name": "keccak",
+  "version": "0.2.0-rc.2",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/sponges",
+  "source": "https://static.crates.io/crates/keccak/keccak-0.2.0-rc.2.crate",
+  "sha256": "882b69cb15b1f78b51342322a97ccd16f5123d1dc8a3da981a95244f488e8692",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

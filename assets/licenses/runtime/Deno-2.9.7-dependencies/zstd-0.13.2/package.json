@@ -1,0 +1,14 @@
+{
+  "name": "zstd",
+  "version": "0.13.2",
+  "license": "MIT",
+  "authors": [
+    "Alexandre Bury <alexandre.bury@gmail.com>"
+  ],
+  "repository": "https://github.com/gyscos/zstd-rs",
+  "source": "https://static.crates.io/crates/zstd/zstd-0.13.2.crate",
+  "sha256": "fcf2b778a664581e31e389454a7072dab1647606d44f7feea22cd5abb9c9f3f9",
+  "files": [
+    "LICENSE"
+  ]
+}

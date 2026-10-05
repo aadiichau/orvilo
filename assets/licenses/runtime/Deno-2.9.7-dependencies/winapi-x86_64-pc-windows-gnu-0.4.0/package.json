@@ -1,0 +1,12 @@
+{
+  "name": "winapi-x86_64-pc-windows-gnu",
+  "version": "0.4.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Peter Atashian <retep998@gmail.com>"
+  ],
+  "repository": "https://github.com/retep998/winapi-rs",
+  "source": "https://static.crates.io/crates/winapi-x86_64-pc-windows-gnu/winapi-x86_64-pc-windows-gnu-0.4.0.crate",
+  "sha256": "712e227841d057c1ee1cd2fb22fa7e5a5461ae8e48fa2ca79ec42cfc1931183f",
+  "files": []
+}

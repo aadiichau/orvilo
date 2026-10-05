@@ -1,0 +1,15 @@
+{
+  "name": "pkcs8",
+  "version": "0.11.0-rc.11",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/formats",
+  "source": "https://static.crates.io/crates/pkcs8/pkcs8-0.11.0-rc.11.crate",
+  "sha256": "12922b6296c06eb741b02d7b5161e3aaa22864af38dfa025a1a3ba3f68c84577",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

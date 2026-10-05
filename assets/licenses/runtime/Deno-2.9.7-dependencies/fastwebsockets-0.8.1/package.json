@@ -1,0 +1,14 @@
+{
+  "name": "fastwebsockets",
+  "version": "0.8.1",
+  "license": "Apache-2.0",
+  "authors": [
+    "Divy Srivastava <dj.srivastava23@gmail.com>"
+  ],
+  "repository": "https://github.com/denoland/fastwebsockets",
+  "source": "https://static.crates.io/crates/fastwebsockets/fastwebsockets-0.8.1.crate",
+  "sha256": "9dac026e15fb7e44d768880b868a0fd5bd30ffdee272e88b3060f657a5a72947",
+  "files": [
+    "LICENSE"
+  ]
+}

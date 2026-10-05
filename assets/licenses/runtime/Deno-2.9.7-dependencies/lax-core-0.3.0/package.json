@@ -1,0 +1,17 @@
+{
+  "name": "lax-core",
+  "version": "0.3.0",
+  "license": "MIT",
+  "authors": [],
+  "repository": "https://github.com/bartlomieju/lax",
+  "source": "https://static.crates.io/crates/lax-core/lax-core-0.3.0.crate",
+  "sha256": "31e9266de41ab34dbeb7b0176a6430b1091f1fa7f4dd9f7ccf3e430a9c5a6789",
+  "files": [],
+  "upstream_commit": "5d6edeaa63943b5c7bc08f1d1425dfa068f45e40",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/bartlomieju/lax/5d6edeaa63943b5c7bc08f1d1425dfa068f45e40/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "windows-interface",
+  "version": "0.58.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Microsoft"
+  ],
+  "repository": "https://github.com/microsoft/windows-rs",
+  "source": "https://static.crates.io/crates/windows-interface/windows-interface-0.58.0.crate",
+  "sha256": "053c4c462dc91d3b1504c6fe5a726dd15e216ba718e84a0e46a88fbe5ded3515",
+  "files": [
+    "license-apache-2.0",
+    "license-mit"
+  ]
+}

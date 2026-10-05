@@ -1,0 +1,15 @@
+{
+  "name": "proptest",
+  "version": "1.9.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Jason Lingle"
+  ],
+  "repository": "https://github.com/proptest-rs/proptest",
+  "source": "https://static.crates.io/crates/proptest/proptest-1.9.0.crate",
+  "sha256": "bee689443a2bd0a16ab0348b52ee43e3b2d1b1f931c8aa5c9f8de4c86fbe8c40",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

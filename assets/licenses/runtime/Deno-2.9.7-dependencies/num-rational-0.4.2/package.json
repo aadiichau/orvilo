@@ -1,0 +1,15 @@
+{
+  "name": "num-rational",
+  "version": "0.4.2",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The Rust Project Developers"
+  ],
+  "repository": "https://github.com/rust-num/num-rational",
+  "source": "https://static.crates.io/crates/num-rational/num-rational-0.4.2.crate",
+  "sha256": "f83d14da390562dca69fc84082e73e548e1ad308d24accdedd2720017cb37824",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

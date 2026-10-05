@@ -1,0 +1,16 @@
+{
+  "name": "winapi-util",
+  "version": "0.1.6",
+  "license": "Unlicense/MIT",
+  "authors": [
+    "Andrew Gallant <jamslam@gmail.com>"
+  ],
+  "repository": "https://github.com/BurntSushi/winapi-util",
+  "source": "https://static.crates.io/crates/winapi-util/winapi-util-0.1.6.crate",
+  "sha256": "f29e6f9198ba0d26b4c9f07dbe6f9ed633e1f3d5b8b414090084349e46a52596",
+  "files": [
+    "COPYING",
+    "LICENSE-MIT",
+    "UNLICENSE"
+  ]
+}

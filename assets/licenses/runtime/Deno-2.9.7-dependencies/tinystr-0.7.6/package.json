@@ -1,0 +1,14 @@
+{
+  "name": "tinystr",
+  "version": "0.7.6",
+  "license": "Unicode-3.0",
+  "authors": [
+    "The ICU4X Project Developers"
+  ],
+  "repository": "https://github.com/unicode-org/icu4x",
+  "source": "https://static.crates.io/crates/tinystr/tinystr-0.7.6.crate",
+  "sha256": "9117f5d4db391c1cf6927e7bea3db74b9a1c1add8f7eda9ffd5364f40f57b82f",
+  "files": [
+    "LICENSE"
+  ]
+}

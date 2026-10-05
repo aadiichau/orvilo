@@ -1,0 +1,17 @@
+{
+  "name": "heapless",
+  "version": "0.8.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Jorge Aparicio <jorge@japaric.io>",
+    "Per Lindgren <per.lindgren@ltu.se>",
+    "Emil Fresk <emil.fresk@gmail.com>"
+  ],
+  "repository": "https://github.com/rust-embedded/heapless",
+  "source": "https://static.crates.io/crates/heapless/heapless-0.8.0.crate",
+  "sha256": "0bfb9eb618601c89945a70e254898da93b13be0388091d42117462b265bb3fad",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

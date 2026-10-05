@@ -1,0 +1,15 @@
+{
+  "name": "sm3",
+  "version": "0.4.2",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/hashes",
+  "source": "https://static.crates.io/crates/sm3/sm3-0.4.2.crate",
+  "sha256": "ebb9a3b702d0a7e33bc4d85a14456633d2b165c2ad839c5fd9a8417c1ab15860",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

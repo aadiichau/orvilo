@@ -1,0 +1,15 @@
+{
+  "name": "pin-utils",
+  "version": "0.1.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Josef Brandl <mail@josefbrandl.de>"
+  ],
+  "repository": "https://github.com/rust-lang-nursery/pin-utils",
+  "source": "https://static.crates.io/crates/pin-utils/pin-utils-0.1.0.crate",
+  "sha256": "8b870d8c151b6f2fb93e84a13146138f05d02ed11c7e7c54f8826aaaf7c9f184",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

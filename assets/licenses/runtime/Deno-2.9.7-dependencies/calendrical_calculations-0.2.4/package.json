@@ -1,0 +1,14 @@
+{
+  "name": "calendrical_calculations",
+  "version": "0.2.4",
+  "license": "Apache-2.0",
+  "authors": [
+    "The ICU4X Project Developers"
+  ],
+  "repository": "https://github.com/unicode-org/icu4x",
+  "source": "https://static.crates.io/crates/calendrical_calculations/calendrical_calculations-0.2.4.crate",
+  "sha256": "5abbd6eeda6885048d357edc66748eea6e0268e3dd11f326fff5bd248d779c26",
+  "files": [
+    "LICENSE"
+  ]
+}

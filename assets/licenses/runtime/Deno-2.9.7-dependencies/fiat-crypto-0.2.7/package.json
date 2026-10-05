@@ -1,0 +1,17 @@
+{
+  "name": "fiat-crypto",
+  "version": "0.2.7",
+  "license": "MIT OR Apache-2.0 OR BSD-1-Clause",
+  "authors": [
+    "Fiat Crypto library authors <jgross@mit.edu>"
+  ],
+  "repository": "https://github.com/mit-plv/fiat-crypto",
+  "source": "https://static.crates.io/crates/fiat-crypto/fiat-crypto-0.2.7.crate",
+  "sha256": "c007b1ae3abe1cb6f85a16305acd418b7ca6343b953633fee2b76d8f108b830f",
+  "files": [
+    "COPYRIGHT",
+    "LICENSE-APACHE",
+    "LICENSE-BSD-1",
+    "LICENSE-MIT"
+  ]
+}

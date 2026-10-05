@@ -1,0 +1,15 @@
+{
+  "name": "md4",
+  "version": "0.10.2",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/hashes",
+  "source": "https://static.crates.io/crates/md4/md4-0.10.2.crate",
+  "sha256": "7da5ac363534dce5fabf69949225e174fbf111a498bf0ff794c8ea1fba9f3dda",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

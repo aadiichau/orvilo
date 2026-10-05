@@ -1,0 +1,14 @@
+{
+  "name": "swc_ecma_lexer",
+  "version": "26.0.0",
+  "license": "Apache-2.0",
+  "authors": [
+    "\uac15\ub3d9\uc724 <kdy1997.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/swc-project/swc.git",
+  "source": "https://static.crates.io/crates/swc_ecma_lexer/swc_ecma_lexer-26.0.0.crate",
+  "sha256": "5e82f7747e052c6ff6e111fa4adeb14e33b46ee6e94fe5ef717601f651db48fc",
+  "files": [],
+  "upstream_commit": "8d4313921fb2e639ee1d6bacdfb5b071a8d07d36",
+  "supplemental_notices": []
+}

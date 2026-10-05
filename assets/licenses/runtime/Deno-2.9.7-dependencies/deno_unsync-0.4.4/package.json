@@ -1,0 +1,14 @@
+{
+  "name": "deno_unsync",
+  "version": "0.4.4",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/deno_unsync",
+  "source": "https://static.crates.io/crates/deno_unsync/deno_unsync-0.4.4.crate",
+  "sha256": "6742a724e8becb372a74c650a1aefb8924a5b8107f7d75b3848763ea24b27a87",
+  "files": [
+    "LICENSE"
+  ]
+}

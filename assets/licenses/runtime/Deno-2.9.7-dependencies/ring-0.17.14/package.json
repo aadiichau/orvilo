@@ -1,0 +1,17 @@
+{
+  "name": "ring",
+  "version": "0.17.14",
+  "license": "Apache-2.0 AND ISC",
+  "authors": [],
+  "repository": "https://github.com/briansmith/ring",
+  "source": "https://static.crates.io/crates/ring/ring-0.17.14.crate",
+  "sha256": "a4689e6c2294d81e88dc6261c768b63bc4fcdb852be6d1352498b114f61383b7",
+  "files": [
+    "LICENSE",
+    "LICENSE-BoringSSL",
+    "LICENSE-other-bits",
+    "src_polyfill_once_cell_LICENSE-APACHE",
+    "src_polyfill_once_cell_LICENSE-MIT",
+    "third_party_fiat_LICENSE"
+  ]
+}

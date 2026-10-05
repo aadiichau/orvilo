@@ -1,0 +1,15 @@
+{
+  "name": "pkg-config",
+  "version": "0.3.30",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Alex Crichton <alex@alexcrichton.com>"
+  ],
+  "repository": "https://github.com/rust-lang/pkg-config-rs",
+  "source": "https://static.crates.io/crates/pkg-config/pkg-config-0.3.30.crate",
+  "sha256": "d231b230927b5e4ad203db57bbcbee2802f6bce620b1e4a9024a07d94e2907ec",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

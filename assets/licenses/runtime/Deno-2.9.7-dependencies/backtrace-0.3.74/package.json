@@ -1,0 +1,15 @@
+{
+  "name": "backtrace",
+  "version": "0.3.74",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The Rust Project Developers"
+  ],
+  "repository": "https://github.com/rust-lang/backtrace-rs",
+  "source": "https://static.crates.io/crates/backtrace/backtrace-0.3.74.crate",
+  "sha256": "8d82cb332cdfaed17ae235a638438ac4d4839913cc2af585c3c6746e8f8bee1a",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

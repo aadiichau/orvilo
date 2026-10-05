@@ -1,0 +1,15 @@
+{
+  "name": "color-print-proc-macro",
+  "version": "0.3.5",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Johann David <johann.david.dev@protonmail.com>"
+  ],
+  "repository": "https://gitlab.com/dajoha/color-print",
+  "source": "https://static.crates.io/crates/color-print-proc-macro/color-print-proc-macro-0.3.5.crate",
+  "sha256": "57e37866456a721d0a404439a1adae37a31be4e0055590d053dfe6981e05003f",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "want",
+  "version": "0.3.1",
+  "license": "MIT",
+  "authors": [
+    "Sean McArthur <sean@seanmonstar.com>"
+  ],
+  "repository": "https://github.com/seanmonstar/want",
+  "source": "https://static.crates.io/crates/want/want-0.3.1.crate",
+  "sha256": "bfa7760aed19e106de2c7c0b581b509f2f25d3dacaf737cb82ac61bc6d760b0e",
+  "files": [
+    "LICENSE"
+  ]
+}

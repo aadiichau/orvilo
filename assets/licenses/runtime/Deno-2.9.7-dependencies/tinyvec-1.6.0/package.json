@@ -1,0 +1,16 @@
+{
+  "name": "tinyvec",
+  "version": "1.6.0",
+  "license": "Zlib OR Apache-2.0 OR MIT",
+  "authors": [
+    "Lokathor <zefria@gmail.com>"
+  ],
+  "repository": "https://github.com/Lokathor/tinyvec",
+  "source": "https://static.crates.io/crates/tinyvec/tinyvec-1.6.0.crate",
+  "sha256": "87cc5ceb3875bb20c2890005a4e226a4651264a5c75edb2421b52861a0a0cb50",
+  "files": [
+    "LICENSE-APACHE.md",
+    "LICENSE-MIT.md",
+    "LICENSE-ZLIB.md"
+  ]
+}

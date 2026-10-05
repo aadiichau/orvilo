@@ -1,0 +1,14 @@
+{
+  "name": "deno_native_certs",
+  "version": "0.3.0",
+  "license": "MIT",
+  "authors": [
+    "Divy Srivastava <dj.srivastava23@gmail.com>"
+  ],
+  "repository": "https://github.com/denoland/deno_native_certs",
+  "source": "https://static.crates.io/crates/deno_native_certs/deno_native_certs-0.3.0.crate",
+  "sha256": "c867603d2a5dfea31f55cecebb572554caa395437786d058faa9a2814c8d6eb9",
+  "files": [],
+  "upstream_commit": "700f235fe029ea839f5a64eea251abf8116ddb4c",
+  "supplemental_notices": []
+}

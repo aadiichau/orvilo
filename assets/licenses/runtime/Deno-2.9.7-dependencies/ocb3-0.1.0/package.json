@@ -1,0 +1,15 @@
+{
+  "name": "ocb3",
+  "version": "0.1.0",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/AEADs",
+  "source": "https://static.crates.io/crates/ocb3/ocb3-0.1.0.crate",
+  "sha256": "c196e0276c471c843dd5777e7543a36a298a4be942a2a688d8111cd43390dedb",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

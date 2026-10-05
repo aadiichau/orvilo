@@ -1,0 +1,14 @@
+{
+  "name": "borrow-or-share",
+  "version": "0.2.4",
+  "license": "MIT-0",
+  "authors": [
+    "Scallop Ye <yescallop@gmail.com>"
+  ],
+  "repository": "https://github.com/yescallop/borrow-or-share",
+  "source": "https://static.crates.io/crates/borrow-or-share/borrow-or-share-0.2.4.crate",
+  "sha256": "dc0b364ead1874514c8c2855ab558056ebfeb775653e7ae45ff72f28f8f3166c",
+  "files": [
+    "LICENSE"
+  ]
+}

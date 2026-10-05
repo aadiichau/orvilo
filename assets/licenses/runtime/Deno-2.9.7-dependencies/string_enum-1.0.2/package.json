@@ -1,0 +1,14 @@
+{
+  "name": "string_enum",
+  "version": "1.0.2",
+  "license": "Apache-2.0",
+  "authors": [
+    "\uac15\ub3d9\uc724 <kdy1997.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/swc-project/swc.git",
+  "source": "https://static.crates.io/crates/string_enum/string_enum-1.0.2.crate",
+  "sha256": "ae36a4951ca7bd1cfd991c241584a9824a70f6aff1e7d4f693fb3f2465e4030e",
+  "files": [],
+  "upstream_commit": "0ce4fd737e260c0cbfffcfdb19f269a9cc221ef4",
+  "supplemental_notices": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "deno_tower_lsp",
+  "version": "0.5.0",
+  "license": "MIT",
+  "authors": [
+    "Eyal Kalderon <ebkalderon@gmail.com>",
+    "the Deno authors"
+  ],
+  "repository": null,
+  "source": "https://static.crates.io/crates/deno_tower_lsp/deno_tower_lsp-0.5.0.crate",
+  "sha256": "fea954c97c042563492c93dedaeddaf59a0c7a241d4a35a575cfaf4b42db0d14",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

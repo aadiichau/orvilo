@@ -1,0 +1,15 @@
+{
+  "name": "hkdf",
+  "version": "0.12.4",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/KDFs/",
+  "source": "https://static.crates.io/crates/hkdf/hkdf-0.12.4.crate",
+  "sha256": "7b5f8eb2ad728638ea2c7d47a21db23b7b58a72ed6a38256b8a1849f15fbbdf7",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "redox_syscall",
+  "version": "0.5.13",
+  "license": "MIT",
+  "authors": [
+    "Jeremy Soller <jackpot51@gmail.com>"
+  ],
+  "repository": "https://gitlab.redox-os.org/redox-os/syscall",
+  "source": "https://static.crates.io/crates/redox_syscall/redox_syscall-0.5.13.crate",
+  "sha256": "0d04b7d0ee6b4a0207a0a7adb104d23ecb0b47d6beae7152d0fa34b692b29fd6",
+  "files": [
+    "LICENSE"
+  ]
+}

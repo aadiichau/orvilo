@@ -1,0 +1,15 @@
+{
+  "name": "jobserver",
+  "version": "0.1.32",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Alex Crichton <alex@alexcrichton.com>"
+  ],
+  "repository": "https://github.com/rust-lang/jobserver-rs",
+  "source": "https://static.crates.io/crates/jobserver/jobserver-0.1.32.crate",
+  "sha256": "48d1dbcbbeb6a7fec7e059840aa538bd62aaccf972c7346c4d9d2059312853d0",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

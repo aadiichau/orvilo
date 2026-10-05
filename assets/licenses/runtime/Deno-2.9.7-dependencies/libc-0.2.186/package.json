@@ -1,0 +1,15 @@
+{
+  "name": "libc",
+  "version": "0.2.186",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The Rust Project Developers"
+  ],
+  "repository": "https://github.com/rust-lang/libc",
+  "source": "https://static.crates.io/crates/libc/libc-0.2.186.crate",
+  "sha256": "68ab91017fe16c622486840e4c83c9a37afeff978bd239b5293d61ece587de66",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

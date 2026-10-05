@@ -1,0 +1,14 @@
+{
+  "name": "strck",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    "Quinn Okabayashi <quinnokabayashi@gmail.com>"
+  ],
+  "repository": "https://github.com/QnnOkabayashi/strck",
+  "source": "https://static.crates.io/crates/strck/strck-1.0.0.crate",
+  "sha256": "42316e70da376f3d113a68d138a60d8a9883c604fe97942721ec2068dab13a9f",
+  "files": [
+    "LICENSE"
+  ]
+}

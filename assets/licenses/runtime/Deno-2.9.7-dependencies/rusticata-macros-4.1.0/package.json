@@ -1,0 +1,15 @@
+{
+  "name": "rusticata-macros",
+  "version": "4.1.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Pierre Chifflier <chifflier@wzdftpd.net>"
+  ],
+  "repository": "https://github.com/rusticata/rusticata-macros.git",
+  "source": "https://static.crates.io/crates/rusticata-macros/rusticata-macros-4.1.0.crate",
+  "sha256": "faf0c4a6ece9950b9abdb62b1cfcf2a68b3b67a10ba445b3bb85be2a293d0632",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

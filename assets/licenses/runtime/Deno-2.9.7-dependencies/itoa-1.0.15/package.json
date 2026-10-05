@@ -1,0 +1,15 @@
+{
+  "name": "itoa",
+  "version": "1.0.15",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>"
+  ],
+  "repository": "https://github.com/dtolnay/itoa",
+  "source": "https://static.crates.io/crates/itoa/itoa-1.0.15.crate",
+  "sha256": "4a5f13b858c8d314ee3e8f639011f7ccefe71f97f96e50151fb991f267928e2c",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

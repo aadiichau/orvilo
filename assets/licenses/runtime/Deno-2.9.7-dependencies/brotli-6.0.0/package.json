@@ -1,0 +1,15 @@
+{
+  "name": "brotli",
+  "version": "6.0.0",
+  "license": "BSD-3-Clause OR MIT",
+  "authors": [
+    "Daniel Reiter Horn <danielrh@dropbox.com>",
+    "The Brotli Authors"
+  ],
+  "repository": "https://github.com/dropbox/rust-brotli",
+  "source": "https://static.crates.io/crates/brotli/brotli-6.0.0.crate",
+  "sha256": "74f7971dbd9326d58187408ab83117d8ac1bb9c17b085fdacd1cf2f598719b6b",
+  "files": [
+    "LICENSE"
+  ]
+}

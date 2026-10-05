@@ -1,0 +1,16 @@
+{
+  "name": "globset",
+  "version": "0.4.14",
+  "license": "Unlicense OR MIT",
+  "authors": [
+    "Andrew Gallant <jamslam@gmail.com>"
+  ],
+  "repository": "https://github.com/BurntSushi/ripgrep/tree/master/crates/globset",
+  "source": "https://static.crates.io/crates/globset/globset-0.4.14.crate",
+  "sha256": "57da3b9b5b85bd66f31093f8c408b90a74431672542466497dcbdfdc02034be1",
+  "files": [
+    "COPYING",
+    "LICENSE-MIT",
+    "UNLICENSE"
+  ]
+}

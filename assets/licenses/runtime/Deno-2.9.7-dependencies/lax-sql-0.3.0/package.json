@@ -1,0 +1,12 @@
+{
+  "name": "lax-sql",
+  "version": "0.3.0",
+  "license": "MIT",
+  "authors": [],
+  "repository": "https://github.com/bartlomieju/lax",
+  "source": "https://static.crates.io/crates/lax-sql/lax-sql-0.3.0.crate",
+  "sha256": "e2cca919c19f0e32e8a9fe410e087fc71e4a5ce7a843f939967c643e7881981f",
+  "files": [
+    "LICENSE"
+  ]
+}

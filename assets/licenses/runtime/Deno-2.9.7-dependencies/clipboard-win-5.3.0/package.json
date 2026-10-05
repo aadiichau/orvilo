@@ -1,0 +1,19 @@
+{
+  "name": "clipboard-win",
+  "version": "5.3.0",
+  "license": "BSL-1.0",
+  "authors": [
+    "Douman <douman@gmx.se>"
+  ],
+  "repository": "https://github.com/DoumanAsh/clipboard-win",
+  "source": "https://static.crates.io/crates/clipboard-win/clipboard-win-5.3.0.crate",
+  "sha256": "d517d4b86184dbb111d3556a10f1c8a04da7428d2987bf1081602bf11c3aa9ee",
+  "files": [],
+  "upstream_commit": "0af605873edf7f8064f54e73536f27dee5a56416",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/DoumanAsh/clipboard-win/0af605873edf7f8064f54e73536f27dee5a56416/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "byteorder-lite",
+  "version": "0.1.0",
+  "license": "Unlicense OR MIT",
+  "authors": [],
+  "repository": "https://github.com/image-rs/byteorder-lite",
+  "source": "https://static.crates.io/crates/byteorder-lite/byteorder-lite-0.1.0.crate",
+  "sha256": "8f1fe948ff07f4bd06c30984e69f5b4899c516a3ef74f34df92a2df2ab535495",
+  "files": [
+    "LICENSE-MIT",
+    "UNLICENSE"
+  ]
+}

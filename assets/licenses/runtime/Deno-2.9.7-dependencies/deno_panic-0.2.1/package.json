@@ -1,0 +1,12 @@
+{
+  "name": "deno_panic",
+  "version": "0.2.1",
+  "license": "MIT",
+  "authors": [],
+  "repository": "https://github.com/denoland/panic",
+  "source": "https://static.crates.io/crates/deno_panic/deno_panic-0.2.1.crate",
+  "sha256": "cb7becb2d3cb952db65114a2cb328ceb48f1d5abc74764cf19edb8ead0ab5c3c",
+  "files": [
+    "LICENSE"
+  ]
+}

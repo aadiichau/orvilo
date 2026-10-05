@@ -1,0 +1,13 @@
+{
+  "name": "portable-atomic",
+  "version": "1.14.0",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [],
+  "repository": "https://github.com/taiki-e/portable-atomic",
+  "source": "https://static.crates.io/crates/portable-atomic/portable-atomic-1.14.0.crate",
+  "sha256": "3d20d5497ef88037a52ff98267d066e7f11fcc5e99bbfbd58a42336193aacec3",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

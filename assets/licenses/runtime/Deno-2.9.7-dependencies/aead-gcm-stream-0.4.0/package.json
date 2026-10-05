@@ -1,0 +1,12 @@
+{
+  "name": "aead-gcm-stream",
+  "version": "0.4.0",
+  "license": "MIT",
+  "authors": [
+    "Divy Srivastava <dj.srivastava23@gmail.com>"
+  ],
+  "repository": null,
+  "source": "https://static.crates.io/crates/aead-gcm-stream/aead-gcm-stream-0.4.0.crate",
+  "sha256": "e70c8dec860340effb00f6945c49c0daaa6dac963602750db862eabb74bf7886",
+  "files": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "monch",
+  "version": "0.6.0",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/monch",
+  "source": "https://static.crates.io/crates/monch/monch-0.6.0.crate",
+  "sha256": "6bcc6ad3b93f756f2532d29f7c7291b8d246a2c460a99a3611327bb726830014",
+  "files": [
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "dtoa",
+  "version": "1.0.10",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>"
+  ],
+  "repository": "https://github.com/dtolnay/dtoa",
+  "source": "https://static.crates.io/crates/dtoa/dtoa-1.0.10.crate",
+  "sha256": "d6add3b8cff394282be81f3fc1a0605db594ed69890078ca6e2cab1c408bcf04",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

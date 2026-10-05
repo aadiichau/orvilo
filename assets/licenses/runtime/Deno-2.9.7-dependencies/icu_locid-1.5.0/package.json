@@ -1,0 +1,14 @@
+{
+  "name": "icu_locid",
+  "version": "1.5.0",
+  "license": "Unicode-3.0",
+  "authors": [
+    "The ICU4X Project Developers"
+  ],
+  "repository": "https://github.com/unicode-org/icu4x",
+  "source": "https://static.crates.io/crates/icu_locid/icu_locid-1.5.0.crate",
+  "sha256": "13acbb8371917fc971be86fc8057c41a64b521c184808a698c02acc242dbf637",
+  "files": [
+    "LICENSE"
+  ]
+}

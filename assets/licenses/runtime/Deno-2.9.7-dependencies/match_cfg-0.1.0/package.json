@@ -1,0 +1,15 @@
+{
+  "name": "match_cfg",
+  "version": "0.1.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "gnzlbg <gonzalobg88@gmail.com>"
+  ],
+  "repository": "https://github.com/gnzlbg/match_cfg",
+  "source": "https://static.crates.io/crates/match_cfg/match_cfg-0.1.0.crate",
+  "sha256": "ffbee8634e0d45d258acb448e7eaab3fce7a0a467395d4d9f228e3c1f01fb2e4",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

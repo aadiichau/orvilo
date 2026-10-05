@@ -1,0 +1,15 @@
+{
+  "name": "wasm-streams",
+  "version": "0.4.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Mattias Buelens <mattias@buelens.com>"
+  ],
+  "repository": "https://github.com/MattiasBuelens/wasm-streams/",
+  "source": "https://static.crates.io/crates/wasm-streams/wasm-streams-0.4.0.crate",
+  "sha256": "b65dc4c90b63b118468cf747d8bf3566c1913ef60be765b5730ead9e0a3ba129",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

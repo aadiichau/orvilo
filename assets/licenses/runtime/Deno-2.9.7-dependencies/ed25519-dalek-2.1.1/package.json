@@ -1,0 +1,16 @@
+{
+  "name": "ed25519-dalek",
+  "version": "2.1.1",
+  "license": "BSD-3-Clause",
+  "authors": [
+    "isis lovecruft <isis@patternsinthevoid.net>",
+    "Tony Arcieri <bascule@gmail.com>",
+    "Michael Rosenberg <michael@mrosenberg.pub>"
+  ],
+  "repository": "https://github.com/dalek-cryptography/curve25519-dalek/tree/main/ed25519-dalek",
+  "source": "https://static.crates.io/crates/ed25519-dalek/ed25519-dalek-2.1.1.crate",
+  "sha256": "4a3daa8e81a3963a60642bcc1f90a670680bd4a77535faa384e9d1c79d620871",
+  "files": [
+    "LICENSE"
+  ]
+}

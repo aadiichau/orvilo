@@ -1,0 +1,15 @@
+{
+  "name": "web-sys",
+  "version": "0.3.99",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The wasm-bindgen Developers"
+  ],
+  "repository": "https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/web-sys",
+  "source": "https://static.crates.io/crates/web-sys/web-sys-0.3.99.crate",
+  "sha256": "6d621441cfc37b84979402712047321980c178f299193a3589d05b99e8763436",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

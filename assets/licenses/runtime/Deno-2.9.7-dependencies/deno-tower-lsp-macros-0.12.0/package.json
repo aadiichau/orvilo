@@ -1,0 +1,24 @@
+{
+  "name": "deno-tower-lsp-macros",
+  "version": "0.12.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Eyal Kalderon <ebkalderon@gmail.com>",
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/ebkalderon/tower-lsp",
+  "source": "https://static.crates.io/crates/deno-tower-lsp-macros/deno-tower-lsp-macros-0.12.0.crate",
+  "sha256": "f9faf94704f67b21ae4e9e9bdd6cb3a876fdaeecd047cc2ecf2b3bd4d4978a7e",
+  "files": [],
+  "upstream_commit": "812d56f0dcd9df6ff80e85a5e83e0cc0dcf6cc49",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE-MIT",
+      "source": "https://raw.githubusercontent.com/ebkalderon/tower-lsp/812d56f0dcd9df6ff80e85a5e83e0cc0dcf6cc49/LICENSE-MIT"
+    },
+    {
+      "file": "upstream-LICENSE-APACHE",
+      "source": "https://raw.githubusercontent.com/ebkalderon/tower-lsp/812d56f0dcd9df6ff80e85a5e83e0cc0dcf6cc49/LICENSE-APACHE"
+    }
+  ]
+}

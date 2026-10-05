@@ -1,0 +1,13 @@
+{
+  "name": "curve25519-dalek-derive",
+  "version": "0.1.1",
+  "license": "MIT/Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/dalek-cryptography/curve25519-dalek",
+  "source": "https://static.crates.io/crates/curve25519-dalek-derive/curve25519-dalek-derive-0.1.1.crate",
+  "sha256": "f46882e17999c6cc590af592290432be3bce0428cb0d5f8b6715e4dc7b383eb3",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

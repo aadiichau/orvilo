@@ -1,0 +1,13 @@
+{
+  "name": "dsa",
+  "version": "0.6.3",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [],
+  "repository": "https://github.com/RustCrypto/signatures/tree/master/dsa",
+  "source": "https://static.crates.io/crates/dsa/dsa-0.6.3.crate",
+  "sha256": "48bc224a9084ad760195584ce5abb3c2c34a225fa312a128ad245a6b412b7689",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

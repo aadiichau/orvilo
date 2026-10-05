@@ -1,0 +1,15 @@
+{
+  "name": "pulldown-cmark",
+  "version": "0.11.2",
+  "license": "MIT",
+  "authors": [
+    "Raph Levien <raph.levien@gmail.com>",
+    "Marcus Klaas de Vries <mail@marcusklaas.nl>"
+  ],
+  "repository": "https://github.com/raphlinus/pulldown-cmark",
+  "source": "https://static.crates.io/crates/pulldown-cmark/pulldown-cmark-0.11.2.crate",
+  "sha256": "cb4e75767fbc9d92b90e4d0c011f61358cde9513b31ef07ea3631b15ffc3b4fd",
+  "files": [
+    "LICENSE"
+  ]
+}

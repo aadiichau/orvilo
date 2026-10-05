@@ -1,0 +1,15 @@
+{
+  "name": "tracing-core",
+  "version": "0.1.36",
+  "license": "MIT",
+  "authors": [
+    "Tokio Contributors <team@tokio.rs>"
+  ],
+  "repository": "https://github.com/tokio-rs/tracing",
+  "source": "https://static.crates.io/crates/tracing-core/tracing-core-0.1.36.crate",
+  "sha256": "db97caf9d906fbde555dd62fa95ddba9eecfd14cb388e4f491a66d74cd5fb79a",
+  "files": [
+    "LICENSE",
+    "src_spin_LICENSE"
+  ]
+}

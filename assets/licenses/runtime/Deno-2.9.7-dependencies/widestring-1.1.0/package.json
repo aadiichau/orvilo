@@ -1,0 +1,12 @@
+{
+  "name": "widestring",
+  "version": "1.1.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/starkat99/widestring-rs",
+  "source": "https://static.crates.io/crates/widestring/widestring-1.1.0.crate",
+  "sha256": "7219d36b6eac893fa81e84ebe06485e7dcbb616177469b142df14f1f4deb1311",
+  "files": [
+    "LICENSE"
+  ]
+}

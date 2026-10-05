@@ -1,0 +1,15 @@
+{
+  "name": "brotli-decompressor",
+  "version": "4.0.1",
+  "license": "BSD-3-Clause/MIT",
+  "authors": [
+    "Daniel Reiter Horn <danielrh@dropbox.com>",
+    "The Brotli Authors"
+  ],
+  "repository": "https://github.com/dropbox/rust-brotli-decompressor",
+  "source": "https://static.crates.io/crates/brotli-decompressor/brotli-decompressor-4.0.1.crate",
+  "sha256": "9a45bd2e4095a8b518033b128020dd4a55aab1c0a381ba4404a472630f4bc362",
+  "files": [
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "opentelemetry-proto",
+  "version": "0.32.0",
+  "license": "Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/open-telemetry/opentelemetry-rust/tree/main/opentelemetry-proto",
+  "source": "https://static.crates.io/crates/opentelemetry-proto/opentelemetry-proto-0.32.0.crate",
+  "sha256": "56d658ba1faf63f7b9c492cfbe6e0ec365440a16132d3270c1065f7b33f1b638",
+  "files": [
+    "src_proto_opentelemetry-proto_LICENSE"
+  ]
+}

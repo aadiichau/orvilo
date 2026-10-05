@@ -1,0 +1,15 @@
+{
+  "name": "p256",
+  "version": "0.13.2",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/elliptic-curves/tree/master/p256",
+  "source": "https://static.crates.io/crates/p256/p256-0.13.2.crate",
+  "sha256": "c9863ad85fa8f4460f9c48cb909d38a0d689dba1f6f6988a5e3e0d31071bcd4b",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

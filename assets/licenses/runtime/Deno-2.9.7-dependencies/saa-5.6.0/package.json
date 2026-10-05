@@ -1,0 +1,14 @@
+{
+  "name": "saa",
+  "version": "5.6.0",
+  "license": "Apache-2.0",
+  "authors": [
+    "wvwwvwwv <wvwwvwwv@proton.me>"
+  ],
+  "repository": "https://codeberg.org/wvwwvwwv/synchronous-and-asynchronous",
+  "source": "https://static.crates.io/crates/saa/saa-5.6.0.crate",
+  "sha256": "68f5acb362a0e75c2a963532fa7fabf13dff81626dc494df16488d30befcbea0",
+  "files": [
+    "LICENSE"
+  ]
+}

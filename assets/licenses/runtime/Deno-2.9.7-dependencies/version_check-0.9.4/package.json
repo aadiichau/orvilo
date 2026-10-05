@@ -1,0 +1,15 @@
+{
+  "name": "version_check",
+  "version": "0.9.4",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Sergio Benitez <sb@sergio.bz>"
+  ],
+  "repository": "https://github.com/SergioBenitez/version_check",
+  "source": "https://static.crates.io/crates/version_check/version_check-0.9.4.crate",
+  "sha256": "49874b5167b65d7193b8aba1567f5c7d93d001cafc34600cee003eda787e483f",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "signal-hook",
+  "version": "0.3.17",
+  "license": "Apache-2.0/MIT",
+  "authors": [
+    "Michal 'vorner' Vaner <vorner@vorner.cz>",
+    "Thomas Himmelstoss <thimm@posteo.de>"
+  ],
+  "repository": "https://github.com/vorner/signal-hook",
+  "source": "https://static.crates.io/crates/signal-hook/signal-hook-0.3.17.crate",
+  "sha256": "8621587d4798caf8eb44879d42e56b9a93ea5dcd315a6487c357130095b62801",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

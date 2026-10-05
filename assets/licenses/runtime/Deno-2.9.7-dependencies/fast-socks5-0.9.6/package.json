@@ -1,0 +1,14 @@
+{
+  "name": "fast-socks5",
+  "version": "0.9.6",
+  "license": "MIT",
+  "authors": [
+    "Jonathan Dizdarevic <dizzda@gmail.com>"
+  ],
+  "repository": "https://github.com/dizda/fast-socks5",
+  "source": "https://static.crates.io/crates/fast-socks5/fast-socks5-0.9.6.crate",
+  "sha256": "f89f36d4ee12370d30d57b16c7e190950a1a916e7dbbb5fd5a412f5ef913fe84",
+  "files": [
+    "LICENSE"
+  ]
+}

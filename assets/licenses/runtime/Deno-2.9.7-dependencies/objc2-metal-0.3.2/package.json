@@ -1,0 +1,17 @@
+{
+  "name": "objc2-metal",
+  "version": "0.3.2",
+  "license": "Zlib OR Apache-2.0 OR MIT",
+  "authors": [],
+  "repository": "https://github.com/madsmtm/objc2",
+  "source": "https://static.crates.io/crates/objc2-metal/objc2-metal-0.3.2.crate",
+  "sha256": "a0125f776a10d00af4152d74616409f0d4a2053a6f57fa5b7d6aa2854ac04794",
+  "files": [],
+  "upstream_commit": "7b1abfd750a2cacaea71d6a56ecfb83cb7de560b",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE.md",
+      "source": "https://raw.githubusercontent.com/madsmtm/objc2/7b1abfd750a2cacaea71d6a56ecfb83cb7de560b/LICENSE.md"
+    }
+  ]
+}

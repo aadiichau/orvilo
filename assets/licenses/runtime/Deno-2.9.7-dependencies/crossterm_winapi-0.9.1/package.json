@@ -1,0 +1,14 @@
+{
+  "name": "crossterm_winapi",
+  "version": "0.9.1",
+  "license": "MIT",
+  "authors": [
+    "T. Post"
+  ],
+  "repository": "https://github.com/crossterm-rs/crossterm-winapi",
+  "source": "https://static.crates.io/crates/crossterm_winapi/crossterm_winapi-0.9.1.crate",
+  "sha256": "acdd7c62a3665c7f6830a51635d9ac9b23ed385797f70a83bb8bafe9c572ab2b",
+  "files": [
+    "LICENSE"
+  ]
+}

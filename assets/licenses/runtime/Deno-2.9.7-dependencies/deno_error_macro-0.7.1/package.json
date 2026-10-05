@@ -1,0 +1,19 @@
+{
+  "name": "deno_error_macro",
+  "version": "0.7.1",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/deno_error",
+  "source": "https://static.crates.io/crates/deno_error_macro/deno_error_macro-0.7.1.crate",
+  "sha256": "1c28ede88783f14cd8aae46ca89f230c226b40e4a81ab06fa52ed72af84beb2f",
+  "files": [],
+  "upstream_commit": "e806d735069caacf511b9a781ef2990a3651256f",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/denoland/deno_error/e806d735069caacf511b9a781ef2990a3651256f/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "rustls-pki-types",
+  "version": "1.12.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/rustls/pki-types",
+  "source": "https://static.crates.io/crates/rustls-pki-types/rustls-pki-types-1.12.0.crate",
+  "sha256": "229a4a4c221013e7e1f1a043678c5cc39fe5171437c88fb47151a21e6f5b5c79",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

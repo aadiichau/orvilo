@@ -1,0 +1,15 @@
+{
+  "name": "core-foundation",
+  "version": "0.9.4",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The Servo Project Developers"
+  ],
+  "repository": "https://github.com/servo/core-foundation-rs",
+  "source": "https://static.crates.io/crates/core-foundation/core-foundation-0.9.4.crate",
+  "sha256": "91e195e091a93c46f7102ec7818a2aa394e1e1771c3ab4825963fa03e45afb8f",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

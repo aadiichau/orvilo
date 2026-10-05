@@ -1,0 +1,13 @@
+{
+  "name": "tokio-rustls",
+  "version": "0.26.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/rustls/tokio-rustls",
+  "source": "https://static.crates.io/crates/tokio-rustls/tokio-rustls-0.26.0.crate",
+  "sha256": "0c7bc40d0e5a97695bb96e27995cd3a08538541b0a846f65bba7a359f36700d4",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

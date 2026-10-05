@@ -1,0 +1,15 @@
+{
+  "name": "divan",
+  "version": "0.1.21",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Nikolai Vazquez"
+  ],
+  "repository": "https://github.com/nvzqz/divan",
+  "source": "https://static.crates.io/crates/divan/divan-0.1.21.crate",
+  "sha256": "a405457ec78b8fe08b0e32b4a3570ab5dff6dd16eb9e76a5ee0a9d9cbd898933",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

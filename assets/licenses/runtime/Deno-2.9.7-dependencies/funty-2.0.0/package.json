@@ -1,0 +1,14 @@
+{
+  "name": "funty",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "myrrlyn <self@myrrlyn.dev>"
+  ],
+  "repository": "https://github.com/myrrlyn/funty",
+  "source": "https://static.crates.io/crates/funty/funty-2.0.0.crate",
+  "sha256": "e6d5a32815ae3f33302d95fdcb2ce17862f8c65363dcfd29360480ba1001fc9c",
+  "files": [
+    "LICENSE.txt"
+  ]
+}

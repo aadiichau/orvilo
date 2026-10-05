@@ -1,0 +1,14 @@
+{
+  "name": "enum-primitive-derive",
+  "version": "0.3.0",
+  "license": "MIT",
+  "authors": [
+    "Doug Goldstein <cardoe@cardoe.com>"
+  ],
+  "repository": "https://gitlab.com/cardoe/enum-primitive-derive.git",
+  "source": "https://static.crates.io/crates/enum-primitive-derive/enum-primitive-derive-0.3.0.crate",
+  "sha256": "ba7795da175654fe16979af73f81f26a8ea27638d8d9823d317016888a63dc4c",
+  "files": [
+    "LICENSE"
+  ]
+}

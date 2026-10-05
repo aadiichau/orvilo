@@ -1,0 +1,14 @@
+{
+  "name": "swc_config_macro",
+  "version": "1.0.1",
+  "license": "Apache-2.0",
+  "authors": [
+    "\uac15\ub3d9\uc724 <kdy1997.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/swc-project/swc.git",
+  "source": "https://static.crates.io/crates/swc_config_macro/swc_config_macro-1.0.1.crate",
+  "sha256": "7b416e8ce6de17dc5ea496e10c7012b35bbc0e3fef38d2e065eed936490db0b3",
+  "files": [],
+  "upstream_commit": "832d537695a07e539660096883fab52bb7f10ecf",
+  "supplemental_notices": []
+}

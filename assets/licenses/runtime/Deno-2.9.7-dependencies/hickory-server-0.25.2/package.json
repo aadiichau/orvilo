@@ -1,0 +1,15 @@
+{
+  "name": "hickory-server",
+  "version": "0.25.2",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The contributors to Hickory DNS"
+  ],
+  "repository": "https://github.com/hickory-dns/hickory-dns",
+  "source": "https://static.crates.io/crates/hickory-server/hickory-server-0.25.2.crate",
+  "sha256": "d53e5fe811b941c74ee46b8818228bfd2bc2688ba276a0eaeb0f2c95ea3b2585",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

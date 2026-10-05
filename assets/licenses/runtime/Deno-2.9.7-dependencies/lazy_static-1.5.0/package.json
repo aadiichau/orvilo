@@ -1,0 +1,15 @@
+{
+  "name": "lazy_static",
+  "version": "1.5.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Marvin L\u00f6bel <loebel.marvin@gmail.com>"
+  ],
+  "repository": "https://github.com/rust-lang-nursery/lazy-static.rs",
+  "source": "https://static.crates.io/crates/lazy_static/lazy_static-1.5.0.crate",
+  "sha256": "bbd2bcb4c963f2ddae06a2efc7e9f3591312473c50c6685e1f298068316e66fe",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

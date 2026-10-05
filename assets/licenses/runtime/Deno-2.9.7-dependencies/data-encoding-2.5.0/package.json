@@ -1,0 +1,14 @@
+{
+  "name": "data-encoding",
+  "version": "2.5.0",
+  "license": "MIT",
+  "authors": [
+    "Julien Cretin <git@ia0.eu>"
+  ],
+  "repository": "https://github.com/ia0/data-encoding",
+  "source": "https://static.crates.io/crates/data-encoding/data-encoding-2.5.0.crate",
+  "sha256": "7e962a19be5cfc3f3bf6dd8f61eb50107f356ad6270fbb3ed41476571db78be5",
+  "files": [
+    "LICENSE"
+  ]
+}

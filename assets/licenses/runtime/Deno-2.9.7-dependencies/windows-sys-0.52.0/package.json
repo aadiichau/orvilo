@@ -1,0 +1,15 @@
+{
+  "name": "windows-sys",
+  "version": "0.52.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Microsoft"
+  ],
+  "repository": "https://github.com/microsoft/windows-rs",
+  "source": "https://static.crates.io/crates/windows-sys/windows-sys-0.52.0.crate",
+  "sha256": "282be5f36a8ce781fad8c8ae18fa3f9beff57ec1b52cb3de0789201425d9a33d",
+  "files": [
+    "license-apache-2.0",
+    "license-mit"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "diplomat",
+  "version": "0.15.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Shadaj Laddad <shadaj@users.noreply.github.com>",
+    "Manish Goregaokar <manishsmail@gmail.com>",
+    "Quinn Okabayashi <QnnOkabayashi@users.noreply.github.com>"
+  ],
+  "repository": "https://github.com/rust-diplomat/diplomat",
+  "source": "https://static.crates.io/crates/diplomat/diplomat-0.15.0.crate",
+  "sha256": "7935649d00000f5c5d735448ad3dc07b9738160727017914cf42138b8e8e6611",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

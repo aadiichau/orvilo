@@ -1,0 +1,16 @@
+{
+  "name": "time",
+  "version": "0.3.47",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Jacob Pratt <open-source@jhpratt.dev>",
+    "Time contributors"
+  ],
+  "repository": "https://github.com/time-rs/time",
+  "source": "https://static.crates.io/crates/time/time-0.3.47.crate",
+  "sha256": "743bd48c283afc0388f9b8827b976905fb217ad9e647fae3a379a9283c4def2c",
+  "files": [
+    "LICENSE-Apache",
+    "LICENSE-MIT"
+  ]
+}

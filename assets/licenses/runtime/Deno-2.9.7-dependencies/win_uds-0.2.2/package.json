@@ -1,0 +1,12 @@
+{
+  "name": "win_uds",
+  "version": "0.2.2",
+  "license": "Unlicense",
+  "authors": [],
+  "repository": "https://github.com/kouhe3/win_uds",
+  "source": "https://static.crates.io/crates/win_uds/win_uds-0.2.2.crate",
+  "sha256": "7dd30a1a28a3799479cbf4e17284a220ea9ff6bad098a9d0224543a5d1efe1da",
+  "files": [
+    "UNLICENSE"
+  ]
+}

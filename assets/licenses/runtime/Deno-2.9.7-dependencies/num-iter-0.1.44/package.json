@@ -1,0 +1,15 @@
+{
+  "name": "num-iter",
+  "version": "0.1.44",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The Rust Project Developers"
+  ],
+  "repository": "https://github.com/rust-num/num-iter",
+  "source": "https://static.crates.io/crates/num-iter/num-iter-0.1.44.crate",
+  "sha256": "d869c01cc0c455284163fd0092f1f93835385ccab5a98a0dcc497b2f8bf055a9",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

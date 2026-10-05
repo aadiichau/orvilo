@@ -1,0 +1,14 @@
+{
+  "name": "stringcase",
+  "version": "0.4.0",
+  "license": "MIT",
+  "authors": [
+    "Takayuki Sato <sttk.xslet@gmail.com>"
+  ],
+  "repository": "https://github.com/sttk/stringcase-rust",
+  "source": "https://static.crates.io/crates/stringcase/stringcase-0.4.0.crate",
+  "sha256": "72abeda133c49d7bddece6c154728f83eec8172380c80ab7096da9487e20d27c",
+  "files": [
+    "LICENSE"
+  ]
+}

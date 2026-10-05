@@ -1,0 +1,15 @@
+{
+  "name": "aes-gcm",
+  "version": "0.10.3",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/AEADs",
+  "source": "https://static.crates.io/crates/aes-gcm/aes-gcm-0.10.3.crate",
+  "sha256": "831010a0f742e1209b3bcea8fab6a8e149051ba6099432c8cb2cc117dec3ead1",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

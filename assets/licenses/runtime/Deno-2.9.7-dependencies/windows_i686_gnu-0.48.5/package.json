@@ -1,0 +1,15 @@
+{
+  "name": "windows_i686_gnu",
+  "version": "0.48.5",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Microsoft"
+  ],
+  "repository": "https://github.com/microsoft/windows-rs",
+  "source": "https://static.crates.io/crates/windows_i686_gnu/windows_i686_gnu-0.48.5.crate",
+  "sha256": "a75915e7def60c94dcef72200b9a8e58e5091744960da64ec734a6c6e9b3743e",
+  "files": [
+    "license-apache-2.0",
+    "license-mit"
+  ]
+}

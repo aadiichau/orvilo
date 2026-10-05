@@ -1,0 +1,14 @@
+{
+  "name": "dprint-core",
+  "version": "0.67.4",
+  "license": "MIT",
+  "authors": [
+    "David Sherret <dsherret@gmail.com>"
+  ],
+  "repository": "https://github.com/dprint/dprint",
+  "source": "https://static.crates.io/crates/dprint-core/dprint-core-0.67.4.crate",
+  "sha256": "2c1d827947704a9495f705d6aeed270fa21a67f825f22902c28f38dc3af7a9ae",
+  "files": [
+    "LICENSE"
+  ]
+}

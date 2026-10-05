@@ -1,0 +1,14 @@
+{
+  "name": "fluent-uri",
+  "version": "0.4.1",
+  "license": "MIT",
+  "authors": [
+    "Scallop Ye <yescallop@gmail.com>"
+  ],
+  "repository": "https://github.com/yescallop/fluent-uri-rs",
+  "source": "https://static.crates.io/crates/fluent-uri/fluent-uri-0.4.1.crate",
+  "sha256": "bc74ac4d8359ae70623506d512209619e5cf8f347124910440dbc221714b328e",
+  "files": [
+    "LICENSE"
+  ]
+}

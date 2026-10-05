@@ -1,0 +1,14 @@
+{
+  "name": "scc",
+  "version": "3.7.1",
+  "license": "Apache-2.0",
+  "authors": [
+    "wvwwvwwv <wvwwvwwv@proton.me>"
+  ],
+  "repository": "https://codeberg.org/wvwwvwwv/scalable-concurrent-containers/",
+  "source": "https://static.crates.io/crates/scc/scc-3.7.1.crate",
+  "sha256": "5bcd12b6caff5213cc3c03123cde8c3db5e413008a63b0c0ba35e6275825ea92",
+  "files": [
+    "LICENSE"
+  ]
+}

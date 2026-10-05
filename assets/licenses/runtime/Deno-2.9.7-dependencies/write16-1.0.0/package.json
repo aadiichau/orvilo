@@ -1,0 +1,14 @@
+{
+  "name": "write16",
+  "version": "1.0.0",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [],
+  "repository": "https://github.com/hsivonen/write16",
+  "source": "https://static.crates.io/crates/write16/write16-1.0.0.crate",
+  "sha256": "d1890f4022759daae28ed4fe62859b1236caebfc61ede2f63ed4e695f3f6d936",
+  "files": [
+    "COPYRIGHT",
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

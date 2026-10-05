@@ -1,0 +1,14 @@
+{
+  "name": "wtf8",
+  "version": "0.1.0",
+  "license": "MIT",
+  "authors": [
+    "Simon Sapin"
+  ],
+  "repository": "https://github.com/SimonSapin/rust-wtf8",
+  "source": "https://static.crates.io/crates/wtf8/wtf8-0.1.0.crate",
+  "sha256": "c01ae8492c38f52376efd3a17d0994b6bcf3df1e39c0226d458b7d81670b2a06",
+  "files": [
+    "LICENSE"
+  ]
+}

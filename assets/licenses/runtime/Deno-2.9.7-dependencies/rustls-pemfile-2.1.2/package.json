@@ -1,0 +1,15 @@
+{
+  "name": "rustls-pemfile",
+  "version": "2.1.2",
+  "license": "Apache-2.0 OR ISC OR MIT",
+  "authors": [],
+  "repository": "https://github.com/rustls/pemfile",
+  "source": "https://static.crates.io/crates/rustls-pemfile/rustls-pemfile-2.1.2.crate",
+  "sha256": "29993a25686778eb88d4189742cd713c9bce943bc54251a33509dc63cbacf73d",
+  "files": [
+    "LICENSE",
+    "LICENSE-APACHE",
+    "LICENSE-ISC",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "cranelift-module",
+  "version": "0.117.2",
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "authors": [
+    "The Cranelift Project Developers"
+  ],
+  "repository": "https://github.com/bytecodealliance/wasmtime",
+  "source": "https://static.crates.io/crates/cranelift-module/cranelift-module-0.117.2.crate",
+  "sha256": "e9c3d728819ff644e8613d808378cbfed54fef464790f32e62079e638639eeff",
+  "files": [
+    "LICENSE"
+  ]
+}

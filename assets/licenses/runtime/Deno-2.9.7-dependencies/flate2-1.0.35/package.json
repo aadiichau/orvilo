@@ -1,0 +1,16 @@
+{
+  "name": "flate2",
+  "version": "1.0.35",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Alex Crichton <alex@alexcrichton.com>",
+    "Josh Triplett <josh@joshtriplett.org>"
+  ],
+  "repository": "https://github.com/rust-lang/flate2-rs",
+  "source": "https://static.crates.io/crates/flate2/flate2-1.0.35.crate",
+  "sha256": "c936bfdafb507ebbf50b8074c54fa31c5be9a1e7e5f467dd659697041407d07c",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

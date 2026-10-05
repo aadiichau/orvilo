@@ -1,0 +1,13 @@
+{
+  "name": "futures-macro",
+  "version": "0.3.31",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/rust-lang/futures-rs",
+  "source": "https://static.crates.io/crates/futures-macro/futures-macro-0.3.31.crate",
+  "sha256": "162ee34ebcb7c64a8abebc059ce0fee27c2262618d7b60ed8faf72fef13c3650",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "chrono",
+  "version": "0.4.42",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/chronotope/chrono",
+  "source": "https://static.crates.io/crates/chrono/chrono-0.4.42.crate",
+  "sha256": "145052bdd345b87320e369255277e3fb5152762ad123a901ef5c262dd38fe8d2",
+  "files": [
+    "LICENSE.txt"
+  ]
+}

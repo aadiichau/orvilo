@@ -1,0 +1,15 @@
+{
+  "name": "argon2",
+  "version": "0.6.0-rc.8",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/password-hashes",
+  "source": "https://static.crates.io/crates/argon2/argon2-0.6.0-rc.8.crate",
+  "sha256": "7af50940b73bf4e16c15c448a2b121c63f2d68e3e54b6a8731673cb4aa0cdff5",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

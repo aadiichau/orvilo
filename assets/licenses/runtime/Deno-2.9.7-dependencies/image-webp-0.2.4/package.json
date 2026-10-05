@@ -1,0 +1,13 @@
+{
+  "name": "image-webp",
+  "version": "0.2.4",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/image-rs/image-webp",
+  "source": "https://static.crates.io/crates/image-webp/image-webp-0.2.4.crate",
+  "sha256": "525e9ff3e1a4be2fbea1fdf0e98686a6d98b4d8f937e1bf7402245af1909e8c3",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

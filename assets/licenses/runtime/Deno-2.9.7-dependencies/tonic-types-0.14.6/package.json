@@ -1,0 +1,15 @@
+{
+  "name": "tonic-types",
+  "version": "0.14.6",
+  "license": "MIT",
+  "authors": [
+    "Lucio Franco <luciofranco14@gmail.com>",
+    "Rafael Lemos <flemos.rafael.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/hyperium/tonic",
+  "source": "https://static.crates.io/crates/tonic-types/tonic-types-0.14.6.crate",
+  "sha256": "73ab1b02061f83d519bba3caa167f88f261ef05720ab8ebc954ade70de3348e8",
+  "files": [
+    "LICENSE"
+  ]
+}

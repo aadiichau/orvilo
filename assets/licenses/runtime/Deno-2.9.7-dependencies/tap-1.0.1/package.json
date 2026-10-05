@@ -1,0 +1,15 @@
+{
+  "name": "tap",
+  "version": "1.0.1",
+  "license": "MIT",
+  "authors": [
+    "Elliott Linder <elliott.darfink@gmail.com>",
+    "myrrlyn <self@myrrlyn.dev>"
+  ],
+  "repository": "https://github.com/myrrlyn/tap",
+  "source": "https://static.crates.io/crates/tap/tap-1.0.1.crate",
+  "sha256": "55937e1799185b12863d447f42597ed69d9928686b8d88a1df17376a097d8369",
+  "files": [
+    "LICENSE.txt"
+  ]
+}

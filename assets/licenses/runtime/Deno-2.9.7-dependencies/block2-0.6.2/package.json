@@ -1,0 +1,19 @@
+{
+  "name": "block2",
+  "version": "0.6.2",
+  "license": "MIT",
+  "authors": [
+    "Mads Marquart <mads@marquart.dk>"
+  ],
+  "repository": "https://github.com/madsmtm/objc2",
+  "source": "https://static.crates.io/crates/block2/block2-0.6.2.crate",
+  "sha256": "cdeb9d870516001442e364c5220d3574d2da8dc765554b4a617230d33fa58ef5",
+  "files": [],
+  "upstream_commit": "b4167b582b2f75f9a1be75495c41b765344fd03c",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE.md",
+      "source": "https://raw.githubusercontent.com/madsmtm/objc2/b4167b582b2f75f9a1be75495c41b765344fd03c/LICENSE.md"
+    }
+  ]
+}

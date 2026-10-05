@@ -1,0 +1,22 @@
+{
+  "name": "khronos_api",
+  "version": "3.1.0",
+  "license": "Apache-2.0",
+  "authors": [
+    "Brendan Zabarauskas <bjzaba@yahoo.com.au>",
+    "Corey Richardson",
+    "Arseny Kapoulkine",
+    "Pierre Krieger <pierre.krieger1708@gmail.com>"
+  ],
+  "repository": "https://github.com/brendanzab/gl-rs/",
+  "source": "https://static.crates.io/crates/khronos_api/khronos_api-3.1.0.crate",
+  "sha256": "e2db585e1d738fc771bf08a151420d3ed193d9d895a36df7f6f8a9456b911ddc",
+  "files": [],
+  "upstream_commit": "f150967b1c44ae888e6676f93f639ebc82771bdc",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/brendanzab/gl-rs/f150967b1c44ae888e6676f93f639ebc82771bdc/LICENSE"
+    }
+  ]
+}

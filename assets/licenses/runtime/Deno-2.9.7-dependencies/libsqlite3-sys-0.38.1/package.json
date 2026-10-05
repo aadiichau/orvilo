@@ -1,0 +1,15 @@
+{
+  "name": "libsqlite3-sys",
+  "version": "0.38.1",
+  "license": "MIT",
+  "authors": [
+    "The rusqlite developers"
+  ],
+  "repository": "https://github.com/rusqlite/rusqlite",
+  "source": "https://static.crates.io/crates/libsqlite3-sys/libsqlite3-sys-0.38.1.crate",
+  "sha256": "f6c19a05435c21ac299d71b6a9c13db3e3f47c520517d58990a462a1397a61db",
+  "files": [
+    "LICENSE",
+    "sqlcipher_LICENSE"
+  ]
+}

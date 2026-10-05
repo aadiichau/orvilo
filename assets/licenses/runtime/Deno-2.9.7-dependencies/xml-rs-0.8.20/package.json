@@ -1,0 +1,14 @@
+{
+  "name": "xml-rs",
+  "version": "0.8.20",
+  "license": "MIT",
+  "authors": [
+    "Vladimir Matveev <vmatveev@citrine.cc>"
+  ],
+  "repository": "https://github.com/kornelski/xml-rs",
+  "source": "https://static.crates.io/crates/xml-rs/xml-rs-0.8.20.crate",
+  "sha256": "791978798f0597cfc70478424c2b4fdc2b7a8024aaff78497ef00f24ef674193",
+  "files": [
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "der-parser",
+  "version": "8.2.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Pierre Chifflier <chifflier@wzdftpd.net>"
+  ],
+  "repository": "https://github.com/rusticata/der-parser.git",
+  "source": "https://static.crates.io/crates/der-parser/der-parser-8.2.0.crate",
+  "sha256": "dbd676fbbab537128ef0278adb5576cf363cff6aa22a7b24effe97347cfab61e",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

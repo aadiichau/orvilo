@@ -1,0 +1,12 @@
+{
+  "name": "tokio-eld",
+  "version": "0.3.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": null,
+  "source": "https://static.crates.io/crates/tokio-eld/tokio-eld-0.3.0.crate",
+  "sha256": "d06d816c6ab33079aa237f8d8a1f0f2018eb5cbd4096713f42c33aacf2502518",
+  "files": [
+    "LICENSE"
+  ]
+}

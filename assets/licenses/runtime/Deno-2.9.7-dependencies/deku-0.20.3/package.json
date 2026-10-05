@@ -1,0 +1,15 @@
+{
+  "name": "deku",
+  "version": "0.20.3",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "sharks <sharks@sharks>"
+  ],
+  "repository": "https://github.com/sharksforarms/deku",
+  "source": "https://static.crates.io/crates/deku/deku-0.20.3.crate",
+  "sha256": "ebf55291257a2a5c90cf50ae17b6bbaabc3fd13642cf3895a71c412513c19630",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

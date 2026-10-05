@@ -1,0 +1,17 @@
+{
+  "name": "zerocopy",
+  "version": "0.8.27",
+  "license": "BSD-2-Clause OR Apache-2.0 OR MIT",
+  "authors": [
+    "Joshua Liebow-Feeser <joshlf@google.com>",
+    "Jack Wrenn <jswrenn@amazon.com>"
+  ],
+  "repository": "https://github.com/google/zerocopy",
+  "source": "https://static.crates.io/crates/zerocopy/zerocopy-0.8.27.crate",
+  "sha256": "0894878a5fa3edfd6da3f88c4805f4c8558e2b996227a3d864f47fe11e38282c",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-BSD",
+    "LICENSE-MIT"
+  ]
+}

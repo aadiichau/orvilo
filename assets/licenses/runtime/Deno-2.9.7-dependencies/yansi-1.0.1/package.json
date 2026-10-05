@@ -1,0 +1,15 @@
+{
+  "name": "yansi",
+  "version": "1.0.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Sergio Benitez <sb@sergio.bz>"
+  ],
+  "repository": "https://github.com/SergioBenitez/yansi",
+  "source": "https://static.crates.io/crates/yansi/yansi-1.0.1.crate",
+  "sha256": "cfe53a6657fd280eaa890a3bc59152892ffa3e30101319d168b781ed6529b049",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "base16ct",
+  "version": "0.2.0",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/formats/tree/master/base16ct",
+  "source": "https://static.crates.io/crates/base16ct/base16ct-0.2.0.crate",
+  "sha256": "4c7f02d4ea65f2c1853089ffd8d2787bdbc63de2f0d29dedbcf8ccdfa0ccd4cf",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

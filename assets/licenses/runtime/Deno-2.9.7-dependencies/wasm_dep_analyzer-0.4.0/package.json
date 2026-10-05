@@ -1,0 +1,14 @@
+{
+  "name": "wasm_dep_analyzer",
+  "version": "0.4.0",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/wasm_dep_analyzer",
+  "source": "https://static.crates.io/crates/wasm_dep_analyzer/wasm_dep_analyzer-0.4.0.crate",
+  "sha256": "a10e6b67c951a84de7029487e0e0a496860dae49f6699edd279d5ff35b8fbf54",
+  "files": [
+    "LICENSE"
+  ]
+}

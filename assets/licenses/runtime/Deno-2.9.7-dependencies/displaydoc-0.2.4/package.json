@@ -1,0 +1,15 @@
+{
+  "name": "displaydoc",
+  "version": "0.2.4",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Jane Lusby <jlusby@yaah.dev>"
+  ],
+  "repository": "https://github.com/yaahc/displaydoc",
+  "source": "https://static.crates.io/crates/displaydoc/displaydoc-0.2.4.crate",
+  "sha256": "487585f4d0c6655fe74905e2504d8ad6908e4db67f744eb140876906c2f3175d",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

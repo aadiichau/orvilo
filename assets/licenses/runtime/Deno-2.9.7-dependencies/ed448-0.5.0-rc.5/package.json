@@ -1,0 +1,15 @@
+{
+  "name": "ed448",
+  "version": "0.5.0-rc.5",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/signatures",
+  "source": "https://static.crates.io/crates/ed448/ed448-0.5.0-rc.5.crate",
+  "sha256": "8a6517ef61d12c57c218393995d2ee5ab2dac4c27501d24f7595590e097985c9",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

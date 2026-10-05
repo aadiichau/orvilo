@@ -1,0 +1,15 @@
+{
+  "name": "path-clean",
+  "version": "0.1.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Dan Reeves <hey@danreev.es>"
+  ],
+  "repository": "https://github.com/danreeves/path-clean",
+  "source": "https://static.crates.io/crates/path-clean/path-clean-0.1.0.crate",
+  "sha256": "ecba01bf2678719532c5e3059e0b5f0811273d94b397088b82e3bd0a78c78fdd",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

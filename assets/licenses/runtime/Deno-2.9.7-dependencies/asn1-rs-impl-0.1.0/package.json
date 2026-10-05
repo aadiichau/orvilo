@@ -1,0 +1,23 @@
+{
+  "name": "asn1-rs-impl",
+  "version": "0.1.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Pierre Chifflier <chifflier@wzdftpd.net>"
+  ],
+  "repository": "https://github.com/rusticata/asn1-rs.git",
+  "source": "https://static.crates.io/crates/asn1-rs-impl/asn1-rs-impl-0.1.0.crate",
+  "sha256": "2777730b2039ac0f95f093556e61b6d26cebed5393ca6f152717777cec3a42ed",
+  "files": [],
+  "upstream_commit": "78620ca0954d44ddc57d0280d0072dfbd8566de4",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE-MIT",
+      "source": "https://raw.githubusercontent.com/rusticata/asn1-rs/78620ca0954d44ddc57d0280d0072dfbd8566de4/LICENSE-MIT"
+    },
+    {
+      "file": "upstream-LICENSE-APACHE",
+      "source": "https://raw.githubusercontent.com/rusticata/asn1-rs/78620ca0954d44ddc57d0280d0072dfbd8566de4/LICENSE-APACHE"
+    }
+  ]
+}

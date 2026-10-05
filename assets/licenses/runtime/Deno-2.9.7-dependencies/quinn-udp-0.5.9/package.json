@@ -1,0 +1,13 @@
+{
+  "name": "quinn-udp",
+  "version": "0.5.9",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/quinn-rs/quinn",
+  "source": "https://static.crates.io/crates/quinn-udp/quinn-udp-0.5.9.crate",
+  "sha256": "1c40286217b4ba3a71d644d752e6a0b71f13f1b6a2c5311acfcbe0c2418ed904",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

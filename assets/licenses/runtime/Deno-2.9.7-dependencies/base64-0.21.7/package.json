@@ -1,0 +1,16 @@
+{
+  "name": "base64",
+  "version": "0.21.7",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Alice Maz <alice@alicemaz.com>",
+    "Marshall Pierce <marshall@mpierce.org>"
+  ],
+  "repository": "https://github.com/marshallpierce/rust-base64",
+  "source": "https://static.crates.io/crates/base64/base64-0.21.7.crate",
+  "sha256": "9d297deb1925b89f2ccc13d7635fa0714f12c87adce1c75356b39ca9b7178567",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

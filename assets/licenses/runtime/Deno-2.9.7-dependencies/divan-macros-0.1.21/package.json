@@ -1,0 +1,15 @@
+{
+  "name": "divan-macros",
+  "version": "0.1.21",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Nikolai Vazquez"
+  ],
+  "repository": "https://github.com/nvzqz/divan",
+  "source": "https://static.crates.io/crates/divan-macros/divan-macros-0.1.21.crate",
+  "sha256": "9556bc800956545d6420a640173e5ba7dfa82f38d3ea5a167eb555bc69ac3323",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

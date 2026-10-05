@@ -1,0 +1,15 @@
+{
+  "name": "windows_x86_64_gnullvm",
+  "version": "0.48.5",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Microsoft"
+  ],
+  "repository": "https://github.com/microsoft/windows-rs",
+  "source": "https://static.crates.io/crates/windows_x86_64_gnullvm/windows_x86_64_gnullvm-0.48.5.crate",
+  "sha256": "0b7b52767868a23d5bab768e390dc5f5c55825b6d30b86c844ff2dc7414044cc",
+  "files": [
+    "license-apache-2.0",
+    "license-mit"
+  ]
+}

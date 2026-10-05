@@ -1,0 +1,17 @@
+{
+  "name": "linux-raw-sys",
+  "version": "0.12.1",
+  "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+  "authors": [
+    "Dan Gohman <dev@sunfishcode.online>"
+  ],
+  "repository": "https://github.com/sunfishcode/linux-raw-sys",
+  "source": "https://static.crates.io/crates/linux-raw-sys/linux-raw-sys-0.12.1.crate",
+  "sha256": "32a66949e030da00e8c7d4434b251670a91556f4144941d37452769c25d58a53",
+  "files": [
+    "COPYRIGHT",
+    "LICENSE-APACHE",
+    "LICENSE-Apache-2.0_WITH_LLVM-exception",
+    "LICENSE-MIT"
+  ]
+}

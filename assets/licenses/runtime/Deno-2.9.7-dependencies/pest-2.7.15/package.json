@@ -1,0 +1,15 @@
+{
+  "name": "pest",
+  "version": "2.7.15",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Drago\u0219 Tiselice <dragostiselice@gmail.com>"
+  ],
+  "repository": "https://github.com/pest-parser/pest",
+  "source": "https://static.crates.io/crates/pest/pest-2.7.15.crate",
+  "sha256": "8b7cafe60d6cf8e62e1b9b2ea516a089c008945bb5a275416789e7db0bc199dc",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

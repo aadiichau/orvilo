@@ -1,0 +1,12 @@
+{
+  "name": "outref",
+  "version": "0.5.1",
+  "license": "MIT",
+  "authors": [],
+  "repository": "https://github.com/Nugine/outref",
+  "source": "https://static.crates.io/crates/outref/outref-0.5.1.crate",
+  "sha256": "4030760ffd992bef45b0ae3f10ce1aba99e33464c90d14dd7c039884963ddc7a",
+  "files": [
+    "LICENSE"
+  ]
+}

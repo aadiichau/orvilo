@@ -1,0 +1,15 @@
+{
+  "name": "tagptr",
+  "version": "0.2.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Oliver Giersch"
+  ],
+  "repository": "https://github.com/oliver-giersch/tagptr.git",
+  "source": "https://static.crates.io/crates/tagptr/tagptr-0.2.0.crate",
+  "sha256": "7b2093cf4c8eb1e67749a6762251bc9cd836b6fc171623bd0a9d324d37af2417",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "plist",
+  "version": "1.9.0",
+  "license": "MIT",
+  "authors": [
+    "Ed Barnard <eabarnard@gmail.com>"
+  ],
+  "repository": "https://github.com/ebarnard/rust-plist/",
+  "source": "https://static.crates.io/crates/plist/plist-1.9.0.crate",
+  "sha256": "092791278e026273c1b65bbdcfbba3a300f2994c896bd01ab01da613c29c46f1",
+  "files": [
+    "LICENCE"
+  ]
+}

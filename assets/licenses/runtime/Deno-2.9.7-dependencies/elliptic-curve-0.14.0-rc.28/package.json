@@ -1,0 +1,15 @@
+{
+  "name": "elliptic-curve",
+  "version": "0.14.0-rc.28",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/traits",
+  "source": "https://static.crates.io/crates/elliptic-curve/elliptic-curve-0.14.0-rc.28.crate",
+  "sha256": "bde7860544606d222fd6bd6d9f9a0773321bf78072a637e1d560a058c0031978",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "gif",
+  "version": "0.13.1",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "The image-rs Developers"
+  ],
+  "repository": "https://github.com/image-rs/image-gif",
+  "source": "https://static.crates.io/crates/gif/gif-0.13.1.crate",
+  "sha256": "3fb2d69b19215e18bb912fa30f7ce15846e301408695e44e0ef719f1da9e19f2",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "generic-array",
+  "version": "0.14.7",
+  "license": "MIT",
+  "authors": [
+    "Bart\u0142omiej Kami\u0144ski <fizyk20@gmail.com>",
+    "Aaron Trent <novacrazy@gmail.com>"
+  ],
+  "repository": "https://github.com/fizyk20/generic-array.git",
+  "source": "https://static.crates.io/crates/generic-array/generic-array-0.14.7.crate",
+  "sha256": "85649ca51fd72272d7821adaf274ad91c288277713d9c18820d8499a7ff69e9a",
+  "files": [
+    "LICENSE"
+  ]
+}

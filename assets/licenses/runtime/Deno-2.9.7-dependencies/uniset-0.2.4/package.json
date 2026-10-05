@@ -1,0 +1,15 @@
+{
+  "name": "uniset",
+  "version": "0.2.4",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "John-John Tedro <udoprog@tedro.se>"
+  ],
+  "repository": "https://github.com/udoprog/uniset",
+  "source": "https://static.crates.io/crates/uniset/uniset-0.2.4.crate",
+  "sha256": "40789245bbff5f31eb773c9ac4ee5c4e15eab9640d975e124d6ce4c34a6410d7",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

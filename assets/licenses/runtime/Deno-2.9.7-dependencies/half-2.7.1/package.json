@@ -1,0 +1,15 @@
+{
+  "name": "half",
+  "version": "2.7.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Kathryn Long <squeeself@gmail.com>"
+  ],
+  "repository": "https://github.com/VoidStarKat/half-rs",
+  "source": "https://static.crates.io/crates/half/half-2.7.1.crate",
+  "sha256": "6ea2d84b969582b4b1864a92dc5d27cd2b77b622a8d79306834f1be5ba20d84b",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "leb128fmt",
+  "version": "0.1.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Bryant Luk <code@bryantluk.com>"
+  ],
+  "repository": "https://github.com/bluk/leb128fmt",
+  "source": "https://static.crates.io/crates/leb128fmt/leb128fmt-0.1.0.crate",
+  "sha256": "09edd9e8b54e49e587e4f6295a7d29c3ea94d469cb40ab8ca70b288248a81db2",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

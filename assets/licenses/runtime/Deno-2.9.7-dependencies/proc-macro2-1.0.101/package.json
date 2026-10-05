@@ -1,0 +1,16 @@
+{
+  "name": "proc-macro2",
+  "version": "1.0.101",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>",
+    "Alex Crichton <alex@alexcrichton.com>"
+  ],
+  "repository": "https://github.com/dtolnay/proc-macro2",
+  "source": "https://static.crates.io/crates/proc-macro2/proc-macro2-1.0.101.crate",
+  "sha256": "89ae43fd86e4158d6db51ad8e2b80f313af9cc74f5c0e03ccb87de09998732de",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

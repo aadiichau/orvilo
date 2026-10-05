@@ -1,0 +1,14 @@
+{
+  "name": "resb",
+  "version": "0.1.2",
+  "license": "Unicode-3.0",
+  "authors": [
+    "The ICU4X Project Developers"
+  ],
+  "repository": "https://github.com/unicode-org/icu4x",
+  "source": "https://static.crates.io/crates/resb/resb-0.1.2.crate",
+  "sha256": "22d392791f3c6802a1905a509e9d1a6039cbbcb5e9e00e5a6d3661f7c874f390",
+  "files": [
+    "LICENSE"
+  ]
+}

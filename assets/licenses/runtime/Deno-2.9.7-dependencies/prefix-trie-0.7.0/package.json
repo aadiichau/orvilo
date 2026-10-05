@@ -1,0 +1,13 @@
+{
+  "name": "prefix-trie",
+  "version": "0.7.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/tiborschneider/prefix-trie",
+  "source": "https://static.crates.io/crates/prefix-trie/prefix-trie-0.7.0.crate",
+  "sha256": "85cf4c7c25f1dd66c76b451e9041a8cfce26e4ca754934fa7aed8d5a59a01d20",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

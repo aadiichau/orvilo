@@ -1,0 +1,15 @@
+{
+  "name": "sec1",
+  "version": "0.8.0-rc.13",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/formats",
+  "source": "https://static.crates.io/crates/sec1/sec1-0.8.0-rc.13.crate",
+  "sha256": "7a2400ed44a13193820aa528a19f376c3843141a8ce96ff34b11104cc79763f2",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

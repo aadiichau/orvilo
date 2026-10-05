@@ -1,0 +1,15 @@
+{
+  "name": "arc-swap",
+  "version": "1.7.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Michal 'vorner' Vaner <vorner@vorner.cz>"
+  ],
+  "repository": "https://github.com/vorner/arc-swap",
+  "source": "https://static.crates.io/crates/arc-swap/arc-swap-1.7.1.crate",
+  "sha256": "69f7f8c3906b62b754cd5326047894316021dcfe5a194c8ea52bdd94934a3457",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

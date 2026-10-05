@@ -1,0 +1,16 @@
+{
+  "name": "criterion",
+  "version": "0.5.1",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "Jorge Aparicio <japaricious@gmail.com>",
+    "Brook Heisler <brookheisler@gmail.com>"
+  ],
+  "repository": "https://github.com/bheisler/criterion.rs",
+  "source": "https://static.crates.io/crates/criterion/criterion-0.5.1.crate",
+  "sha256": "f2b12d017a929603d80db1831cd3a24082f8137ce19c69e6447f54f5fc8d692f",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

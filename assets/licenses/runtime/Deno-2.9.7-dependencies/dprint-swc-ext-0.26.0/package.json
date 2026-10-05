@@ -1,0 +1,19 @@
+{
+  "name": "dprint-swc-ext",
+  "version": "0.26.0",
+  "license": "MIT",
+  "authors": [
+    "David Sherret <dsherret@gmail.com>"
+  ],
+  "repository": "https://github.com/dprint/dprint-swc-ext",
+  "source": "https://static.crates.io/crates/dprint-swc-ext/dprint-swc-ext-0.26.0.crate",
+  "sha256": "33175ddb7a6d418589cab2966bd14a710b3b1139459d3d5ca9edf783c4833f4c",
+  "files": [],
+  "upstream_commit": "c4c2cb80beb0e37f466f8e0b9f89d508bea719c2",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/dprint/dprint-swc-ext/c4c2cb80beb0e37f466f8e0b9f89d508bea719c2/LICENSE"
+    }
+  ]
+}

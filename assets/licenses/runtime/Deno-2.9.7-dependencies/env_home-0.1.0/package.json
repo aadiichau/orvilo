@@ -1,0 +1,15 @@
+{
+  "name": "env_home",
+  "version": "0.1.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Peter Tripp <peter.tripp@gmail.com>"
+  ],
+  "repository": "https://github.com/notpeter/env-home",
+  "source": "https://static.crates.io/crates/env_home/env_home-0.1.0.crate",
+  "sha256": "c7f84e12ccf0a7ddc17a6c41c93326024c42920d7ee630d04950e6926645c0fe",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

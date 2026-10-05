@@ -1,0 +1,15 @@
+{
+  "name": "mime",
+  "version": "0.3.17",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Sean McArthur <sean@seanmonstar.com>"
+  ],
+  "repository": "https://github.com/hyperium/mime",
+  "source": "https://static.crates.io/crates/mime/mime-0.3.17.crate",
+  "sha256": "6877bb514081ee2a7ff5ef9de3281f14a4dd4bceac4c09388074a6b5df8a139a",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

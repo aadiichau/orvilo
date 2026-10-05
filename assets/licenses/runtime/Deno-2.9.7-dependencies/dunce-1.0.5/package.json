@@ -1,0 +1,14 @@
+{
+  "name": "dunce",
+  "version": "1.0.5",
+  "license": "CC0-1.0 OR MIT-0 OR Apache-2.0",
+  "authors": [
+    "Kornel <kornel@geekhood.net>"
+  ],
+  "repository": "https://gitlab.com/kornelski/dunce",
+  "source": "https://static.crates.io/crates/dunce/dunce-1.0.5.crate",
+  "sha256": "92773504d58c093f6de2459af4af33faa518c13451eb8f2b5698ed3d36e7c813",
+  "files": [
+    "LICENSE"
+  ]
+}

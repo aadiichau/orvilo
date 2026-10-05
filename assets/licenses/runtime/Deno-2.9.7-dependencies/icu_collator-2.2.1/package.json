@@ -1,0 +1,14 @@
+{
+  "name": "icu_collator",
+  "version": "2.2.1",
+  "license": "Unicode-3.0",
+  "authors": [
+    "The ICU4X Project Developers"
+  ],
+  "repository": "https://github.com/unicode-org/icu4x",
+  "source": "https://static.crates.io/crates/icu_collator/icu_collator-2.2.1.crate",
+  "sha256": "8bbdf98e5e0aa827770acee171ebb568aaab975a36b56afdb5fd0e2f525750bb",
+  "files": [
+    "LICENSE"
+  ]
+}

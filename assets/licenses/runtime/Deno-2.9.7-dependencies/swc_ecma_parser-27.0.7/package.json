@@ -1,0 +1,14 @@
+{
+  "name": "swc_ecma_parser",
+  "version": "27.0.7",
+  "license": "Apache-2.0",
+  "authors": [
+    "\uac15\ub3d9\uc724 <kdy1997.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/swc-project/swc.git",
+  "source": "https://static.crates.io/crates/swc_ecma_parser/swc_ecma_parser-27.0.7.crate",
+  "sha256": "7f1a51af1a92cd4904c073b293e491bbc0918400a45d58227b34c961dd6f52d7",
+  "files": [],
+  "upstream_commit": "b229ffef05bc3906a1badd9857bcd2b2298481af",
+  "supplemental_notices": []
+}

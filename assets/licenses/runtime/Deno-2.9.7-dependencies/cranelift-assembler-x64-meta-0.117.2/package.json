@@ -1,0 +1,10 @@
+{
+  "name": "cranelift-assembler-x64-meta",
+  "version": "0.117.2",
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "authors": [],
+  "repository": null,
+  "source": "https://static.crates.io/crates/cranelift-assembler-x64-meta/cranelift-assembler-x64-meta-0.117.2.crate",
+  "sha256": "c7496a6e92b5cee48c5d772b0443df58816dee30fed6ba19b2a28e78037ecedf",
+  "files": []
+}

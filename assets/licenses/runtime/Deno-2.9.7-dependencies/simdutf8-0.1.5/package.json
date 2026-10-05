@@ -1,0 +1,15 @@
+{
+  "name": "simdutf8",
+  "version": "0.1.5",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Hans Kratz <hans@appfour.com>"
+  ],
+  "repository": "https://github.com/rusticstuff/simdutf8",
+  "source": "https://static.crates.io/crates/simdutf8/simdutf8-0.1.5.crate",
+  "sha256": "e3a9fe34e3e7a50316060351f37187a3f546bce95496156754b601a5fa71b76e",
+  "files": [
+    "LICENSE-Apache",
+    "LICENSE-MIT"
+  ]
+}

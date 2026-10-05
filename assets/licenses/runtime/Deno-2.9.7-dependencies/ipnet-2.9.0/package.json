@@ -1,0 +1,15 @@
+{
+  "name": "ipnet",
+  "version": "2.9.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Kris Price <kris@krisprice.nz>"
+  ],
+  "repository": "https://github.com/krisprice/ipnet",
+  "source": "https://static.crates.io/crates/ipnet/ipnet-2.9.0.crate",
+  "sha256": "8f518f335dce6725a761382244631d86cf0ccb2863413590b31338feb467f9c3",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

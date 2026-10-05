@@ -1,0 +1,18 @@
+{
+  "name": "ron",
+  "version": "0.12.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Christopher Durham <cad97@cad97.com>",
+    "Dzmitry Malyshau <kvarkus@gmail.com>",
+    "Thomas Schaller <torkleyy@gmail.com>",
+    "Juniper Tyree <juniper.tyree@helsinki.fi>"
+  ],
+  "repository": "https://github.com/ron-rs/ron",
+  "source": "https://static.crates.io/crates/ron/ron-0.12.0.crate",
+  "sha256": "fd490c5b18261893f14449cbd28cb9c0b637aebf161cd77900bfdedaff21ec32",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

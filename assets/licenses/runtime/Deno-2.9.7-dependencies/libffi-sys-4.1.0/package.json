@@ -1,0 +1,15 @@
+{
+  "name": "libffi-sys",
+  "version": "4.1.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Jesse A. Tov <jesse.tov@gmail.com>"
+  ],
+  "repository": "https://github.com/libffi-rs/libffi-rs",
+  "source": "https://static.crates.io/crates/libffi-sys/libffi-sys-4.1.0.crate",
+  "sha256": "71d4f1d4ce15091955144350b75db16a96d4a63728500122706fb4d29a26afbb",
+  "files": [
+    "libffi_LICENSE",
+    "libffi_LICENSE-BUILDTOOLS"
+  ]
+}

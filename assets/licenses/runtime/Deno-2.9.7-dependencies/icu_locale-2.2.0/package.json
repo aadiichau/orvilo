@@ -1,0 +1,14 @@
+{
+  "name": "icu_locale",
+  "version": "2.2.0",
+  "license": "Unicode-3.0",
+  "authors": [
+    "The ICU4X Project Developers"
+  ],
+  "repository": "https://github.com/unicode-org/icu4x",
+  "source": "https://static.crates.io/crates/icu_locale/icu_locale-2.2.0.crate",
+  "sha256": "d5a396343c7208121dc86e35623d3dfe19814a7613cfd14964994cdc9c9a2e26",
+  "files": [
+    "LICENSE"
+  ]
+}

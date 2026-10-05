@@ -1,0 +1,16 @@
+{
+  "name": "zerocopy-derive",
+  "version": "0.7.32",
+  "license": "BSD-2-Clause OR Apache-2.0 OR MIT",
+  "authors": [
+    "Joshua Liebow-Feeser <joshlf@google.com>"
+  ],
+  "repository": "https://github.com/google/zerocopy",
+  "source": "https://static.crates.io/crates/zerocopy-derive/zerocopy-derive-0.7.32.crate",
+  "sha256": "9ce1b18ccd8e73a9321186f97e46f9f04b778851177567b1975109d26a08d2a6",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-BSD",
+    "LICENSE-MIT"
+  ]
+}

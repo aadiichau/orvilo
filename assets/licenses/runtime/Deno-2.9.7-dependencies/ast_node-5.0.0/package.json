@@ -1,0 +1,14 @@
+{
+  "name": "ast_node",
+  "version": "5.0.0",
+  "license": "Apache-2.0",
+  "authors": [
+    "\uac15\ub3d9\uc724 <kdy1997.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/swc-project/swc.git",
+  "source": "https://static.crates.io/crates/ast_node/ast_node-5.0.0.crate",
+  "sha256": "2eb025ef00a6da925cf40870b9c8d008526b6004ece399cb0974209720f0b194",
+  "files": [],
+  "upstream_commit": "00ec64fe9a4da0973f14721d7b6dc1f13cd75413",
+  "supplemental_notices": []
+}

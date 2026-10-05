@@ -1,0 +1,14 @@
+{
+  "name": "tokio-stream",
+  "version": "0.1.16",
+  "license": "MIT",
+  "authors": [
+    "Tokio Contributors <team@tokio.rs>"
+  ],
+  "repository": "https://github.com/tokio-rs/tokio",
+  "source": "https://static.crates.io/crates/tokio-stream/tokio-stream-0.1.16.crate",
+  "sha256": "4f4e6ce100d0eb49a2734f8c0812bcd324cf357d21810932c5df6b96ef2b86f1",
+  "files": [
+    "LICENSE"
+  ]
+}

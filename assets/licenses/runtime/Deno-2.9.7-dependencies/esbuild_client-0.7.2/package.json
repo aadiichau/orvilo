@@ -1,0 +1,12 @@
+{
+  "name": "esbuild_client",
+  "version": "0.7.2",
+  "license": "MIT",
+  "authors": [],
+  "repository": "https://github.com/denoland/esbuild_client",
+  "source": "https://static.crates.io/crates/esbuild_client/esbuild_client-0.7.2.crate",
+  "sha256": "4aad340fec9a377656190d6fbf205d589c322484c6a1d37ebbf328fe6f541720",
+  "files": [
+    "LICENSE"
+  ]
+}

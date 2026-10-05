@@ -1,0 +1,15 @@
+{
+  "name": "parking_lot_core",
+  "version": "0.9.9",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Amanieu d'Antras <amanieu@gmail.com>"
+  ],
+  "repository": "https://github.com/Amanieu/parking_lot",
+  "source": "https://static.crates.io/crates/parking_lot_core/parking_lot_core-0.9.9.crate",
+  "sha256": "4c42a9226546d68acdd9c0a280d17ce19bfe27a46bf68784e4066115788d008e",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

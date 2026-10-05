@@ -1,0 +1,13 @@
+{
+  "name": "anstyle-wincon",
+  "version": "3.0.2",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/rust-cli/anstyle.git",
+  "source": "https://static.crates.io/crates/anstyle-wincon/anstyle-wincon-3.0.2.crate",
+  "sha256": "1cd54b81ec8d6180e24654d0b371ad22fc3dd083b6ff8ba325b72e00c87660a7",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

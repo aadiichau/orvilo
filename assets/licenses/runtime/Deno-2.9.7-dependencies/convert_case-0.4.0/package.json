@@ -1,0 +1,14 @@
+{
+  "name": "convert_case",
+  "version": "0.4.0",
+  "license": "MIT",
+  "authors": [
+    "David Purdum <purdum41@gmail.com>"
+  ],
+  "repository": "https://github.com/rutrum/convert-case",
+  "source": "https://static.crates.io/crates/convert_case/convert_case-0.4.0.crate",
+  "sha256": "6245d59a3e82a7fc217c5828a6692dbc6dfb63a0c8c90495621f7b9d79704a0e",
+  "files": [],
+  "upstream_commit": "300d9eef9e8c970e15f324afbc3df8b6a4ebbf71",
+  "supplemental_notices": []
+}

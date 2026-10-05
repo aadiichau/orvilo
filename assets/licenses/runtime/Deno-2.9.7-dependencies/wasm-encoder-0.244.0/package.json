@@ -1,0 +1,23 @@
+{
+  "name": "wasm-encoder",
+  "version": "0.244.0",
+  "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+  "authors": [
+    "Nick Fitzgerald <fitzgen@gmail.com>"
+  ],
+  "repository": "https://github.com/bytecodealliance/wasm-tools/tree/main/crates/wasm-encoder",
+  "source": "https://static.crates.io/crates/wasm-encoder/wasm-encoder-0.244.0.crate",
+  "sha256": "990065f2fe63003fe337b932cfb5e3b80e0b4d0f5ff650e6985b1048f62c8319",
+  "files": [],
+  "upstream_commit": "d4e317f22c3bace76cb3205003bcc34b4929037d",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE-MIT",
+      "source": "https://raw.githubusercontent.com/bytecodealliance/wasm-tools/d4e317f22c3bace76cb3205003bcc34b4929037d/LICENSE-MIT"
+    },
+    {
+      "file": "upstream-LICENSE-APACHE",
+      "source": "https://raw.githubusercontent.com/bytecodealliance/wasm-tools/d4e317f22c3bace76cb3205003bcc34b4929037d/LICENSE-APACHE"
+    }
+  ]
+}

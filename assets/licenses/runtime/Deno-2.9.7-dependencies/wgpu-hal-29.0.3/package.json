@@ -1,0 +1,15 @@
+{
+  "name": "wgpu-hal",
+  "version": "29.0.3",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "gfx-rs developers"
+  ],
+  "repository": "https://github.com/gfx-rs/wgpu",
+  "source": "https://static.crates.io/crates/wgpu-hal/wgpu-hal-29.0.3.crate",
+  "sha256": "31f8e1a9e7a8512f276f7c62e018c7fa8d60954303fed2e5750114332049193f",
+  "files": [
+    "LICENSE.APACHE",
+    "LICENSE.MIT"
+  ]
+}

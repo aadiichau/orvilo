@@ -1,0 +1,14 @@
+{
+  "name": "phf_generator",
+  "version": "0.11.2",
+  "license": "MIT",
+  "authors": [
+    "Steven Fackler <sfackler@gmail.com>"
+  ],
+  "repository": "https://github.com/rust-phf/rust-phf",
+  "source": "https://static.crates.io/crates/phf_generator/phf_generator-0.11.2.crate",
+  "sha256": "48e4cc64c2ad9ebe670cb8fd69dd50ae301650392e81c05f9bfcb2d5bdbc24b0",
+  "files": [
+    "LICENSE"
+  ]
+}

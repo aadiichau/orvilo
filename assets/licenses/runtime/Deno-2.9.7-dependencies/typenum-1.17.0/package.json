@@ -1,0 +1,17 @@
+{
+  "name": "typenum",
+  "version": "1.17.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Paho Lurie-Gregg <paho@paholg.com>",
+    "Andre Bogus <bogusandre@gmail.com>"
+  ],
+  "repository": "https://github.com/paholg/typenum",
+  "source": "https://static.crates.io/crates/typenum/typenum-1.17.0.crate",
+  "sha256": "42ff0bf0c66b8238c6f3b578df37d0b7848e55df8577b3f74f92a69acceeb825",
+  "files": [
+    "LICENSE",
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

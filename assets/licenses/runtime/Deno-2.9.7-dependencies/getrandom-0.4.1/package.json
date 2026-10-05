@@ -1,0 +1,15 @@
+{
+  "name": "getrandom",
+  "version": "0.4.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The Rand Project Developers"
+  ],
+  "repository": "https://github.com/rust-random/getrandom",
+  "source": "https://static.crates.io/crates/getrandom/getrandom-0.4.1.crate",
+  "sha256": "139ef39800118c7683f2fd3c98c1b23c09ae076556b435f8e9064ae108aaeeec",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

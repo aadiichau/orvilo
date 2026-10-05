@@ -1,0 +1,16 @@
+{
+  "name": "hdrhistogram",
+  "version": "7.5.4",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Jon Gjengset <jon@thesquareplanet.com>",
+    "Marshall Pierce <marshall@mpierce.org>"
+  ],
+  "repository": "https://github.com/HdrHistogram/HdrHistogram_rust.git",
+  "source": "https://static.crates.io/crates/hdrhistogram/hdrhistogram-7.5.4.crate",
+  "sha256": "765c9198f173dd59ce26ff9f95ef0aafd0a0fe01fb9d72841bc5066a4c06511d",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

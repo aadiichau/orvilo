@@ -1,0 +1,15 @@
+{
+  "name": "gpu-allocator",
+  "version": "0.28.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Traverse Research <opensource@traverseresearch.nl>"
+  ],
+  "repository": "https://github.com/Traverse-Research/gpu-allocator",
+  "source": "https://static.crates.io/crates/gpu-allocator/gpu-allocator-0.28.0.crate",
+  "sha256": "51255ea7cfaadb6c5f1528d43e92a82acb2b96c43365989a28b2d44ee38f8795",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

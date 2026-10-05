@@ -1,0 +1,17 @@
+{
+  "name": "vsimd",
+  "version": "0.8.0",
+  "license": "MIT",
+  "authors": [],
+  "repository": "https://github.com/Nugine/simd",
+  "source": "https://static.crates.io/crates/vsimd/vsimd-0.8.0.crate",
+  "sha256": "5c3082ca00d5a5ef149bb8b555a72ae84c9c59f7250f013ac822ac2e49b19c64",
+  "files": [],
+  "upstream_commit": "d74c030d9dc4f3cae02146d1f497ff62726ef09a",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/Nugine/simd/d74c030d9dc4f3cae02146d1f497ff62726ef09a/LICENSE"
+    }
+  ]
+}

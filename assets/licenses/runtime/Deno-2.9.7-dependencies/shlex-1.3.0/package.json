@@ -1,0 +1,20 @@
+{
+  "name": "shlex",
+  "version": "1.3.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "comex <comexk@gmail.com>",
+    "Fenhl <fenhl@fenhl.net>",
+    "Adrian Taylor <adetaylor@chromium.org>",
+    "Alex Touchet <alextouchet@outlook.com>",
+    "Daniel Parks <dp+git@oxidized.org>",
+    "Garrett Berg <googberg@gmail.com>"
+  ],
+  "repository": "https://github.com/comex/rust-shlex",
+  "source": "https://static.crates.io/crates/shlex/shlex-1.3.0.crate",
+  "sha256": "0fda2ff0d084019ba4d7c6f371c95d8fd75ce3524c3cb8fb653a3023f6323e64",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

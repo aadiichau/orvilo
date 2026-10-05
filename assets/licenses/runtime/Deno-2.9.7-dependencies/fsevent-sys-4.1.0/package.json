@@ -1,0 +1,14 @@
+{
+  "name": "fsevent-sys",
+  "version": "4.1.0",
+  "license": "MIT",
+  "authors": [
+    "Pierre Baillet <pierre@baillet.name>"
+  ],
+  "repository": "https://github.com/octplane/fsevent-rust/tree/master/fsevent-sys",
+  "source": "https://static.crates.io/crates/fsevent-sys/fsevent-sys-4.1.0.crate",
+  "sha256": "76ee7a02da4d231650c7cea31349b889be2f45ddb3ef3032d2ec8185f6313fd2",
+  "files": [
+    "LICENSE"
+  ]
+}

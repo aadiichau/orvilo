@@ -1,0 +1,15 @@
+{
+  "name": "deunicode",
+  "version": "1.4.3",
+  "license": "BSD-3-Clause",
+  "authors": [
+    "Kornel Lesinski <kornel@geekhood.net>",
+    "Amit Chowdhury <amitc97@gmail.com>"
+  ],
+  "repository": "https://github.com/kornelski/deunicode/",
+  "source": "https://static.crates.io/crates/deunicode/deunicode-1.4.3.crate",
+  "sha256": "b6e854126756c496b8c81dec88f9a706b15b875c5849d4097a3854476b9fdf94",
+  "files": [
+    "LICENSE"
+  ]
+}

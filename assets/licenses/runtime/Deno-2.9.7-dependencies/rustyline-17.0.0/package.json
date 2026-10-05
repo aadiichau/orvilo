@@ -1,0 +1,14 @@
+{
+  "name": "rustyline",
+  "version": "17.0.0",
+  "license": "MIT",
+  "authors": [
+    "Katsu Kawakami <kkawa1570@gmail.com>"
+  ],
+  "repository": "https://github.com/kkawakam/rustyline",
+  "source": "https://static.crates.io/crates/rustyline/rustyline-17.0.0.crate",
+  "sha256": "ed34fbd08950d17f8297e738d5b76acd4baab50c8d45008d498b4327feb43ea1",
+  "files": [
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "objc2-quartz-core",
+  "version": "0.3.2",
+  "license": "Zlib OR Apache-2.0 OR MIT",
+  "authors": [],
+  "repository": "https://github.com/madsmtm/objc2",
+  "source": "https://static.crates.io/crates/objc2-quartz-core/objc2-quartz-core-0.3.2.crate",
+  "sha256": "96c1358452b371bf9f104e21ec536d37a650eb10f7ee379fff67d2e08d537f1f",
+  "files": [],
+  "upstream_commit": "7b1abfd750a2cacaea71d6a56ecfb83cb7de560b",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE.md",
+      "source": "https://raw.githubusercontent.com/madsmtm/objc2/7b1abfd750a2cacaea71d6a56ecfb83cb7de560b/LICENSE.md"
+    }
+  ]
+}

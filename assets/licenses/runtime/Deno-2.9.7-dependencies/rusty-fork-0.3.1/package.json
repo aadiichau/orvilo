@@ -1,0 +1,15 @@
+{
+  "name": "rusty-fork",
+  "version": "0.3.1",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Jason Lingle"
+  ],
+  "repository": "https://github.com/altsysrq/rusty-fork",
+  "source": "https://static.crates.io/crates/rusty-fork/rusty-fork-0.3.1.crate",
+  "sha256": "cc6bf79ff24e648f6da1f8d1f011e9cac26491b619e6b9280f2b47f1774e6ee2",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "cranelift-bforest",
+  "version": "0.117.2",
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "authors": [
+    "The Cranelift Project Developers"
+  ],
+  "repository": "https://github.com/bytecodealliance/wasmtime",
+  "source": "https://static.crates.io/crates/cranelift-bforest/cranelift-bforest-0.117.2.crate",
+  "sha256": "73a9dc0a8d3d49ee772101924968830f1c1937d650c571d3c2dd69dc36a68f41",
+  "files": [
+    "LICENSE"
+  ]
+}

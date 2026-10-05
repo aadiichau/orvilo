@@ -1,0 +1,17 @@
+{
+  "name": "capacity_builder_macros",
+  "version": "0.3.0",
+  "license": "MIT",
+  "authors": [],
+  "repository": "https://github.com/dsherret/capacity_builder",
+  "source": "https://static.crates.io/crates/capacity_builder_macros/capacity_builder_macros-0.3.0.crate",
+  "sha256": "3b4a6cae9efc04cc6cbb8faf338d2c497c165c83e74509cf4dbedea948bbf6e5",
+  "files": [],
+  "upstream_commit": "61370ade72f9ed5e3f40fb261f92057c3486ed83",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/dsherret/capacity_builder/61370ade72f9ed5e3f40fb261f92057c3486ed83/LICENSE"
+    }
+  ]
+}

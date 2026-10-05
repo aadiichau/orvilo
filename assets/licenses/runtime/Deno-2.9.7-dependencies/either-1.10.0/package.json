@@ -1,0 +1,15 @@
+{
+  "name": "either",
+  "version": "1.10.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "bluss"
+  ],
+  "repository": "https://github.com/rayon-rs/either",
+  "source": "https://static.crates.io/crates/either/either-1.10.0.crate",
+  "sha256": "11157ac094ffbdde99aa67b23417ebdd801842852b500e395a45a9c0aac03e4a",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

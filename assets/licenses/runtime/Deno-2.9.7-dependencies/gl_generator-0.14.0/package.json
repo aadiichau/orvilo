@@ -1,0 +1,21 @@
+{
+  "name": "gl_generator",
+  "version": "0.14.0",
+  "license": "Apache-2.0",
+  "authors": [
+    "Brendan Zabarauskas <bjzaba@yahoo.com.au>",
+    "Corey Richardson",
+    "Arseny Kapoulkine"
+  ],
+  "repository": "https://github.com/brendanzab/gl-rs/",
+  "source": "https://static.crates.io/crates/gl_generator/gl_generator-0.14.0.crate",
+  "sha256": "1a95dfc23a2b4a9a2f5ab41d194f8bfda3cabec42af4e39f08c339eb2a0c124d",
+  "files": [],
+  "upstream_commit": "ea503e8d5fb6d73c6030e6191ce738cd3bf3433e",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/brendanzab/gl-rs/ea503e8d5fb6d73c6030e6191ce738cd3bf3433e/LICENSE"
+    }
+  ]
+}

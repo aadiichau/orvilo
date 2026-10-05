@@ -1,0 +1,15 @@
+{
+  "name": "thiserror",
+  "version": "2.0.12",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>"
+  ],
+  "repository": "https://github.com/dtolnay/thiserror",
+  "source": "https://static.crates.io/crates/thiserror/thiserror-2.0.12.crate",
+  "sha256": "567b8a2dae586314f7be2a752ec7474332959c6460e02bde30d702a66d488708",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

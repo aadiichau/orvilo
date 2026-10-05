@@ -1,0 +1,15 @@
+{
+  "name": "fd-lock",
+  "version": "4.0.2",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Yoshua Wuyts <yoshuawuyts@gmail.com>"
+  ],
+  "repository": "https://github.com/yoshuawuyts/fd-lock",
+  "source": "https://static.crates.io/crates/fd-lock/fd-lock-4.0.2.crate",
+  "sha256": "7e5768da2206272c81ef0b5e951a41862938a6070da63bcea197899942d3b947",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

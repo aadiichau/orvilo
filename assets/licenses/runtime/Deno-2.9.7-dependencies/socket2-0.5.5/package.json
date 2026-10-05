@@ -1,0 +1,16 @@
+{
+  "name": "socket2",
+  "version": "0.5.5",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Alex Crichton <alex@alexcrichton.com>",
+    "Thomas de Zeeuw <thomasdezeeuw@gmail.com>"
+  ],
+  "repository": "https://github.com/rust-lang/socket2",
+  "source": "https://static.crates.io/crates/socket2/socket2-0.5.5.crate",
+  "sha256": "7b5fac59a5cb5dd637972e5fca70daf0523c9067fcdc4842f053dae04a18f8e9",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

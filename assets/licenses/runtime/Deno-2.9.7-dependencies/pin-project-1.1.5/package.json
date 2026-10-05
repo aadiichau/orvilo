@@ -1,0 +1,13 @@
+{
+  "name": "pin-project",
+  "version": "1.1.5",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [],
+  "repository": "https://github.com/taiki-e/pin-project",
+  "source": "https://static.crates.io/crates/pin-project/pin-project-1.1.5.crate",
+  "sha256": "b6bf43b791c5b9e34c3d182969b4abb522f9343702850a2e57f460d00d09b4b3",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

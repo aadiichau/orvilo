@@ -1,0 +1,19 @@
+{
+  "name": "cranelift-bitset",
+  "version": "0.117.2",
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "authors": [
+    "The Cranelift Project Developers"
+  ],
+  "repository": "https://github.com/bytecodealliance/wasmtime",
+  "source": "https://static.crates.io/crates/cranelift-bitset/cranelift-bitset-0.117.2.crate",
+  "sha256": "573c641174c40ef31021ae4a5a3ad78974e280633502d0dfc6e362385e0c100f",
+  "files": [],
+  "upstream_commit": "398694a59e24d37acde915086a9be308ec51f626",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/bytecodealliance/wasmtime/398694a59e24d37acde915086a9be308ec51f626/LICENSE"
+    }
+  ]
+}

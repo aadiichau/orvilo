@@ -1,0 +1,13 @@
+{
+  "name": "crossbeam-epoch",
+  "version": "0.9.18",
+  "license": "MIT OR Apache-2.0",
+  "authors": [],
+  "repository": "https://github.com/crossbeam-rs/crossbeam",
+  "source": "https://static.crates.io/crates/crossbeam-epoch/crossbeam-epoch-0.9.18.crate",
+  "sha256": "5b82ac4a3c2ca9c3460964f020e1402edd5753411d7737aa39c3714ad1b5420e",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

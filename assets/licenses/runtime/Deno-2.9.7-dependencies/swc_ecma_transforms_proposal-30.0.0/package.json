@@ -1,0 +1,14 @@
+{
+  "name": "swc_ecma_transforms_proposal",
+  "version": "30.0.0",
+  "license": "Apache-2.0",
+  "authors": [
+    "\uac15\ub3d9\uc724 <kdy1997.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/swc-project/swc.git",
+  "source": "https://static.crates.io/crates/swc_ecma_transforms_proposal/swc_ecma_transforms_proposal-30.0.0.crate",
+  "sha256": "c2d7748d4112c87ce1885260035e4a43cebfe7661a40174b7d77a0a04760a257",
+  "files": [],
+  "upstream_commit": "b294d6f6a47934b3baa04229d232f9e1889db1a5",
+  "supplemental_notices": []
+}

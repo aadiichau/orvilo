@@ -1,0 +1,14 @@
+{
+  "name": "file_test_runner",
+  "version": "0.12.1",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/file_test_runner",
+  "source": "https://static.crates.io/crates/file_test_runner/file_test_runner-0.12.1.crate",
+  "sha256": "aab2ea62262e650557af93e48bfb0ffbcf3b6d86af4b9fea1aa00f93821b69a9",
+  "files": [
+    "LICENSE"
+  ]
+}

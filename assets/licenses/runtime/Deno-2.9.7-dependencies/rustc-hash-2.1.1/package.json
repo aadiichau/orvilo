@@ -1,0 +1,15 @@
+{
+  "name": "rustc-hash",
+  "version": "2.1.1",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "The Rust Project Developers"
+  ],
+  "repository": "https://github.com/rust-lang/rustc-hash",
+  "source": "https://static.crates.io/crates/rustc-hash/rustc-hash-2.1.1.crate",
+  "sha256": "357703d41365b4b27c590e3ed91eabb1b663f07c4c084095e60cbed4362dff0d",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

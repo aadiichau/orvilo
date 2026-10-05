@@ -1,0 +1,17 @@
+{
+  "name": "parking",
+  "version": "2.2.1",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "Stjepan Glavina <stjepang@gmail.com>",
+    "The Rust Project Developers"
+  ],
+  "repository": "https://github.com/smol-rs/parking",
+  "source": "https://static.crates.io/crates/parking/parking-2.2.1.crate",
+  "sha256": "f38d5652c16fde515bb1ecef450ab0f6a219d619a7274976324d5e377f7dceba",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT",
+    "LICENSE-THIRD-PARTY"
+  ]
+}

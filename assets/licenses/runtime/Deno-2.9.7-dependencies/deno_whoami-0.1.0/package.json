@@ -1,0 +1,12 @@
+{
+  "name": "deno_whoami",
+  "version": "0.1.0",
+  "license": "MIT",
+  "authors": [],
+  "repository": null,
+  "source": "https://static.crates.io/crates/deno_whoami/deno_whoami-0.1.0.crate",
+  "sha256": "e75e4caa92b98a27f09c671d1399aee0f5970aa491b9a598523aac000a2192e3",
+  "files": [
+    "LICENSE"
+  ]
+}

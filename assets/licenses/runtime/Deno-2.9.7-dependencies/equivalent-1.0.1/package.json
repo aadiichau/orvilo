@@ -1,0 +1,13 @@
+{
+  "name": "equivalent",
+  "version": "1.0.1",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [],
+  "repository": "https://github.com/cuviper/equivalent",
+  "source": "https://static.crates.io/crates/equivalent/equivalent-1.0.1.crate",
+  "sha256": "5443807d6dff69373d433ab9ef5378ad8df50ca6298caf15de6e52e24aaf54d5",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

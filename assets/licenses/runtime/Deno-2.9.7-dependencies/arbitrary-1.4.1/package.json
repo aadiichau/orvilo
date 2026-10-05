@@ -1,0 +1,20 @@
+{
+  "name": "arbitrary",
+  "version": "1.4.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The Rust-Fuzz Project Developers",
+    "Nick Fitzgerald <fitzgen@gmail.com>",
+    "Manish Goregaokar <manishsmail@gmail.com>",
+    "Simonas Kazlauskas <arbitrary@kazlauskas.me>",
+    "Brian L. Troutwine <brian@troutwine.us>",
+    "Corey Farwell <coreyf@rwell.org>"
+  ],
+  "repository": "https://github.com/rust-fuzz/arbitrary/",
+  "source": "https://static.crates.io/crates/arbitrary/arbitrary-1.4.1.crate",
+  "sha256": "dde20b3d026af13f561bdd0f15edf01fc734f0dafcedbaf42bba506a9517f223",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

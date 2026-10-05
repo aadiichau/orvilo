@@ -1,0 +1,14 @@
+{
+  "name": "zerovec-derive",
+  "version": "0.10.3",
+  "license": "Unicode-3.0",
+  "authors": [
+    "Manish Goregaokar <manishsmail@gmail.com>"
+  ],
+  "repository": "https://github.com/unicode-org/icu4x",
+  "source": "https://static.crates.io/crates/zerovec-derive/zerovec-derive-0.10.3.crate",
+  "sha256": "6eafa6dfb17584ea3e2bd6e76e0cc15ad7af12b09abdd1ca55961bed9b1063c6",
+  "files": [
+    "LICENSE"
+  ]
+}

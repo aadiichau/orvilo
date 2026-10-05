@@ -1,0 +1,17 @@
+{
+  "name": "concurrent-queue",
+  "version": "2.5.0",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "Stjepan Glavina <stjepang@gmail.com>",
+    "Taiki Endo <te316e89@gmail.com>",
+    "John Nunley <dev@notgull.net>"
+  ],
+  "repository": "https://github.com/smol-rs/concurrent-queue",
+  "source": "https://static.crates.io/crates/concurrent-queue/concurrent-queue-2.5.0.crate",
+  "sha256": "4ca0197aee26d1ae37445ee532fefce43251d24cc7c166799f4d46817f1d3973",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "time-core",
+  "version": "0.1.8",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Jacob Pratt <open-source@jhpratt.dev>",
+    "Time contributors"
+  ],
+  "repository": "https://github.com/time-rs/time",
+  "source": "https://static.crates.io/crates/time-core/time-core-0.1.8.crate",
+  "sha256": "7694e1cfe791f8d31026952abf09c69ca6f6fa4e1a1229e18988f06a04a12dca",
+  "files": [
+    "LICENSE-Apache",
+    "LICENSE-MIT"
+  ]
+}

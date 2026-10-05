@@ -1,0 +1,16 @@
+{
+  "name": "regex",
+  "version": "1.12.2",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The Rust Project Developers",
+    "Andrew Gallant <jamslam@gmail.com>"
+  ],
+  "repository": "https://github.com/rust-lang/regex",
+  "source": "https://static.crates.io/crates/regex/regex-1.12.2.crate",
+  "sha256": "843bc0191f75f3e22651ae5f1e72939ab2f72a4bc30fa80a066bd66edefc24d4",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

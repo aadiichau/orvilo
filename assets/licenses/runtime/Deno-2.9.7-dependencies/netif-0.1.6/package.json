@@ -1,0 +1,12 @@
+{
+  "name": "netif",
+  "version": "0.1.6",
+  "license": "ISC",
+  "authors": [],
+  "repository": null,
+  "source": "https://static.crates.io/crates/netif/netif-0.1.6.crate",
+  "sha256": "d29a01b9f018d6b7b277fef6c79fdbd9bf17bb2d1e298238055cafab49baa5ee",
+  "files": [
+    "LICENSE"
+  ]
+}

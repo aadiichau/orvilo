@@ -1,0 +1,23 @@
+{
+  "name": "relative-path",
+  "version": "1.9.2",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "John-John Tedro <udoprog@tedro.se>"
+  ],
+  "repository": "https://github.com/udoprog/relative-path",
+  "source": "https://static.crates.io/crates/relative-path/relative-path-1.9.2.crate",
+  "sha256": "e898588f33fdd5b9420719948f9f2a32c922a246964576f71ba7f24f80610fbc",
+  "files": [],
+  "upstream_commit": "802227a5ffdbb1a2e87735602c91aa8d81eafe5d",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE-MIT",
+      "source": "https://raw.githubusercontent.com/udoprog/relative-path/802227a5ffdbb1a2e87735602c91aa8d81eafe5d/LICENSE-MIT"
+    },
+    {
+      "file": "upstream-LICENSE-APACHE",
+      "source": "https://raw.githubusercontent.com/udoprog/relative-path/802227a5ffdbb1a2e87735602c91aa8d81eafe5d/LICENSE-APACHE"
+    }
+  ]
+}

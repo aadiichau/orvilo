@@ -1,0 +1,14 @@
+{
+  "name": "deno_tunnel",
+  "version": "0.8.1",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/deno_tunnel",
+  "source": "https://static.crates.io/crates/deno_tunnel/deno_tunnel-0.8.1.crate",
+  "sha256": "e432929e0c167f2a003b963ee406c714fcd947a87d4f9edc7b3255e87be9881d",
+  "files": [],
+  "upstream_commit": "c0572b46beac220e105e69317ff9e207babc7f09",
+  "supplemental_notices": []
+}

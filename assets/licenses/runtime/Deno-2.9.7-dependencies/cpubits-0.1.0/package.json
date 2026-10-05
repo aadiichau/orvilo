@@ -1,0 +1,15 @@
+{
+  "name": "cpubits",
+  "version": "0.1.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/utils",
+  "source": "https://static.crates.io/crates/cpubits/cpubits-0.1.0.crate",
+  "sha256": "5ef0c543070d296ea414df2dd7625d1b24866ce206709d8a4a424f28377f5861",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

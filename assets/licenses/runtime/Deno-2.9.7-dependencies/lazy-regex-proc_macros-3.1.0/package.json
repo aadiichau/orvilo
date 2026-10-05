@@ -1,0 +1,12 @@
+{
+  "name": "lazy-regex-proc_macros",
+  "version": "3.1.0",
+  "license": "MIT",
+  "authors": [
+    "Canop <cano.petrole@gmail.com>"
+  ],
+  "repository": null,
+  "source": "https://static.crates.io/crates/lazy-regex-proc_macros/lazy-regex-proc_macros-3.1.0.crate",
+  "sha256": "44bcd58e6c97a7fcbaffcdc95728b393b8d98933bfadad49ed4097845b57ef0b",
+  "files": []
+}

@@ -1,0 +1,20 @@
+{
+  "name": "openssl-src",
+  "version": "300.5.0+3.5.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Alex Crichton <alex@alexcrichton.com>"
+  ],
+  "repository": "https://github.com/alexcrichton/openssl-src-rs",
+  "source": "https://static.crates.io/crates/openssl-src/openssl-src-300.5.0+3.5.0.crate",
+  "sha256": "e8ce546f549326b0e6052b649198487d91320875da901e7bd11a06d1ee3f9c2f",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT",
+    "openssl_LICENSE.txt",
+    "openssl_crypto_x509_v3_usernotice.c",
+    "openssl_external_perl_Text-Template-1.56_LICENSE",
+    "openssl_test_certs_ext-userNotice.pem",
+    "openssl_util_perl_OpenSSL_copyright.pm"
+  ]
+}

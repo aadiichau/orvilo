@@ -1,0 +1,15 @@
+{
+  "name": "fips205",
+  "version": "0.4.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Eric Schorn <eschorn@integritychain.com>"
+  ],
+  "repository": "https://github.com/integritychain/fips205",
+  "source": "https://static.crates.io/crates/fips205/fips205-0.4.1.crate",
+  "sha256": "2f5626bf5534df4ebdbd2536465d7eaa8a9dc2cdeb7e036e0ecf291dcc80ffb6",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

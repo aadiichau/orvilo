@@ -1,0 +1,14 @@
+{
+  "name": "dprint-plugin-json",
+  "version": "0.21.3",
+  "license": "MIT",
+  "authors": [
+    "David Sherret <dsherret@gmail.com>"
+  ],
+  "repository": "https://github.com/dprint/dprint-plugin-json",
+  "source": "https://static.crates.io/crates/dprint-plugin-json/dprint-plugin-json-0.21.3.crate",
+  "sha256": "a2fe735acd073034b25ca9868f49b5265ff01a831dff89a2302dbe70178ca1db",
+  "files": [
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "naga",
+  "version": "29.0.3",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "gfx-rs developers"
+  ],
+  "repository": "https://github.com/gfx-rs/wgpu",
+  "source": "https://static.crates.io/crates/naga/naga-29.0.3.crate",
+  "sha256": "0dd91265cc2454558f659b3b4b9640f0ddb8cc6521277f166b8a8c181c898079",
+  "files": [
+    "LICENSE.APACHE",
+    "LICENSE.MIT"
+  ]
+}

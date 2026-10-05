@@ -1,0 +1,15 @@
+{
+  "name": "rowan",
+  "version": "0.15.15",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Aleksey Kladov <aleksey.kladov@gmail.com>"
+  ],
+  "repository": "https://github.com/rust-analyzer/rowan",
+  "source": "https://static.crates.io/crates/rowan/rowan-0.15.15.crate",
+  "sha256": "32a58fa8a7ccff2aec4f39cc45bf5f985cec7125ab271cf681c279fd00192b49",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "paste",
+  "version": "1.0.15",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>"
+  ],
+  "repository": "https://github.com/dtolnay/paste",
+  "source": "https://static.crates.io/crates/paste/paste-1.0.15.crate",
+  "sha256": "57c0d7b74b563b49d38dae00a0c37d4d6de9b432382b2892f0574ddcae73fd0a",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

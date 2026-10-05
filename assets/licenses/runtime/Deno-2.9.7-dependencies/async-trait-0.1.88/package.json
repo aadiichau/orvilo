@@ -1,0 +1,15 @@
+{
+  "name": "async-trait",
+  "version": "0.1.88",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>"
+  ],
+  "repository": "https://github.com/dtolnay/async-trait",
+  "source": "https://static.crates.io/crates/async-trait/async-trait-0.1.88.crate",
+  "sha256": "e539d3fca749fcee5236ab05e93a52867dd549cc157c8cb7f99595f3cedffdb5",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

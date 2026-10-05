@@ -1,0 +1,15 @@
+{
+  "name": "foreign-types",
+  "version": "0.5.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Steven Fackler <sfackler@gmail.com>"
+  ],
+  "repository": "https://github.com/sfackler/foreign-types",
+  "source": "https://static.crates.io/crates/foreign-types/foreign-types-0.5.0.crate",
+  "sha256": "d737d9aa519fb7b749cbc3b962edcf310a8dd1f4b67c91c4f83975dbdd17d965",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

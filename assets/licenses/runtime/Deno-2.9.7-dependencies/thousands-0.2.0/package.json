@@ -1,0 +1,15 @@
+{
+  "name": "thousands",
+  "version": "0.2.0",
+  "license": "MIT/Apache-2.0",
+  "authors": [
+    "Jesse A. Tov <jesse.tov@gmail.com>"
+  ],
+  "repository": "https://github.com/tov/thousands-rs",
+  "source": "https://static.crates.io/crates/thousands/thousands-0.2.0.crate",
+  "sha256": "3bf63baf9f5039dadc247375c29eb13706706cfde997d0330d05aa63a77d8820",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "deno_semver",
+  "version": "0.10.1",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/deno_semver",
+  "source": "https://static.crates.io/crates/deno_semver/deno_semver-0.10.1.crate",
+  "sha256": "ff487e9bf55c39bfbc47418a009a0de0988c4fea5e48e8ca787fa7dbff8056cc",
+  "files": [
+    "LICENSE"
+  ]
+}

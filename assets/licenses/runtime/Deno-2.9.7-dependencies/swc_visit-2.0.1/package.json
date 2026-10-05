@@ -1,0 +1,14 @@
+{
+  "name": "swc_visit",
+  "version": "2.0.1",
+  "license": "Apache-2.0",
+  "authors": [
+    "\uac15\ub3d9\uc724 <kdy1997.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/swc-project/swc.git",
+  "source": "https://static.crates.io/crates/swc_visit/swc_visit-2.0.1.crate",
+  "sha256": "62fb71484b486c185e34d2172f0eabe7f4722742aad700f426a494bb2de232a2",
+  "files": [],
+  "upstream_commit": "832d537695a07e539660096883fab52bb7f10ecf",
+  "supplemental_notices": []
+}

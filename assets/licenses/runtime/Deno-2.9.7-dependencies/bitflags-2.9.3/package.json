@@ -1,0 +1,15 @@
+{
+  "name": "bitflags",
+  "version": "2.9.3",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "The Rust Project Developers"
+  ],
+  "repository": "https://github.com/bitflags/bitflags",
+  "source": "https://static.crates.io/crates/bitflags/bitflags-2.9.3.crate",
+  "sha256": "34efbcccd345379ca2868b2b2c9d3782e9cc58ba87bc7d79d5b53d9c9ae6f25d",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

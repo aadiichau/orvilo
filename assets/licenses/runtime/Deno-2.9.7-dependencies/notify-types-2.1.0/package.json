@@ -1,0 +1,15 @@
+{
+  "name": "notify-types",
+  "version": "2.1.0",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Daniel Faust <hessijames@gmail.com>"
+  ],
+  "repository": "https://github.com/notify-rs/notify.git",
+  "source": "https://static.crates.io/crates/notify-types/notify-types-2.1.0.crate",
+  "sha256": "42b8cfee0e339a0337359f3c88165702ac6e600dc01c0cc9579a92d62b08477a",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "bsdiff",
+  "version": "0.2.1",
+  "license": "BSD-2-Clause",
+  "authors": [
+    "pieterjan.briers@gmail.com",
+    "Kornel <kornel@geekhood.net>"
+  ],
+  "repository": "https://github.com/space-wizards/bsdiff-rs",
+  "source": "https://static.crates.io/crates/bsdiff/bsdiff-0.2.1.crate",
+  "sha256": "b6709158fe6ca66c1f32eb27b4ae5997c67b0df350ae185831233af3e7a91213",
+  "files": [
+    "LICENSE"
+  ]
+}

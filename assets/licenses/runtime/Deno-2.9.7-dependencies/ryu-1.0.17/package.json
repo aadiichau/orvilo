@@ -1,0 +1,15 @@
+{
+  "name": "ryu",
+  "version": "1.0.17",
+  "license": "Apache-2.0 OR BSL-1.0",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>"
+  ],
+  "repository": "https://github.com/dtolnay/ryu",
+  "source": "https://static.crates.io/crates/ryu/ryu-1.0.17.crate",
+  "sha256": "e86697c916019a8588c99b5fac3cead74ec0b4b819707a682fd4d23fa0ce1ba1",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-BOOST"
+  ]
+}

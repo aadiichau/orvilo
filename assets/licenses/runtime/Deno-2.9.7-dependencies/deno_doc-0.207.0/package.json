@@ -1,0 +1,14 @@
+{
+  "name": "deno_doc",
+  "version": "0.207.0",
+  "license": "MIT",
+  "authors": [
+    "the Deno authors"
+  ],
+  "repository": "https://github.com/denoland/deno_doc",
+  "source": "https://static.crates.io/crates/deno_doc/deno_doc-0.207.0.crate",
+  "sha256": "3be16593d05e9f94267702f8c45adf0b5d335c584e5f0637238ba73f474282f8",
+  "files": [
+    "LICENSE"
+  ]
+}

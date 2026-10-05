@@ -1,0 +1,14 @@
+{
+  "name": "which",
+  "version": "8.0.0",
+  "license": "MIT",
+  "authors": [
+    "Harry Fei <tiziyuanfang@gmail.com>, Jacob Kiesel <jake@bitcrafters.co>"
+  ],
+  "repository": "https://github.com/harryfei/which-rs.git",
+  "source": "https://static.crates.io/crates/which/which-8.0.0.crate",
+  "sha256": "d3fabb953106c3c8eea8306e4393700d7657561cb43122571b172bbfb7c7ba1d",
+  "files": [
+    "LICENSE.txt"
+  ]
+}

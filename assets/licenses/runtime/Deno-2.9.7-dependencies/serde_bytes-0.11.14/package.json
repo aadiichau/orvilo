@@ -1,0 +1,15 @@
+{
+  "name": "serde_bytes",
+  "version": "0.11.14",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "David Tolnay <dtolnay@gmail.com>"
+  ],
+  "repository": "https://github.com/serde-rs/bytes",
+  "source": "https://static.crates.io/crates/serde_bytes/serde_bytes-0.11.14.crate",
+  "sha256": "8b8497c313fd43ab992087548117643f6fcd935cbf36f176ffda0aacf9591734",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

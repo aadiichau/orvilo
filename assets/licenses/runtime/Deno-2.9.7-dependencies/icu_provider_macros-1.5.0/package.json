@@ -1,0 +1,14 @@
+{
+  "name": "icu_provider_macros",
+  "version": "1.5.0",
+  "license": "Unicode-3.0",
+  "authors": [
+    "The ICU4X Project Developers"
+  ],
+  "repository": "https://github.com/unicode-org/icu4x",
+  "source": "https://static.crates.io/crates/icu_provider_macros/icu_provider_macros-1.5.0.crate",
+  "sha256": "1ec89e9337638ecdc08744df490b221a7399bf8d164eb52a665454e60e075ad6",
+  "files": [
+    "LICENSE"
+  ]
+}

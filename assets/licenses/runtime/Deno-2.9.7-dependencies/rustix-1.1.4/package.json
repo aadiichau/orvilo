@@ -1,0 +1,18 @@
+{
+  "name": "rustix",
+  "version": "1.1.4",
+  "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+  "authors": [
+    "Dan Gohman <dev@sunfishcode.online>",
+    "Jakub Konka <kubkon@jakubkonka.com>"
+  ],
+  "repository": "https://github.com/bytecodealliance/rustix",
+  "source": "https://static.crates.io/crates/rustix/rustix-1.1.4.crate",
+  "sha256": "b6fe4565b9518b83ef4f91bb47ce29620ca828bd32cb7e408f0062e9930ba190",
+  "files": [
+    "COPYRIGHT",
+    "LICENSE-APACHE",
+    "LICENSE-Apache-2.0_WITH_LLVM-exception",
+    "LICENSE-MIT"
+  ]
+}

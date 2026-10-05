@@ -1,0 +1,17 @@
+{
+  "name": "glow",
+  "version": "0.17.0",
+  "license": "MIT OR Apache-2.0 OR Zlib",
+  "authors": [
+    "Joshua Groves <josh@joshgroves.com>",
+    "Dzmitry Malyshau <kvarkus@gmail.com>"
+  ],
+  "repository": "https://github.com/grovesNL/glow",
+  "source": "https://static.crates.io/crates/glow/glow-0.17.0.crate",
+  "sha256": "29038e1c483364cc6bb3cf78feee1816002e127c331a1eec55a4d202b9e1adb5",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT",
+    "LICENSE-ZLIB"
+  ]
+}

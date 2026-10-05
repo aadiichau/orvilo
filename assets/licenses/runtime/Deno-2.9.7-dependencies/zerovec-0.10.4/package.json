@@ -1,0 +1,14 @@
+{
+  "name": "zerovec",
+  "version": "0.10.4",
+  "license": "Unicode-3.0",
+  "authors": [
+    "The ICU4X Project Developers"
+  ],
+  "repository": "https://github.com/unicode-org/icu4x",
+  "source": "https://static.crates.io/crates/zerovec/zerovec-0.10.4.crate",
+  "sha256": "aa2b893d79df23bfb12d5461018d408ea19dfafe76c2c7ef6d4eba614f8ff079",
+  "files": [
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "vte",
+  "version": "0.13.1",
+  "license": "Apache-2.0 OR MIT",
+  "authors": [
+    "Joe Wilm <joe@jwilm.com>",
+    "Christian Duerr <contact@christianduerr.com>"
+  ],
+  "repository": "https://github.com/alacritty/vte",
+  "source": "https://static.crates.io/crates/vte/vte-0.13.1.crate",
+  "sha256": "9a0b683b20ef64071ff03745b14391751f6beab06a54347885459b77a3f2caa5",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

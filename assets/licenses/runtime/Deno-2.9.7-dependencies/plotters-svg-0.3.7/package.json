@@ -1,0 +1,14 @@
+{
+  "name": "plotters-svg",
+  "version": "0.3.7",
+  "license": "MIT",
+  "authors": [
+    "Hao Hou <haohou302@gmail.com>"
+  ],
+  "repository": "https://github.com/plotters-rs/plotters.git",
+  "source": "https://static.crates.io/crates/plotters-svg/plotters-svg-0.3.7.crate",
+  "sha256": "51bae2ac328883f7acdfea3d66a7c35751187f870bc81f94563733a154d7a670",
+  "files": [
+    "LICENSE"
+  ]
+}

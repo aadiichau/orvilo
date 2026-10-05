@@ -1,0 +1,14 @@
+{
+  "name": "strum",
+  "version": "0.27.1",
+  "license": "MIT",
+  "authors": [
+    "Peter Glotfelty <peter.glotfelty@microsoft.com>"
+  ],
+  "repository": "https://github.com/Peternator7/strum",
+  "source": "https://static.crates.io/crates/strum/strum-0.27.1.crate",
+  "sha256": "f64def088c51c9510a8579e3c5d67c65349dcf755e5479ad3d010aa6454e2c32",
+  "files": [
+    "LICENSE"
+  ]
+}

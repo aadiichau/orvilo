@@ -1,0 +1,16 @@
+{
+  "name": "zeromq",
+  "version": "0.6.0",
+  "license": "MIT",
+  "authors": [
+    "Alexei Kornienko <alexei.kornienko@gmail.com>",
+    "Ryan Butler <thebutlah@gmail.com>",
+    "Kyle Kelley <rgbkrk@gmail.com>"
+  ],
+  "repository": "https://github.com/zeromq/zmq.rs",
+  "source": "https://static.crates.io/crates/zeromq/zeromq-0.6.0.crate",
+  "sha256": "efb2c254fd8f366755335c9e43b865f8484fe3bd717d65ffe7c3f28852863030",
+  "files": [
+    "LICENSE.md"
+  ]
+}

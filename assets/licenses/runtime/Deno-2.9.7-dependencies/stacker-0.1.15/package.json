@@ -1,0 +1,16 @@
+{
+  "name": "stacker",
+  "version": "0.1.15",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Alex Crichton <alex@alexcrichton.com>",
+    "Simonas Kazlauskas <stacker@kazlauskas.me>"
+  ],
+  "repository": "https://github.com/rust-lang/stacker",
+  "source": "https://static.crates.io/crates/stacker/stacker-0.1.15.crate",
+  "sha256": "c886bd4480155fd3ef527d45e9ac8dd7118a898a46530b7b94c3e21866259fce",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

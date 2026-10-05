@@ -1,0 +1,15 @@
+{
+  "name": "rc2",
+  "version": "0.8.1",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "RustCrypto Developers"
+  ],
+  "repository": "https://github.com/RustCrypto/block-ciphers",
+  "source": "https://static.crates.io/crates/rc2/rc2-0.8.1.crate",
+  "sha256": "62c64daa8e9438b84aaae55010a93f396f8e60e3911590fcba770d04643fc1dd",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

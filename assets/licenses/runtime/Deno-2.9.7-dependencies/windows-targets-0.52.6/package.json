@@ -1,0 +1,15 @@
+{
+  "name": "windows-targets",
+  "version": "0.52.6",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Microsoft"
+  ],
+  "repository": "https://github.com/microsoft/windows-rs",
+  "source": "https://static.crates.io/crates/windows-targets/windows-targets-0.52.6.crate",
+  "sha256": "9b724f72796e036ab90c1021d4780d4d3d648aca59e491e6b98e725b84e99973",
+  "files": [
+    "license-apache-2.0",
+    "license-mit"
+  ]
+}

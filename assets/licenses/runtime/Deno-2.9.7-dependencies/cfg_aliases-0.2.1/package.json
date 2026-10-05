@@ -1,0 +1,15 @@
+{
+  "name": "cfg_aliases",
+  "version": "0.2.1",
+  "license": "MIT",
+  "authors": [
+    "Zicklag <zicklag@katharostech.com>"
+  ],
+  "repository": "https://github.com/katharostech/cfg_aliases",
+  "source": "https://static.crates.io/crates/cfg_aliases/cfg_aliases-0.2.1.crate",
+  "sha256": "613afe47fcd5fac7ccf1db93babcb082c5994d996f20b8b159f2ad1658eb5724",
+  "files": [
+    "LICENSE",
+    "NOTICES.md"
+  ]
+}

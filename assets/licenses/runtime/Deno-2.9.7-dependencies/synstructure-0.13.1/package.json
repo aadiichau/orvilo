@@ -1,0 +1,14 @@
+{
+  "name": "synstructure",
+  "version": "0.13.1",
+  "license": "MIT",
+  "authors": [
+    "Nika Layzell <nika@thelayzells.com>"
+  ],
+  "repository": "https://github.com/mystor/synstructure",
+  "source": "https://static.crates.io/crates/synstructure/synstructure-0.13.1.crate",
+  "sha256": "c8af7666ab7b6390ab78131fb5b0fce11d6b7a6951602017c35fa82800708971",
+  "files": [
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "thread_local",
+  "version": "1.1.8",
+  "license": "MIT OR Apache-2.0",
+  "authors": [
+    "Amanieu d'Antras <amanieu@gmail.com>"
+  ],
+  "repository": "https://github.com/Amanieu/thread_local-rs",
+  "source": "https://static.crates.io/crates/thread_local/thread_local-1.1.8.crate",
+  "sha256": "8b9ef9bad013ada3808854ceac7b46812a6465ba368859a37e2100283d2d719c",
+  "files": [
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ]
+}

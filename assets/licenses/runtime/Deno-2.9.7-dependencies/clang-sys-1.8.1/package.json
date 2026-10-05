@@ -1,0 +1,14 @@
+{
+  "name": "clang-sys",
+  "version": "1.8.1",
+  "license": "Apache-2.0",
+  "authors": [
+    "Kyle Mayes <kyle@mayeses.com>"
+  ],
+  "repository": "https://github.com/KyleMayes/clang-sys",
+  "source": "https://static.crates.io/crates/clang-sys/clang-sys-1.8.1.crate",
+  "sha256": "0b023947811758c97c59bf9d1c188fd619ad4718dcaa767947df1cadb14f39f4",
+  "files": [
+    "LICENSE.txt"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "bytes-str",
+  "version": "0.2.7",
+  "license": "Apache-2.0",
+  "authors": [
+    "Donny <kdy1997.dev@gmail.com>"
+  ],
+  "repository": "https://github.com/dudykr/ddbase.git",
+  "source": "https://static.crates.io/crates/bytes-str/bytes-str-0.2.7.crate",
+  "sha256": "7c60b5ce37e0b883c37eb89f79a1e26fbe9c1081945d024eee93e8d91a7e18b3",
+  "files": [],
+  "upstream_commit": "9155da62e3b85a2d1c495167876754b98295bee6",
+  "supplemental_notices": [
+    {
+      "file": "upstream-LICENSE",
+      "source": "https://raw.githubusercontent.com/dudykr/ddbase/9155da62e3b85a2d1c495167876754b98295bee6/LICENSE"
+    }
+  ]
+}
