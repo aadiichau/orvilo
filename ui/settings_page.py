@@ -102,7 +102,7 @@ class SettingsPage(QWidget):
         row.addStretch()
         box.addLayout(row)
         layout.addWidget(engine)
-        layout.addWidget(label("Orvilo 1.0.2  ·  Runs on your computer. No telemetry. No Orvilo account.\nDownload only content you own or have permission to save. DRM-protected streams are not supported.", "caption", True))
+        layout.addWidget(label("Orvilo 1.1.0  ·  Runs on your computer. No telemetry. No Orvilo account.\nDownload only content you own or have permission to save. DRM-protected streams are not supported.", "caption", True))
         layout.addStretch()
 
     def setup_runtime(self) -> None:

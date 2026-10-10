@@ -22,6 +22,19 @@ def test_settings_atomic_validation_and_corruption(tmp_path):
     assert SettingsStore(store.path).get("theme") == "dark"
 
 
+def test_legacy_outputs_keep_mkv_and_new_settings_default_to_mp4(tmp_path):
+    legacy = DownloadOptions.from_dict({"kind": "video", "quality": "1080p"})
+    assert legacy.video_format == "mkv"
+    store = SettingsStore(tmp_path / "settings.json")
+    assert store.download_options().video_format == "mp4"
+    store.update({"video_format": "mov"})
+    assert SettingsStore(store.path).download_options().video_format == "mov"
+    old = store.path.read_bytes()
+    with pytest.raises(ValueError):
+        store.update({"video_format": "unrecognized"})
+    assert store.path.read_bytes() == old
+
+
 def test_history_search_filters_and_deletion(tmp_path):
     media = tmp_path / "file.mkv"
     media.write_bytes(b"test media")

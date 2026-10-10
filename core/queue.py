@@ -104,11 +104,14 @@ class QueueManager(QObject):
             raise ValueError("Paste a complete http:// or https:// video link.")
         validate_options(options)
         # Browser/proxy changes must not allow two workers to write one file.
-        signature_keys = ("kind", "quality", "audio_format", "folder", "organize_by_site",
+        signature_keys = ("kind", "quality", "audio_format", "video_format", "folder", "organize_by_site",
                           "filename_template", "clip_start", "clip_end")
-        signature = tuple(getattr(options, key) for key in signature_keys)
+        def signature_for(candidate: DownloadOptions) -> tuple[Any, ...]:
+            ignored = {"audio_format"} if candidate.kind == "video" else {"quality", "video_format"}
+            return tuple(None if key in ignored else getattr(candidate, key) for key in signature_keys)
+        signature = signature_for(options)
         for current in self.jobs:
-            if current.status not in TERMINAL and current.url == url and signature == tuple(getattr(current.options, key) for key in signature_keys):
+            if current.status not in TERMINAL and current.url == url and signature == signature_for(current.options):
                 self.notice.emit("This download is already in the queue.")
                 return current
         job = Job(url=url, options=replace(options))

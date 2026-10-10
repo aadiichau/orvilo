@@ -21,7 +21,7 @@ Only items your current session can access are available.
 
 | Choice | What it does |
 | --- | --- |
-| Video | Saves the best available video up to the selected resolution, with audio, in an MKV file. |
+| Video | Saves video up to the selected resolution, with audio, in your chosen video format. MP4 is the default. |
 | Audio only | Converts the available audio to MP3, M4A, FLAC, WAV, or Opus. |
 | Clip | Saves a start–end range. Enter seconds, `MM:SS`, or `HH:MM:SS`. |
 | Subtitles | Saves available subtitles as SRT or embeds them in video. Enter language codes such as `en`, `hi`, `en,hi`, or `all`. |
@@ -29,6 +29,33 @@ Only items your current session can access are available.
 
 Open **More options** for clip, subtitle, and artwork controls. Subtitle tracks
 must exist in the language you select; automatic captions depend on the site.
+
+### Pick a video format
+
+| Video format | Best for |
+| --- | --- |
+| MP4 · Premiere | H.264 video, AAC audio, 8-bit 4:2:0 pixels, and constant frame rate for broad editing compatibility. |
+| MOV · H.264 | The same editing codecs in a QuickTime container. |
+| MOV · ProRes 422 | ProRes 422 video with PCM audio for editing; expect much larger files. |
+| MKV · original | Retains the downloaded codecs without an extra video encode. |
+| WebM · VP9 | VP9/Opus for browsers and playback; not the recommended Premiere option. |
+
+Choose **MP4 · Premiere** when you plan to import the video into Premiere.
+The app performs a real conversion, so changing the extension is not enough.
+The detected frame rate becomes constant; the selected resolution is retained
+with at most one pixel of padding where even dimensions are required. HDR is
+tone-mapped to SDR for MP4, MOV/H.264, and WebM; ProRes retains source HDR tags.
+Conversion takes extra time and may slightly change the picture. A ProRes
+conversion does not restore quality that was lost in the source.
+
+These codecs and containers are listed in [Adobe's supported format guide](https://helpx.adobe.com/premiere/desktop/organize-media/import-files/supported-file-formats.html).
+Choose **Save .srt file** to import captions separately into your editor.
+Embedded captions use MOV text for MP4/MOV and WebVTT for WebM. ProRes and WebM
+cover artwork is saved alongside the video.
+
+Your video-format choice is remembered. Queue retries and history re-downloads
+keep the format of that job. Downloads queued by an older app version keep MKV
+so their partial files can still be resumed.
 
 ## Manage the queue
 

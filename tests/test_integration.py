@@ -11,7 +11,10 @@ from PIL import Image
 import pytest
 
 from core.downloader import Control, _runtime, download, probe
+from core.downloader import Cancelled
 from core.models import DownloadOptions
+from core.video_formats import VideoOutputPP
+from yt_dlp import YoutubeDL
 from utils.paths import data_dir
 
 
@@ -90,10 +93,18 @@ def _inspect(local_media, path):
                             "-of", "json", str(path)]).stdout)
 
 
+def _color_tags(local_media, path):
+    """Read decoded tags; FFprobe may omit HDR primaries from stream summaries."""
+    metadata = json.loads(_run([local_media["ffprobe"], "-v", "error", "-select_streams", "V:0",
+                               "-read_intervals", "%+#8", "-show_frames", "-show_entries",
+                               "frame=color_space,color_transfer,color_primaries", "-of", "json", str(path)]).stdout)
+    return metadata["frames"][0]
+
+
 def test_real_video_metadata_subtitles_and_cover(local_media, fixture_plugin, tmp_path):
     events = []
     options = DownloadOptions(folder=str(tmp_path), ffmpeg_path=local_media["ffmpeg"],
-                              subtitles="embed", embed_cover=True, save_thumbnail=True)
+                              video_format="mkv", subtitles="embed", embed_cover=True, save_thumbnail=True)
     preview = probe(fixture_plugin, options)
     assert preview.title == "Local permission-owned fixture"
     assert preview.qualities == [180]
@@ -153,3 +164,108 @@ def test_generic_direct_video_download(local_media, tmp_path):
     result = download(local_media["base"] + "/sample.mp4", options, Control(), lambda _event: None)
     assert Path(result.file_path).is_file()
     assert result.file_size > 0
+
+
+@pytest.mark.parametrize("profile,extension,video_codec,audio_codec,pixel_format", [
+    ("mp4", ".mp4", "h264", "aac", "yuv420p"),
+    ("mov", ".mov", "h264", "aac", "yuv420p"),
+    ("prores", ".mov", "prores", "pcm_s16le", "yuv422p10le"),
+    ("webm", ".webm", "vp9", "opus", "yuv420p"),
+])
+def test_real_video_profiles(local_media, fixture_plugin, tmp_path, profile, extension, video_codec, audio_codec, pixel_format):
+    options = DownloadOptions(video_format=profile, folder=str(tmp_path), ffmpeg_path=local_media["ffmpeg"])
+    result = download(fixture_plugin, options, Control(), lambda _event: None)
+    media = _inspect(local_media, result.file_path)
+    video = next(stream for stream in media["streams"] if stream["codec_type"] == "video")
+    audio = next(stream for stream in media["streams"] if stream["codec_type"] == "audio")
+    assert Path(result.file_path).suffix == extension
+    assert video["codec_name"] == video_codec
+    assert video["pix_fmt"] == pixel_format
+    assert video["r_frame_rate"] == video["avg_frame_rate"] == "25/1"
+    assert audio["codec_name"] == audio_codec
+    assert (video["width"], video["height"]) == (320, 180)
+    assert 3.8 <= float(media["format"]["duration"]) <= 4.2
+    _run([local_media["ffmpeg"], "-v", "error", "-i", result.file_path, "-f", "null", "-"])
+
+
+def test_mp4_keeps_metadata_subtitles_and_cover(local_media, fixture_plugin, tmp_path):
+    options = DownloadOptions(folder=str(tmp_path), ffmpeg_path=local_media["ffmpeg"],
+                              video_format="mp4", subtitles="embed", embed_cover=True)
+    result = download(fixture_plugin, options, Control(), lambda _event: None)
+    media = _inspect(local_media, result.file_path)
+    assert media["format"]["tags"]["title"] == "Local permission-owned fixture"
+    assert any(stream["codec_name"] == "mov_text" for stream in media["streams"])
+    assert any(stream.get("disposition", {}).get("attached_pic") for stream in media["streams"])
+
+
+def test_webm_embeds_captions_and_saves_artwork(local_media, fixture_plugin, tmp_path):
+    options = DownloadOptions(folder=str(tmp_path), ffmpeg_path=local_media["ffmpeg"],
+                              video_format="webm", subtitles="embed", embed_cover=True)
+    result = download(fixture_plugin, options, Control(), lambda _event: None)
+    media = _inspect(local_media, result.file_path)
+    assert any(stream["codec_name"] == "webvtt" for stream in media["streams"])
+    assert list(Path(result.file_path).parent.glob("*.jpg"))
+
+
+def test_vp9_opus_source_becomes_real_h264_aac(local_media, tmp_path):
+    source = local_media["root"] / "vp9.webm"
+    _run([local_media["ffmpeg"], "-v", "error", "-y", "-i", str(local_media["root"] / "sample.mp4"),
+          "-c:v", "libvpx-vp9", "-deadline", "realtime", "-cpu-used", "8", "-c:a", "libopus", str(source)])
+    result = download(local_media["base"] + "/vp9.webm", DownloadOptions(folder=str(tmp_path),
+                      ffmpeg_path=local_media["ffmpeg"], video_format="mp4"), Control(), lambda _event: None)
+    media = _inspect(local_media, result.file_path)
+    assert {stream["codec_name"] for stream in media["streams"]} == {"h264", "aac"}
+    assert Path(result.file_path).suffix == ".mp4"
+
+
+def test_silent_odd_dimensions_convert_without_missing_audio_errors(local_media, tmp_path):
+    source = local_media["root"] / "odd.mkv"
+    _run([local_media["ffmpeg"], "-v", "error", "-y", "-f", "lavfi", "-i", "testsrc=size=321x181:rate=25:duration=1",
+          "-c:v", "libx264", "-preset", "ultrafast", "-pix_fmt", "yuv444p", str(source)])
+    result = download(local_media["base"] + "/odd.mkv", DownloadOptions(folder=str(tmp_path),
+                      ffmpeg_path=local_media["ffmpeg"]), Control(), lambda _event: None)
+    video = _inspect(local_media, result.file_path)["streams"][0]
+    assert video["codec_name"] == "h264" and video["pix_fmt"] == "yuv420p"
+    assert (video["width"], video["height"]) == (322, 182)
+
+
+@pytest.mark.parametrize("profile", ["mp4", "mov", "prores", "webm"])
+def test_hdr_profiles_keep_or_tone_map_color_tags(local_media, tmp_path, profile):
+    source = local_media["root"] / "hdr.mkv"
+    _run([local_media["ffmpeg"], "-v", "error", "-y", "-i", str(local_media["root"] / "sample.mp4"),
+          "-c:v", "libx265", "-preset", "ultrafast", "-pix_fmt", "yuv420p10le", "-color_primaries", "bt2020",
+          "-color_trc", "smpte2084", "-colorspace", "bt2020nc", "-x265-params", "colorprim=9:transfer=16:colormatrix=9",
+          "-t", "1", "-c:a", "copy", str(source)])
+    assert _color_tags(local_media, source)["color_transfer"] == "smpte2084"
+    result = download(local_media["base"] + "/hdr.mkv", DownloadOptions(folder=str(tmp_path),
+                      ffmpeg_path=local_media["ffmpeg"], video_format=profile), Control(), lambda _event: None)
+    video = _inspect(local_media, result.file_path)["streams"][0]
+    assert video["pix_fmt"] == ("yuv422p10le" if profile == "prores" else "yuv420p")
+    assert _color_tags(local_media, result.file_path)["color_transfer"] == ("smpte2084" if profile == "prores" else "bt709")
+
+
+@pytest.mark.parametrize("cancel", [False, True])
+def test_interrupted_conversion_preserves_source_and_existing_output(local_media, tmp_path, monkeypatch, cancel):
+    source = tmp_path / "source.mkv"
+    source.write_bytes((local_media["root"] / "sample.mp4").read_bytes())
+    original = source.read_bytes()
+    destination = source.with_suffix(".mp4")
+    destination.write_bytes(b"existing file must survive")
+    control = Control()
+    with YoutubeDL({"quiet": True, "ffmpeg_location": local_media["ffmpeg"]}) as engine:
+        processor = VideoOutputPP(engine, "mp4", control)
+        encode = processor.run_ffmpeg
+
+        def interrupted(*args):
+            encode(*args)
+            if cancel:
+                control.cancel()
+            else:
+                raise OSError("Simulated conversion publication failure")
+
+        monkeypatch.setattr(processor, "run_ffmpeg", interrupted)
+        with pytest.raises(Cancelled if cancel else OSError):
+            processor.run({"filepath": str(source), "ext": "mkv"})
+    assert source.read_bytes() == original
+    assert destination.read_bytes() == b"existing file must survive"
+    assert not list(tmp_path.glob("*.orvilo-convert.*"))

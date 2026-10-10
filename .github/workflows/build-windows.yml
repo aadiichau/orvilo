@@ -90,8 +90,8 @@ jobs:
             }
           }
           $runtime = Get-Content -LiteralPath (Join-Path $env:RUNNER_TEMP 'orvilo-verify-runtime/runtime-report.json') -Raw | ConvertFrom-Json
-          if (-not $runtime.passed -or $runtime.checks.Count -ne 7) {
-            throw 'The seven packaged media checks did not pass.'
+          if (-not $runtime.passed -or $runtime.checks.Count -ne 11) {
+            throw 'The eleven packaged media checks did not pass.'
           }
           $images = @(Get-ChildItem -LiteralPath (Join-Path $env:RUNNER_TEMP 'orvilo-smoke-test') -Filter '*.png')
           if ($images.Count -ne 8) { throw 'The packaged interface did not render all eight pages.' }

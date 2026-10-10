@@ -1,5 +1,5 @@
 #define AppName "Orvilo"
-#define AppVersion "1.0.2"
+#define AppVersion "1.1.0"
 [Setup]
 AppId={{47B21846-BD41-4126-A371-F3492F997018}
 AppName={#AppName}

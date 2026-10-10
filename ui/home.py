@@ -12,6 +12,7 @@ from PySide6.QtWidgets import (
 
 from core.downloader import Control, probe
 from core.models import DownloadOptions, MediaInfo
+from core.video_formats import VIDEO_FORMATS
 from utils.errors import friendly_error
 from utils.formatting import duration_text, extract_urls, parse_time
 from ui.widgets import Button, EmptyState, TaskRunner, Thumbnail, card, field_row, label, scroll_page
@@ -129,6 +130,12 @@ class HomePage(QWidget):
         self.kind.addItem("Audio only", "audio")
         self.quality = QComboBox()
         self.quality.addItems(["Best", "4K", "1440p", "1080p", "720p", "480p"])
+        self.video_format = QComboBox()
+        self.video_format.setAccessibleName("Video file format")
+        for key, profile in VIDEO_FORMATS.items():
+            self.video_format.addItem(profile.label, key)
+        self.video_format.setCurrentIndex(max(0, self.video_format.findData(settings.get("video_format", "mp4"))))
+        self.video_field = field_row("Video format", self.video_format)
         self.audio_format = QComboBox()
         for value in ("MP3", "M4A", "FLAC", "WAV", "Opus"):
             self.audio_format.addItem(value, value.lower())
@@ -136,12 +143,14 @@ class HomePage(QWidget):
         self.quality_field = field_row("Quality", self.quality)
         choice_row.addWidget(field_row("Save as", self.kind), 1)
         choice_row.addWidget(self.quality_field, 1)
+        choice_row.addWidget(self.video_field, 1)
         choice_row.addWidget(self.audio_field, 1)
         self.audio_field.hide()
         options_layout.addLayout(choice_row)
-        self.format_hint = label("Video saved as MKV · original quality · best available up to your choice", "caption", True)
+        self.format_hint = label("", "caption", True)
         options_layout.addWidget(self.format_hint)
         self.kind.currentIndexChanged.connect(self._kind_changed)
+        self.video_format.currentIndexChanged.connect(self._video_format_changed)
         more = Button("More options", "plus", "ghost")
         more.setCheckable(True)
         more.setAccessibleName("Show clip, subtitle and artwork options")
@@ -178,7 +187,7 @@ class HomePage(QWidget):
         advanced_grid.addWidget(self.save_thumbnail, 2, 1)
         advanced_grid.addWidget(self.embed_metadata, 3, 0)
         advanced_grid.addWidget(self.embed_cover, 3, 1)
-        advanced_grid.addWidget(label("Precise clips may re-encode. Clips require an unlimited speed setting and cannot pause. Audio subtitles and WAV artwork are saved beside the file.", "caption", True), 4, 0, 1, 2)
+        advanced_grid.addWidget(label("Clips require an unlimited speed setting and cannot pause. Audio subtitles and WAV, ProRes or WebM artwork are saved beside the file. Save .srt to import captions into your editor.", "caption", True), 4, 0, 1, 2)
         self.advanced.hide()
         more.toggled.connect(self.advanced.setVisible)
         more.toggled.connect(lambda opened: more.setText("Fewer options" if opened else "More options"))
@@ -219,7 +228,15 @@ class HomePage(QWidget):
         audio = self.kind.currentData() == "audio"
         self.audio_field.setVisible(audio)
         self.quality_field.setVisible(not audio)
-        self.format_hint.setText("Audio conversion uses FFmpeg · lossless output does not restore lost source quality" if audio else "Video saved as MKV · original quality · best available up to your choice")
+        self.video_field.setVisible(not audio)
+        self.format_hint.setText("Audio conversion uses FFmpeg · lossless output does not restore lost source quality" if audio else VIDEO_FORMATS[self.video_format.currentData()].hint)
+
+    def _video_format_changed(self) -> None:
+        self._kind_changed()
+        try:
+            self.settings.update({"video_format": self.video_format.currentData()})
+        except (OSError, ValueError) as error:
+            self.notice.emit(friendly_error(error))
 
     def _text_changed(self) -> None:
         self._generation += 1
@@ -252,7 +269,7 @@ class HomePage(QWidget):
         if end is not None and end <= (start or 0):
             raise ValueError("Clip end must be later than the start.")
         return replace(options, kind=self.kind.currentData(), quality=self.quality.currentText(),
-                       audio_format=self.audio_format.currentData(), clip_start=start, clip_end=end,
+                       audio_format=self.audio_format.currentData(), video_format=self.video_format.currentData(), clip_start=start, clip_end=end,
                        subtitles=self.subtitles.currentData(), subtitle_language=self.language.text().strip() or "en",
                        auto_subtitles=self.auto_subtitles.isChecked(), save_thumbnail=self.save_thumbnail.isChecked(),
                        embed_metadata=self.embed_metadata.isChecked(), embed_cover=self.embed_cover.isChecked())

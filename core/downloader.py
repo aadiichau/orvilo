@@ -15,12 +15,14 @@ from urllib.parse import urlparse, urlunparse
 
 from yt_dlp import YoutubeDL
 from yt_dlp.postprocessor.common import PostProcessor
+from yt_dlp.postprocessor import get_postprocessor
 from yt_dlp.postprocessor.ffmpeg import FFmpegPostProcessor
 from yt_dlp.utils import DownloadError, UnsupportedError
 
 from core.models import DownloadOptions, DownloadResult, MediaInfo
 from core.plugins import load_extractors
 from core.site_adapters import BiliBiliIE, ResilientYoutubeDL
+from core.video_formats import VIDEO_FORMATS, VideoOutputPP
 from utils.paths import asset_path, data_dir
 
 _LOG = logging.getLogger(__name__)
@@ -400,6 +402,8 @@ def _filename(options: DownloadOptions) -> str:
     if not template.endswith(".%(ext)s"):
         raise ValueError("The filename template must end with .%(ext)s.")
     suffix = f" [{options.audio_format.upper() if options.kind == 'audio' else options.quality}]"
+    if options.kind == "video" and (tag := VIDEO_FORMATS[options.video_format].filename_tag):
+        suffix += f" [{tag}]"
     if options.clip_start is not None or options.clip_end is not None:
         start = f"{options.clip_start or 0:g}"
         end = f"{options.clip_end:g}" if options.clip_end is not None else "end"
@@ -417,6 +421,8 @@ def _download_options(options: DownloadOptions, control: Control) -> dict[str, A
         raise ValueError("Choose one of the available video qualities.")
     if options.audio_format not in _AUDIO_FORMATS:
         raise ValueError("Choose MP3, M4A, FLAC, WAV or Opus for audio.")
+    if options.video_format not in VIDEO_FORMATS:
+        raise ValueError("Choose a supported video format.")
     if options.subtitles not in {"none", "save", "embed"}:
         raise ValueError("Choose no subtitles, save subtitles, or embed subtitles.")
     for value in (options.clip_start, options.clip_end):
@@ -455,20 +461,23 @@ def _download_options(options: DownloadOptions, control: Control) -> dict[str, A
         height = _HEIGHTS.get(options.quality)
         ceiling = f"[height<=?{height}]" if height else ""
         params["format"] = f"bestvideo*{ceiling}+bestaudio/best{ceiling}/bestvideo{ceiling}"
-        params["final_ext"] = "mkv"
+        params["final_ext"] = VIDEO_FORMATS[options.video_format].extension
         postprocessors.append({"key": "FFmpegVideoRemuxer", "preferedformat": "mkv"})
+        if options.video_format != "mkv":
+            postprocessors.append({"key": "OrviloVideoOutput", "profile": options.video_format})
     if options.subtitles != "none":
         languages = [part.strip() for part in options.subtitle_language.split(",") if part.strip()]
         params.update({"writesubtitles": True, "writeautomaticsub": options.auto_subtitles,
                        "subtitleslangs": languages or ["en"], "subtitlesformat": "srt/vtt/best"})
-        postprocessors.insert(0, {"key": "FFmpegSubtitlesConvertor", "format": "srt", "when": "before_dl"})
+        subtitle_format = "vtt" if options.kind == "video" and options.video_format == "webm" and options.subtitles == "embed" else "srt"
+        postprocessors.insert(0, {"key": "FFmpegSubtitlesConvertor", "format": subtitle_format, "when": "before_dl"})
         if options.subtitles == "embed" and options.kind == "video":
             postprocessors.append({"key": "FFmpegEmbedSubtitle", "already_have_subtitle": False})
     if options.embed_metadata:
         postprocessors.append({"key": "FFmpegMetadata", "add_metadata": True, "add_chapters": True})
     if options.embed_cover:
-        if options.kind == "audio" and options.audio_format == "wav":
-            _LOG.warning("WAV cover art is saved as a thumbnail alongside the audio file.")
+        if (options.kind == "audio" and options.audio_format == "wav") or (options.kind == "video" and options.video_format in {"webm", "prores"}):
+            _LOG.warning("Artwork for this format is saved as a thumbnail alongside the file.")
         else:
             postprocessors.insert(0, {"key": "FFmpegThumbnailsConvertor", "format": "jpg", "when": "before_dl"})
             postprocessors.append({"key": "EmbedThumbnail", "already_have_thumbnail": options.save_thumbnail})
@@ -586,8 +595,16 @@ def download(
 
     params["progress_hooks"] = [report]
     params["postprocessor_hooks"] = [processing]
+    postprocessors = params.pop("postprocessors")
     captured: list[str] = []
     with _ffmpeg_context(params), _new_ydl(params) as engine:
+        for definition in postprocessors:
+            arguments = dict(definition)
+            key = arguments.pop("key")
+            when = arguments.pop("when", "post_process")
+            processor = (VideoOutputPP(engine, arguments["profile"], control) if key == "OrviloVideoOutput"
+                         else get_postprocessor(key)(engine, **arguments))
+            engine.add_post_processor(processor, when=when)
         info = _resolve_selection(engine, source_url, selection)
         control.checkpoint()
         if info.get("_type") in {"playlist", "multi_video", "compat_list"}:

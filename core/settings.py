@@ -9,6 +9,7 @@ from pathlib import Path
 from typing import Any
 
 from core.models import DownloadOptions
+from core.video_formats import VIDEO_FORMATS
 from utils.paths import data_dir
 
 DEFAULTS: dict[str, Any] = {
@@ -31,6 +32,8 @@ def validate_options(options: DownloadOptions) -> None:
         raise ValueError("Choose a quality from the list.")
     if options.audio_format not in {"mp3", "m4a", "flac", "wav", "opus"}:
         raise ValueError("Choose a supported audio format.")
+    if options.video_format not in VIDEO_FORMATS:
+        raise ValueError("Choose a supported video format.")
     if options.subtitles not in {"none", "save", "embed"}:
         raise ValueError("Choose whether to save or embed subtitles.")
     if options.browser not in {"none", "chrome", "edge", "firefox"}:

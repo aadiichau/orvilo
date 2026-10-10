@@ -39,7 +39,7 @@ into a focused Windows app, with the tools you need and room to breathe.
   <tr>
     <td width="50%" valign="top">
       <h3>Picture or sound</h3>
-      <p>Keep the best available video up to 4K, or save MP3, M4A, FLAC, WAV, or Opus. Choose a clip, add subtitles, and keep the artwork.</p>
+      <p>Choose MP4 for Premiere, MOV, ProRes 422, original-codec MKV, or WebM, up to 4K. Save MP3, M4A, FLAC, WAV, or Opus. Keep a clip, subtitles, and artwork.</p>
     </td>
     <td width="50%" valign="top">
       <h3>A queue that keeps up</h3>
@@ -61,8 +61,8 @@ into a focused Windows app, with the tools you need and room to breathe.
 ## Start in three steps
 
 1. Open the [latest release](https://github.com/aadiichau/orvilo/releases/latest)
-   and download **Orvilo-Setup-1.0.2.exe**. Prefer no installation? Choose
-   **Orvilo-1.0.2-Windows-x64.exe**.
+   and download **Orvilo-Setup-1.1.0.exe**. Prefer no installation? Choose
+   **Orvilo-1.1.0-Windows-x64.exe**.
 2. Run the installer and open Orvilo. Choose **Install FFmpeg** when prompted
    for the one-time video-tools download. Python is included; no terminal or
    manual dependency setup is needed.
@@ -97,26 +97,30 @@ Netscape cookies file is an alternative. Orvilo does not bypass access controls.
 - Resume supported partial downloads; unfinished jobs return paused after restart.
 - Keep settings, history, and thumbnails locally. No Orvilo service receives them.
 
-Video is saved as **MKV** to preserve source codecs and support embedded subtitles.
+Video defaults to **MP4 with H.264/AAC and a constant frame rate**, aimed at
+Premiere and other editors. MOV/H.264 and MOV/ProRes 422 are also available.
+Choose MKV to preserve the original codecs, or WebM for VP9/Opus playback.
+Editing profiles re-encode; ProRes files can be substantially larger.
 Quality choices are a maximum resolution, not an upscaling request. Clips and
 FFmpeg processing have different pause, cancellation, and speed-limit behavior;
 the [quick guide](docs/GUIDE.md#transfer-and-format-details) explains those limits.
 
-## New in 1.0.2
+## New in 1.1.0
 
-Bilibili downloads recover more reliably from interrupted transfers. Orvilo now
-keeps the backup servers supplied by Bilibili and resumes the same stream there
-when its primary server fails. Existing partial files can be kept and retried.
+Pick a video format beside the quality selector. MP4 and MOV outputs contain
+H.264/AAC, even when the site provides VP9, AV1, or HEVC. The ProRes 422 option
+creates MOV files with PCM audio for editing. Existing queue and history entries
+retain their original format; new downloads start with MP4.
 
-[Read the release notes →](docs/RELEASE_NOTES_1.0.2.md)
+[Read the release notes →](docs/RELEASE_NOTES_1.1.0.md)
 
 ## Open source, locally run
 
 Built with **Python · PySide6 · yt-dlp · FFmpeg · SQLite**.
 The [development guide](docs/DEVELOPMENT.md) covers one-command setup, packaging,
 tests, custom site extractors, and themes. The download implementation was
-checked with 51 automated tests, packaged runtime checks, and a live Bilibili
-regression; see [validation notes](docs/RELEASE_NOTES_1.0.2.md#validation).
+checked with 67 automated tests, packaged runtime checks, and a live Bilibili
+regression; see [validation notes](docs/RELEASE_NOTES_1.1.0.md#validation).
 
 Need help? Start with [troubleshooting](docs/GUIDE.md#troubleshooting), then
 [open an issue](https://github.com/aadiichau/orvilo/issues). Include the app version

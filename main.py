@@ -41,7 +41,7 @@ def main() -> int:
     os.environ.setdefault("DENO_NO_UPDATE_CHECK", "1")
     app.setApplicationName("Orvilo")
     app.setOrganizationName("Orvilo")
-    app.setApplicationVersion("1.0.2")
+    app.setApplicationVersion("1.1.0")
     app.setFont(QFont("Segoe UI Variable", 10))
     app.setWindowIcon(QIcon(str(asset_path("logo.ico"))))
     if sys.platform == "win32":

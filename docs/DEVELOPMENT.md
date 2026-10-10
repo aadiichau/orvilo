@@ -61,9 +61,9 @@ For an installer, install [Inno Setup 6](https://jrsoftware.org/isinfo.php), the
 powershell -NoProfile -ExecutionPolicy Bypass -File .\build.ps1 -Installer
 ```
 
-This also produces `dist/Orvilo-Setup-1.0.2.exe`. Installation is per user, with a
+This also produces `dist/Orvilo-Setup-1.1.0.exe`. Installation is per user, with a
 Start menu entry and an optional desktop shortcut. The public portable download
-is named `Orvilo-1.0.2-Windows-x64.exe`.
+is named `Orvilo-1.1.0-Windows-x64.exe`.
 
 For a diagnostic build with a console, set `$env:ORVILO_DEBUG = '1'` before
 building; remove it for normal builds. Signing a Windows executable requires
@@ -171,6 +171,6 @@ Screenshots and media diagnostics use isolated data folders. The public build
 does not bundle FFmpeg, and isolated checks do not inherit your normal Settings
 folder, so pass the video-tool folder explicitly with `--ffmpeg-path`. It must
 contain both FFmpeg and FFprobe. The runtime check writes `runtime-report.json`
-after exercising the real libraries and executables with seven generated
+after exercising the real libraries and executables with eleven generated
 video/audio/clip variants. These checks do not assert live compatibility with
 every third-party website.

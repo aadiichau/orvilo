@@ -84,3 +84,27 @@ def test_queue_restores_paused_without_starting_network(app, tmp_path):
     assert restored.is_idle()
     restored.shutdown()
     history.close()
+
+
+def test_queue_keeps_different_video_profiles_as_separate_jobs(app, tmp_path):
+    from dataclasses import replace
+    from core.downloader import _filename
+
+    settings = SettingsStore()
+    settings.update({"download_folder": str(tmp_path)})
+    history = HistoryStore()
+    queue = QueueManager(settings, history)
+    queue._parallel = 0
+    options = settings.download_options()
+    jobs = [queue.enqueue("https://example.com/video", replace(options, video_format=profile))
+            for profile in ("mp4", "mov", "prores", "mkv", "webm")]
+    assert len({job.id for job in jobs}) == 5
+    assert len({_filename(job.options) for job in jobs}) == 5
+    assert queue.enqueue(jobs[0].url, options).id == jobs[0].id
+    audio = queue.enqueue(jobs[0].url, replace(options, kind="audio"))
+    assert queue.enqueue(jobs[0].url, replace(options, kind="audio", video_format="prores", quality="480p")).id == audio.id
+    queue.shutdown()
+    restored = QueueManager(settings, history)
+    assert [job.options.video_format for job in restored.jobs if job.options.kind == "video"] == ["mp4", "mov", "prores", "mkv", "webm"]
+    restored.shutdown()
+    history.close()

@@ -120,7 +120,7 @@ class MainWindow(QMainWindow):
             self.nav.append(button)
         side.addStretch()
         side.addWidget(label("Made for keeping.", "caption"))
-        side.addWidget(label("Orvilo 1.0.2", "caption"))
+        side.addWidget(label("Orvilo 1.1.0", "caption"))
         body.addWidget(sidebar)
         main = QWidget()
         content = QVBoxLayout(main)

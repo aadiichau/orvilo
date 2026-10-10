@@ -58,7 +58,8 @@ class JobCard(QWidget):
         self.title.setText(job.title)
         self.thumbnail.load(job.thumbnail)
         quality = job.options.audio_format.upper() if job.options.kind == "audio" else job.options.quality
-        self.detail.setText(" · ".join(filter(None, (job.site, quality, job.options.kind.title()))))
+        output = job.options.audio_format.upper() if job.options.kind == "audio" else ("MOV ProRes" if job.options.video_format == "prores" else job.options.video_format.upper())
+        self.detail.setText(" · ".join(filter(None, (job.site, quality, output))))
         busy = job.status in {"extracting", "processing", "cancelling"}
         if busy:
             self.animation.stop()

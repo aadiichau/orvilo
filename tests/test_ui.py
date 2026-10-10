@@ -37,8 +37,15 @@ def test_preview_selection_queue_and_settings(app, tmp_path, monkeypatch):
     window.home._begin_probe()
     spin(app, lambda: window.home.entries.count() == 2)
     window.home.entries.item(0).setCheckState(Qt.CheckState.Unchecked)
+    window.home.video_format.setCurrentIndex(window.home.video_format.findData("prores"))
     QTest.mouseClick(window.home.download_button, Qt.MouseButton.LeftButton)
     assert len(queue.jobs) == 1 and queue.jobs[0].url == two.url
+    assert queue.jobs[0].options.video_format == "prores"
+    assert SettingsStore().get("video_format") == "prores"
+    window.home.kind.setCurrentIndex(window.home.kind.findData("audio"))
+    assert window.home.video_field.isHidden() and not window.home.audio_field.isHidden()
+    window.home.kind.setCurrentIndex(window.home.kind.findData("video"))
+    assert not window.home.video_field.isHidden()
     assert window.stack.currentIndex() == 1
     assert queue.jobs[0].id in window.queue_page.rows
     queue.pause(queue.jobs[0].id)

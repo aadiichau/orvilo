@@ -14,6 +14,7 @@ class DownloadOptions:
     kind: str = "video"
     quality: str = "Best"
     audio_format: str = "mp3"
+    video_format: str = "mp4"
     folder: str = ""
     organize_by_site: bool = True
     filename_template: str = "%(title).160B [%(id)s].%(ext)s"
@@ -40,7 +41,10 @@ class DownloadOptions:
     @classmethod
     def from_dict(cls, value: dict[str, Any]) -> DownloadOptions:
         """Load known fields, ignoring fields from newer versions."""
-        return cls(**{k: v for k, v in value.items() if k in cls.__dataclass_fields__})
+        data = {k: v for k, v in value.items() if k in cls.__dataclass_fields__}
+        # Existing queue/history snapshots used MKV and may have partial files.
+        data.setdefault("video_format", "mkv")
+        return cls(**data)
 
 
 @dataclass

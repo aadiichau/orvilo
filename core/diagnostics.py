@@ -13,6 +13,7 @@ from typing import Any
 from core.downloader import Control, _runtime, download
 from core.engine import engine_version
 from core.models import DownloadOptions
+from core.video_formats import VIDEO_FORMATS
 
 
 def verify_runtime(destination: Path, ffmpeg_path: str = "") -> dict[str, Any]:
@@ -43,20 +44,30 @@ def verify_runtime(destination: Path, ffmpeg_path: str = "") -> dict[str, Any]:
     thread.start()
     reports = []
     try:
-        for mode in ("video", "mp3", "m4a", "flac", "wav", "opus", "clip"):
+        for mode in (*VIDEO_FORMATS, "mp3", "m4a", "flac", "wav", "opus", "clip"):
             options = DownloadOptions(folder=str(destination / "downloads"), organize_by_site=False, ffmpeg_path=ffmpeg)
             if mode == "clip":
                 options.clip_start, options.clip_end = 0.5, 2.0
-            elif mode != "video":
+            elif mode in VIDEO_FORMATS:
+                options.video_format = mode
+            else:
                 options.kind, options.audio_format = "audio", mode
             result = download(f"http://127.0.0.1:{server.server_port}/fixture.mp4", options, Control(), lambda _event: None)
             info = json.loads(run([ffprobe, "-v", "error", "-show_format", "-show_streams", "-of", "json", result.file_path]))
             duration = float(info["format"]["duration"])
-            expected = ".mkv" if mode in {"video", "clip"} else "." + mode
+            expected = ".mp4" if mode == "clip" else ("." + VIDEO_FORMATS[mode].extension if mode in VIDEO_FORMATS else "." + mode)
             if Path(result.file_path).suffix != expected or result.file_size <= 0:
                 raise ValueError(f"Runtime verification failed for {mode} output.")
             if mode == "clip" and not 1.3 <= duration <= 1.8:
                 raise ValueError("Runtime verification found an incorrect clip duration.")
+            if mode in VIDEO_FORMATS or mode == "clip":
+                video = next(stream for stream in info["streams"] if stream["codec_type"] == "video")
+                audio = next(stream for stream in info["streams"] if stream["codec_type"] == "audio")
+                codecs = {"mp4": ("h264", "aac"), "mov": ("h264", "aac"), "prores": ("prores", "pcm_s16le"),
+                          "mkv": ("h264", "aac"), "webm": ("vp9", "opus"), "clip": ("h264", "aac")}
+                if (video["codec_name"], audio["codec_name"]) != codecs[mode]:
+                    raise ValueError(f"Runtime verification found incorrect codecs for {mode}.")
+                run([ffmpeg, "-v", "error", "-i", result.file_path, "-f", "null", "-"])
             reports.append({"mode": mode, "file": result.file_path, "size": result.file_size, "duration": duration})
     finally:
         server.shutdown()
